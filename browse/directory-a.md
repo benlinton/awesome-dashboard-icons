@@ -160,6 +160,7 @@
 | argocd | <img src="../icons/argocd.png" alt="argocd" width="50"> |  <img src="../icons/argocd.svg" alt="argocd" width="50"> |
 | ariang | <img src="../icons/ariang.png" alt="ariang" width="50"> |   |
 | ark |  |  <img src="../icons/ark.svg" alt="ark" width="50"> |
+| arlo | <img src="../icons/arlo.png" alt="arlo" width="50"> |   |
 | arm | <img src="../icons/arm.png" alt="arm" width="50"> |  <img src="../icons/arm.svg" alt="arm" width="50"> |
 | arm-workout |  |  <img src="../icons/arm-workout.svg" alt="arm-workout" width="50"> |
 | armorfly-browser |  |  <img src="../icons/armorfly-browser.svg" alt="armorfly-browser" width="50"> |

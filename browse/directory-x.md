@@ -15,6 +15,7 @@
 | xen-orchestra | <img src="../icons/xen-orchestra.png" alt="xen-orchestra" width="50"> |   |
 | xender |  |  <img src="../icons/xender.svg" alt="xender" width="50"> |
 | xenoamp-music-player |  |  <img src="../icons/xenoamp-music-player.svg" alt="xenoamp-music-player" width="50"> |
+| xfinity | <img src="../icons/xfinity.png" alt="xfinity" width="50"> |   |
 | xiaomi-wear |  |  <img src="../icons/xiaomi-wear.svg" alt="xiaomi-wear" width="50"> |
 | xigmanas | <img src="../icons/xigmanas.png" alt="xigmanas" width="50"> |   |
 | ximalaya-fm |  |  <img src="../icons/ximalaya-fm.svg" alt="ximalaya-fm" width="50"> |

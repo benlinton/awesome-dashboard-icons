@@ -4,9 +4,9 @@
 
 # Gallery: X
 
-### PNGs (11 Icons)
+### PNGs (12 Icons)
 
-<img src="../icons/x-light.png" alt="x-light" width="50"> <img src="../icons/x.png" alt="x" width="50"> <img src="../icons/xbackbone.png" alt="xbackbone" width="50"> <img src="../icons/xbrowsersync.png" alt="xbrowsersync" width="50"> <img src="../icons/xcp-ng.png" alt="xcp-ng" width="50"> <img src="../icons/xen-orchestra.png" alt="xen-orchestra" width="50"> <img src="../icons/xigmanas.png" alt="xigmanas" width="50"> <img src="../icons/xmr.png" alt="xmr" width="50"> <img src="../icons/xmrig.png" alt="xmrig" width="50"> <img src="../icons/xteve.png" alt="xteve" width="50"> <img src="../icons/xwiki.png" alt="xwiki" width="50">
+<img src="../icons/x-light.png" alt="x-light" width="50"> <img src="../icons/x.png" alt="x" width="50"> <img src="../icons/xbackbone.png" alt="xbackbone" width="50"> <img src="../icons/xbrowsersync.png" alt="xbrowsersync" width="50"> <img src="../icons/xcp-ng.png" alt="xcp-ng" width="50"> <img src="../icons/xen-orchestra.png" alt="xen-orchestra" width="50"> <img src="../icons/xfinity.png" alt="xfinity" width="50"> <img src="../icons/xigmanas.png" alt="xigmanas" width="50"> <img src="../icons/xmr.png" alt="xmr" width="50"> <img src="../icons/xmrig.png" alt="xmrig" width="50"> <img src="../icons/xteve.png" alt="xteve" width="50"> <img src="../icons/xwiki.png" alt="xwiki" width="50">
 
 ### SVGs (15 Icons)
 

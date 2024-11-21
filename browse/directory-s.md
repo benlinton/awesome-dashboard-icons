@@ -115,6 +115,7 @@
 | simplelogin | <img src="../icons/simplelogin.png" alt="simplelogin" width="50"> |  <img src="../icons/simplelogin.svg" alt="simplelogin" width="50"> |
 | simplenote |  |  <img src="../icons/simplenote.svg" alt="simplenote" width="50"> |
 | simpletextcrypt |  |  <img src="../icons/simpletextcrypt.svg" alt="simpletextcrypt" width="50"> |
+| simplisafe | <img src="../icons/simplisafe.png" alt="simplisafe" width="50"> |   |
 | simply-yoga-free |  |  <img src="../icons/simply-yoga-free.svg" alt="simply-yoga-free" width="50"> |
 | sinusbot | <img src="../icons/sinusbot.png" alt="sinusbot" width="50"> |  <img src="../icons/sinusbot.svg" alt="sinusbot" width="50"> |
 | siyuan | <img src="../icons/siyuan.png" alt="siyuan" width="50"> |   |

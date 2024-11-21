@@ -7,6 +7,7 @@
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
 | abbey-music-player |  |  <img src="../icons/abbey-music-player.svg" alt="abbey-music-player" width="50"> |
+| abiotic-factor | <img src="../icons/abiotic-factor.png" alt="abiotic-factor" width="50"> |   |
 | ac-browser |  |  <img src="../icons/ac-browser.svg" alt="ac-browser" width="50"> |
 | ac3-player |  |  <img src="../icons/ac3-player.svg" alt="ac3-player" width="50"> |
 | ac3-video-player |  |  <img src="../icons/ac3-video-player.svg" alt="ac3-video-player" width="50"> |

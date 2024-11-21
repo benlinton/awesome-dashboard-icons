@@ -157,6 +157,7 @@
 | cookmate |  |  <img src="../icons/cookmate.svg" alt="cookmate" width="50"> |
 | cookpad |  |  <img src="../icons/cookpad.svg" alt="cookpad" width="50"> |
 | coolify | <img src="../icons/coolify.png" alt="coolify" width="50"> |  <img src="../icons/coolify.svg" alt="coolify" width="50"> |
+| core-keepers | <img src="../icons/core-keepers.png" alt="core-keepers" width="50"> |   |
 | coredns | <img src="../icons/coredns.png" alt="coredns" width="50"> |  <img src="../icons/coredns.svg" alt="coredns" width="50"> |
 | coreos | <img src="../icons/coreos.png" alt="coreos" width="50"> |  <img src="../icons/coreos.svg" alt="coreos" width="50"> |
 | corona-warn |  |  <img src="../icons/corona-warn.svg" alt="corona-warn" width="50"> |

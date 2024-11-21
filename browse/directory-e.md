@@ -57,6 +57,7 @@
 | energy-iq |  |  <img src="../icons/energy-iq.svg" alt="energy-iq" width="50"> |
 | enmb |  |  <img src="../icons/enmb.svg" alt="enmb" width="50"> |
 | enpass |  |  <img src="../icons/enpass.svg" alt="enpass" width="50"> |
+| enshrouded | <img src="../icons/enshrouded.png" alt="enshrouded" width="50"> |   |
 | eos-remote |  |  <img src="../icons/eos-remote.svg" alt="eos-remote" width="50"> |
 | epic-games |  |  <img src="../icons/epic-games.svg" alt="epic-games" width="50"> |
 | epson-iprint | <img src="../icons/epson-iprint.png" alt="epson-iprint" width="50"> |   |

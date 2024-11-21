@@ -230,6 +230,7 @@
 | privatebin | <img src="../icons/privatebin.png" alt="privatebin" width="50"> |  <img src="../icons/privatebin.svg" alt="privatebin" width="50"> |
 | productivity-launcher |  |  <img src="../icons/productivity-launcher.svg" alt="productivity-launcher" width="50"> |
 | progressive |  |  <img src="../icons/progressive.svg" alt="progressive" width="50"> |
+| project-zomboid | <img src="../icons/project-zomboid.png" alt="project-zomboid" width="50"> |   |
 | projectsend | <img src="../icons/projectsend.png" alt="projectsend" width="50"> |  <img src="../icons/projectsend.svg" alt="projectsend" width="50"> |
 | prometheus | <img src="../icons/prometheus.png" alt="prometheus" width="50"> |  <img src="../icons/prometheus.svg" alt="prometheus" width="50"> |
 | prosto-radio |  |  <img src="../icons/prosto-radio.svg" alt="prosto-radio" width="50"> |

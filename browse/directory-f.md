@@ -16,6 +16,7 @@
 | facer |  |  <img src="../icons/facer.svg" alt="facer" width="50"> |
 | faceunlock |  |  <img src="../icons/faceunlock.svg" alt="faceunlock" width="50"> |
 | factorio | <img src="../icons/factorio.png" alt="factorio" width="50"> |   |
+| factorio-alt | <img src="../icons/factorio-alt.png" alt="factorio-alt" width="50"> |   |
 | fairemail |  |  <img src="../icons/fairemail.svg" alt="fairemail" width="50"> |
 | falcon-christmas | <img src="../icons/falcon-christmas.png" alt="falcon-christmas" width="50"> |   |
 | far-manager |  |  <img src="../icons/far-manager.svg" alt="far-manager" width="50"> |

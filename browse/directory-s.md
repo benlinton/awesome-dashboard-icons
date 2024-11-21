@@ -35,6 +35,7 @@
 | santander |  |  <img src="../icons/santander.svg" alt="santander" width="50"> |
 | santander-way |  |  <img src="../icons/santander-way.svg" alt="santander-way" width="50"> |
 | satisfactory | <img src="../icons/satisfactory.png" alt="satisfactory" width="50"> |   |
+| satisfactory-alt | <img src="../icons/satisfactory-alt.png" alt="satisfactory-alt" width="50"> |   |
 | satoshiproof |  |  <img src="../icons/satoshiproof.svg" alt="satoshiproof" width="50"> |
 | sber-market |  |  <img src="../icons/sber-market.svg" alt="sber-market" width="50"> |
 | sberbank |  |  <img src="../icons/sberbank.svg" alt="sberbank" width="50"> |

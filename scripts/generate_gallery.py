@@ -14,7 +14,7 @@ def pagination():
     return links
 
 def image_tag(file):
-    return f'<img src="../icons/{file.name}" alt="{file.stem}" width="50">'
+    return f'<img src="../icons/{file.name}" alt="{file.stem}" height="50">'
 
 def gallery(dir, page_id, file_ext):
     if page_id == "#":

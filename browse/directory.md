@@ -23,6 +23,7 @@
 | 4g-browser |  |  <img src="../icons/4g-browser.svg" alt="4g-browser" width="50"> |
 | 4pda |  |  <img src="../icons/4pda.svg" alt="4pda" width="50"> |
 | 5etools | <img src="../icons/5etools.png" alt="5etools" width="50"> |   |
+| 7-days-to-die | <img src="../icons/7-days-to-die.png" alt="7-days-to-die" width="50"> |   |
 | 8g-browser |  |  <img src="../icons/8g-browser.svg" alt="8g-browser" width="50"> |
 | 99 |  |  <img src="../icons/99.svg" alt="99" width="50"> |
 | 99-motorista |  |  <img src="../icons/99-motorista.svg" alt="99-motorista" width="50"> |

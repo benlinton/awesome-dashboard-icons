@@ -7,6 +7,7 @@
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
 | valetudo | <img src="../icons/valetudo.png" alt="valetudo" width="50"> |  <img src="../icons/valetudo.svg" alt="valetudo" width="50"> |
+| valheim | <img src="../icons/valheim.png" alt="valheim" width="50"> |   |
 | vanced-manager |  |  <img src="../icons/vanced-manager.svg" alt="vanced-manager" width="50"> |
 | vault | <img src="../icons/vault.png" alt="vault" width="50"> |  <img src="../icons/vault.svg" alt="vault" width="50"> |
 | vault-light | <img src="../icons/vault-light.png" alt="vault-light" width="50"> |   |

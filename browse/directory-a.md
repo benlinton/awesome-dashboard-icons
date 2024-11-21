@@ -176,6 +176,7 @@
 | astral | <img src="../icons/astral.png" alt="astral" width="50"> |  <img src="../icons/astral.svg" alt="astral" width="50"> |
 | astral-light | <img src="../icons/astral-light.png" alt="astral-light" width="50"> |   |
 | astro |  |  <img src="../icons/astro.svg" alt="astro" width="50"> |
+| astroneer | <img src="../icons/astroneer.png" alt="astroneer" width="50"> |   |
 | asus | <img src="../icons/asus.png" alt="asus" width="50"> |  <img src="../icons/asus.svg" alt="asus" width="50"> |
 | asus-browser |  |  <img src="../icons/asus-browser.svg" alt="asus-browser" width="50"> |
 | asus-light | <img src="../icons/asus-light.png" alt="asus-light" width="50"> |   |

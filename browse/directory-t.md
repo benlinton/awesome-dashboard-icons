@@ -57,7 +57,8 @@
 | terminal | <img src="../icons/terminal.png" alt="terminal" width="50"> |  <img src="../icons/terminal.svg" alt="terminal" width="50"> |
 | termius |  |  <img src="../icons/termius.svg" alt="termius" width="50"> |
 | terraform | <img src="../icons/terraform.png" alt="terraform" width="50"> |  <img src="../icons/terraform.svg" alt="terraform" width="50"> |
-| terraria |  |  <img src="../icons/terraria.svg" alt="terraria" width="50"> |
+| terraria | <img src="../icons/terraria.png" alt="terraria" width="50"> |  <img src="../icons/terraria.svg" alt="terraria" width="50"> |
+| terraria-alt | <img src="../icons/terraria-alt.png" alt="terraria-alt" width="50"> |   |
 | teslamate | <img src="../icons/teslamate.png" alt="teslamate" width="50"> |  <img src="../icons/teslamate.svg" alt="teslamate" width="50"> |
 | tether |  |  <img src="../icons/tether.svg" alt="tether" width="50"> |
 | texaco |  |  <img src="../icons/texaco.svg" alt="texaco" width="50"> |
@@ -67,6 +68,7 @@
 | thanos | <img src="../icons/thanos.png" alt="thanos" width="50"> |  <img src="../icons/thanos.svg" alt="thanos" width="50"> |
 | the-athletic |  |  <img src="../icons/the-athletic.svg" alt="the-athletic" width="50"> |
 | the-bump |  |  <img src="../icons/the-bump.svg" alt="the-bump" width="50"> |
+| the-forest | <img src="../icons/the-forest.png" alt="the-forest" width="50"> |   |
 | the-pirate-bay | <img src="../icons/the-pirate-bay.png" alt="the-pirate-bay" width="50"> |  <img src="../icons/the-pirate-bay.svg" alt="the-pirate-bay" width="50"> |
 | the-proxy-bay | <img src="../icons/the-proxy-bay.png" alt="the-proxy-bay" width="50"> |  <img src="../icons/the-proxy-bay.svg" alt="the-proxy-bay" width="50"> |
 | thefork |  |  <img src="../icons/thefork.svg" alt="thefork" width="50"> |

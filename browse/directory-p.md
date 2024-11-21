@@ -16,6 +16,7 @@
 | palette |  |  <img src="../icons/palette.svg" alt="palette" width="50"> |
 | palo-alto | <img src="../icons/palo-alto.png" alt="palo-alto" width="50"> |  <img src="../icons/palo-alto.svg" alt="palo-alto" width="50"> |
 | paloaltonetworks | <img src="../icons/paloaltonetworks.png" alt="paloaltonetworks" width="50"> |   |
+| palworld | <img src="../icons/palworld.png" alt="palworld" width="50"> |   |
 | pandora |  |  <img src="../icons/pandora.svg" alt="pandora" width="50"> |
 | paperdraw |  |  <img src="../icons/paperdraw.svg" alt="paperdraw" width="50"> |
 | paperless | <img src="../icons/paperless.png" alt="paperless" width="50"> |  <img src="../icons/paperless.svg" alt="paperless" width="50"> |

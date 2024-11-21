@@ -41,6 +41,7 @@
 | vivaldi | <img src="../icons/vivaldi.png" alt="vivaldi" width="50"> |  <img src="../icons/vivaldi.svg" alt="vivaldi" width="50"> |
 | vivaldi-snapshot |  |  <img src="../icons/vivaldi-snapshot.svg" alt="vivaldi-snapshot" width="50"> |
 | vivavideo |  |  <img src="../icons/vivavideo.svg" alt="vivavideo" width="50"> |
+| viviant | <img src="../icons/viviant.png" alt="viviant" width="50"> |   |
 | vk |  |  <img src="../icons/vk.svg" alt="vk" width="50"> |
 | vk-job |  |  <img src="../icons/vk-job.svg" alt="vk-job" width="50"> |
 | vlc |  |  <img src="../icons/vlc.svg" alt="vlc" width="50"> |

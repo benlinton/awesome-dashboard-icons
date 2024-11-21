@@ -81,6 +81,7 @@
 | rif-is-fun |  |  <img src="../icons/rif-is-fun.svg" alt="rif-is-fun" width="50"> |
 | rimgo | <img src="../icons/rimgo.png" alt="rimgo" width="50"> |  <img src="../icons/rimgo.svg" alt="rimgo" width="50"> |
 | rimgo-light | <img src="../icons/rimgo-light.png" alt="rimgo-light" width="50"> |   |
+| ring | <img src="../icons/ring.png" alt="ring" width="50"> |   |
 | ringid |  |  <img src="../icons/ringid.svg" alt="ringid" width="50"> |
 | riot | <img src="../icons/riot.png" alt="riot" width="50"> |  <img src="../icons/riot.svg" alt="riot" width="50"> |
 | ripple |  |  <img src="../icons/ripple.svg" alt="ripple" width="50"> |

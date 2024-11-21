@@ -20,6 +20,7 @@
 | lark-player |  |  <img src="../icons/lark-player.svg" alt="lark-player" width="50"> |
 | lastfm |  |  <img src="../icons/lastfm.svg" alt="lastfm" width="50"> |
 | lastpass |  |  <img src="../icons/lastpass.svg" alt="lastpass" width="50"> |
+| launchbox | <img src="../icons/launchbox.png" alt="launchbox" width="50"> |   |
 | lawnchair-launcher |  |  <img src="../icons/lawnchair-launcher.svg" alt="lawnchair-launcher" width="50"> |
 | lawnchair-settings |  |  <img src="../icons/lawnchair-settings.svg" alt="lawnchair-settings" width="50"> |
 | lawnicons |  |  <img src="../icons/lawnicons.svg" alt="lawnicons" width="50"> |

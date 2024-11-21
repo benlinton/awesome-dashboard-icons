@@ -83,6 +83,7 @@
 | etherpad | <img src="../icons/etherpad.png" alt="etherpad" width="50"> |  <img src="../icons/etherpad.svg" alt="etherpad" width="50"> |
 | etsy |  |  <img src="../icons/etsy.svg" alt="etsy" width="50"> |
 | ettercap |  |  <img src="../icons/ettercap.svg" alt="ettercap" width="50"> |
+| eufy | <img src="../icons/eufy.png" alt="eufy" width="50"> |   |
 | eve |  |  <img src="../icons/eve.svg" alt="eve" width="50"> |
 | evebox | <img src="../icons/evebox.png" alt="evebox" width="50"> |   |
 | eventbrite |  |  <img src="../icons/eventbrite.svg" alt="eventbrite" width="50"> |

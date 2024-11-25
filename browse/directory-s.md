@@ -196,6 +196,8 @@
 | soundwire |  |  <img src="../icons/soundwire.svg" alt="soundwire" width="50"> |
 | sourcegraph | <img src="../icons/sourcegraph.png" alt="sourcegraph" width="50"> |  <img src="../icons/sourcegraph.svg" alt="sourcegraph" width="50"> |
 | southern-cross |  |  <img src="../icons/southern-cross.svg" alt="southern-cross" width="50"> |
+| space-engineers | <img src="../icons/space-engineers.png" alt="space-engineers" width="50"> |   |
+| space-engineers-dark | <img src="../icons/space-engineers-dark.png" alt="space-engineers-dark" width="50"> |   |
 | spamassassin | <img src="../icons/spamassassin.png" alt="spamassassin" width="50"> |  <img src="../icons/spamassassin.svg" alt="spamassassin" width="50"> |
 | spar |  |  <img src="../icons/spar.svg" alt="spar" width="50"> |
 | spark |  |  <img src="../icons/spark.svg" alt="spark" width="50"> |

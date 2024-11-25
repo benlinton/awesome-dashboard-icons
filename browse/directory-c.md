@@ -149,6 +149,7 @@
 | comixology |  |  <img src="../icons/comixology.svg" alt="comixology" width="50"> |
 | commafeed | <img src="../icons/commafeed.png" alt="commafeed" width="50"> |  <img src="../icons/commafeed.svg" alt="commafeed" width="50"> |
 | compass |  |  <img src="../icons/compass.svg" alt="compass" width="50"> |
+| conan-exiles | <img src="../icons/conan-exiles.png" alt="conan-exiles" width="50"> |   |
 | concourse | <img src="../icons/concourse.png" alt="concourse" width="50"> |  <img src="../icons/concourse.svg" alt="concourse" width="50"> |
 | connectips |  |  <img src="../icons/connectips.svg" alt="connectips" width="50"> |
 | consul | <img src="../icons/consul.png" alt="consul" width="50"> |  <img src="../icons/consul.svg" alt="consul" width="50"> |

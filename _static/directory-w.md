@@ -94,7 +94,7 @@
 | windows-8 | <img src="../icons/windows-8.png" alt="windows-8" width="50"> |  <img src="../icons/windows-8.svg" alt="windows-8" width="50"> |
 | windows-95 | <img src="../icons/windows-95.png" alt="windows-95" width="50"> |  <img src="../icons/windows-95.svg" alt="windows-95" width="50"> |
 | windows-98 | <img src="../icons/windows-98.png" alt="windows-98" width="50"> |  <img src="../icons/windows-98.svg" alt="windows-98" width="50"> |
-| windows-admin-center |  |   |
+| windows-admin-center | <img src="../icons/windows-admin-center.png" alt="windows-admin-center" width="50"> |   |
 | windows-nt | <img src="../icons/windows-nt.png" alt="windows-nt" width="50"> |   |
 | windows-vista | <img src="../icons/windows-vista.png" alt="windows-vista" width="50"> |   |
 | windows-xp | <img src="../icons/windows-xp.png" alt="windows-xp" width="50"> |   |

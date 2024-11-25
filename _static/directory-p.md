@@ -12,11 +12,12 @@
 | packageradar |  |  <img src="../icons/packageradar.svg" alt="packageradar" width="50"> |
 | packer |  |  <img src="../icons/packer.svg" alt="packer" width="50"> |
 | pagerduty | <img src="../icons/pagerduty.png" alt="pagerduty" width="50"> |  <img src="../icons/pagerduty.svg" alt="pagerduty" width="50"> |
-| pairdrop | <img src="../icons/pairdrop.png" alt="pairdrop" width="50"> |  <img src="../icons/pairdrop.svg" alt="pairdrop" width="50"> |
+| pairdrop |  |  <img src="../icons/pairdrop.svg" alt="pairdrop" width="50"> |
+| pairdrop-light | <img src="../icons/pairdrop-light.png" alt="pairdrop-light" width="50"> |   |
 | palemoon | <img src="../icons/palemoon.png" alt="palemoon" width="50"> |  <img src="../icons/palemoon.svg" alt="palemoon" width="50"> |
 | palette |  |  <img src="../icons/palette.svg" alt="palette" width="50"> |
 | palo-alto | <img src="../icons/palo-alto.png" alt="palo-alto" width="50"> |  <img src="../icons/palo-alto.svg" alt="palo-alto" width="50"> |
-| palo-alto-networks | <img src="../icons/palo-alto-networks.png" alt="palo-alto-networks" width="50"> |  <img src="../icons/palo-alto-networks.svg" alt="palo-alto-networks" width="50"> |
+| palo-alto-networks |  |  <img src="../icons/palo-alto-networks.svg" alt="palo-alto-networks" width="50"> |
 | palworld | <img src="../icons/palworld.png" alt="palworld" width="50"> |   |
 | pandora |  |  <img src="../icons/pandora.svg" alt="pandora" width="50"> |
 | paperdraw |  |  <img src="../icons/paperdraw.svg" alt="paperdraw" width="50"> |
@@ -27,8 +28,8 @@
 | papirus |  |  <img src="../icons/papirus.svg" alt="papirus" width="50"> |
 | papirus-adaptive |  |  <img src="../icons/papirus-adaptive.svg" alt="papirus-adaptive" width="50"> |
 | paramount-plus | <img src="../icons/paramount-plus.png" alt="paramount-plus" width="50"> |  <img src="../icons/paramount-plus.svg" alt="paramount-plus" width="50"> |
-| paramount-plus-alt |  |  <img src="../icons/paramount-plus-alt.svg" alt="paramount-plus-alt" width="50"> |
 | paramount-plus-light | <img src="../icons/paramount-plus-light.png" alt="paramount-plus-light" width="50"> |   |
+| paramount-plus-logo |  |  <img src="../icons/paramount-plus-logo.svg" alt="paramount-plus-logo" width="50"> |
 | parkee |  |  <img src="../icons/parkee.svg" alt="parkee" width="50"> |
 | parkimovil |  |  <img src="../icons/parkimovil.svg" alt="parkimovil" width="50"> |
 | part-db | <img src="../icons/part-db.png" alt="part-db" width="50"> |  <img src="../icons/part-db.svg" alt="part-db" width="50"> |
@@ -102,7 +103,7 @@
 | php | <img src="../icons/php.png" alt="php" width="50"> |  <img src="../icons/php.svg" alt="php" width="50"> |
 | phpipam | <img src="../icons/phpipam.png" alt="phpipam" width="50"> |   |
 | phpldapadmin | <img src="../icons/phpldapadmin.png" alt="phpldapadmin" width="50"> |   |
-| phpmyadmin | <img src="../icons/phpmyadmin.png" alt="phpmyadmin" width="50"> |  <img src="../icons/phpmyadmin.svg" alt="phpmyadmin" width="50"> |
+| phpmyadmin-logo | <img src="../icons/phpmyadmin-logo.png" alt="phpmyadmin-logo" width="50"> |  <img src="../icons/phpmyadmin-logo.svg" alt="phpmyadmin-logo" width="50"> |
 | pi-alert | <img src="../icons/pi-alert.png" alt="pi-alert" width="50"> |   |
 | pi-hole | <img src="../icons/pi-hole.png" alt="pi-hole" width="50"> |  <img src="../icons/pi-hole.svg" alt="pi-hole" width="50"> |
 | pi-hole-unbound | <img src="../icons/pi-hole-unbound.png" alt="pi-hole-unbound" width="50"> |   |
@@ -117,13 +118,13 @@
 | picsur | <img src="../icons/picsur.png" alt="picsur" width="50"> |  <img src="../icons/picsur.svg" alt="picsur" width="50"> |
 | picture-mushroom |  |  <img src="../icons/picture-mushroom.svg" alt="picture-mushroom" width="50"> |
 | picturethis |  |  <img src="../icons/picturethis.svg" alt="picturethis" width="50"> |
-| pigallery2 | <img src="../icons/pigallery2.png" alt="pigallery2" width="50"> |  <img src="../icons/pigallery2.svg" alt="pigallery2" width="50"> |
-| pigallery2-light | <img src="../icons/pigallery2-light.png" alt="pigallery2-light" width="50"> |   |
+| pigallery2 | <img src="../icons/pigallery2.png" alt="pigallery2" width="50"> |   |
+| pigallery2-light | <img src="../icons/pigallery2-light.png" alt="pigallery2-light" width="50"> |  <img src="../icons/pigallery2-light.svg" alt="pigallery2-light" width="50"> |
 | pihole | <img src="../icons/pihole.png" alt="pihole" width="50"> |  <img src="../icons/pihole.svg" alt="pihole" width="50"> |
 | pijaret |  |  <img src="../icons/pijaret.svg" alt="pijaret" width="50"> |
 | pikabu |  |  <img src="../icons/pikabu.svg" alt="pikabu" width="50"> |
-| pikvm | <img src="../icons/pikvm.png" alt="pikvm" width="50"> |  <img src="../icons/pikvm.svg" alt="pikvm" width="50"> |
-| pikvm-light | <img src="../icons/pikvm-light.png" alt="pikvm-light" width="50"> |   |
+| pikvm | <img src="../icons/pikvm.png" alt="pikvm" width="50"> |   |
+| pikvm-light | <img src="../icons/pikvm-light.png" alt="pikvm-light" width="50"> |  <img src="../icons/pikvm-light.svg" alt="pikvm-light" width="50"> |
 | pinchflat | <img src="../icons/pinchflat.png" alt="pinchflat" width="50"> |   |
 | pingdom | <img src="../icons/pingdom.png" alt="pingdom" width="50"> |  <img src="../icons/pingdom.svg" alt="pingdom" width="50"> |
 | pingvin | <img src="../icons/pingvin.png" alt="pingvin" width="50"> |  <img src="../icons/pingvin.svg" alt="pingvin" width="50"> |
@@ -157,11 +158,11 @@
 | playerxtreme |  |  <img src="../icons/playerxtreme.svg" alt="playerxtreme" width="50"> |
 | playo |  |  <img src="../icons/playo.svg" alt="playo" width="50"> |
 | pleroma | <img src="../icons/pleroma.png" alt="pleroma" width="50"> |  <img src="../icons/pleroma.svg" alt="pleroma" width="50"> |
-| plesk | <img src="../icons/plesk.png" alt="plesk" width="50"> |  <img src="../icons/plesk.svg" alt="plesk" width="50"> |
-| plesk-light | <img src="../icons/plesk-light.png" alt="plesk-light" width="50"> |   |
+| plesk | <img src="../icons/plesk.png" alt="plesk" width="50"> |   |
+| plesk-light | <img src="../icons/plesk-light.png" alt="plesk-light" width="50"> |  <img src="../icons/plesk-light.svg" alt="plesk-light" width="50"> |
 | plex | <img src="../icons/plex.png" alt="plex" width="50"> |  <img src="../icons/plex.svg" alt="plex" width="50"> |
-| plex-alt | <img src="../icons/plex-alt.png" alt="plex-alt" width="50"> |  <img src="../icons/plex-alt.svg" alt="plex-alt" width="50"> |
-| plex-alt-light | <img src="../icons/plex-alt-light.png" alt="plex-alt-light" width="50"> |   |
+| plex-logo | <img src="../icons/plex-logo.png" alt="plex-logo" width="50"> |  <img src="../icons/plex-logo.svg" alt="plex-logo" width="50"> |
+| plex-logo-light | <img src="../icons/plex-logo-light.png" alt="plex-logo-light" width="50"> |   |
 | plex-meta-manager | <img src="../icons/plex-meta-manager.png" alt="plex-meta-manager" width="50"> |   |
 | plex-meta-manager-light | <img src="../icons/plex-meta-manager-light.png" alt="plex-meta-manager-light" width="50"> |   |
 | plex-server |  |  <img src="../icons/plex-server.svg" alt="plex-server" width="50"> |
@@ -184,7 +185,7 @@
 | podgrab | <img src="../icons/podgrab.png" alt="podgrab" width="50"> |   |
 | podify | <img src="../icons/podify.png" alt="podify" width="50"> |  <img src="../icons/podify.svg" alt="podify" width="50"> |
 | podman |  |  <img src="../icons/podman.svg" alt="podman" width="50"> |
-| podnapisi | <img src="../icons/podnapisi.png" alt="podnapisi" width="50"> |   |
+| podnapisi-logo | <img src="../icons/podnapisi-logo.png" alt="podnapisi-logo" width="50"> |   |
 | point-blur |  |  <img src="../icons/point-blur.svg" alt="point-blur" width="50"> |
 | pokemon |  |  <img src="../icons/pokemon.svg" alt="pokemon" width="50"> |
 | pokemon-tv |  |  <img src="../icons/pokemon-tv.svg" alt="pokemon-tv" width="50"> |
@@ -225,8 +226,8 @@
 | premium-mobile | <img src="../icons/premium-mobile.png" alt="premium-mobile" width="50"> |   |
 | prey |  |  <img src="../icons/prey.svg" alt="prey" width="50"> |
 | prime |  |  <img src="../icons/prime.svg" alt="prime" width="50"> |
-| prime-video | <img src="../icons/prime-video.png" alt="prime-video" width="50"> |  <img src="../icons/prime-video.svg" alt="prime-video" width="50"> |
-| prime-video-light | <img src="../icons/prime-video-light.png" alt="prime-video-light" width="50"> |   |
+| prime-video-logo | <img src="../icons/prime-video-logo.png" alt="prime-video-logo" width="50"> |  <img src="../icons/prime-video-logo.svg" alt="prime-video-logo" width="50"> |
+| prime-video-logo-light | <img src="../icons/prime-video-logo-light.png" alt="prime-video-logo-light" width="50"> |   |
 | print |  |  <img src="../icons/print.svg" alt="print" width="50"> |
 | printer | <img src="../icons/printer.png" alt="printer" width="50"> |  <img src="../icons/printer.svg" alt="printer" width="50"> |
 | pritunl | <img src="../icons/pritunl.png" alt="pritunl" width="50"> |  <img src="../icons/pritunl.svg" alt="pritunl" width="50"> |
@@ -265,6 +266,7 @@
 | puffin-web-browser |  |  <img src="../icons/puffin-web-browser.svg" alt="puffin-web-browser" width="50"> |
 | puffin-web-browser-pro |  |  <img src="../icons/puffin-web-browser-pro.svg" alt="puffin-web-browser-pro" width="50"> |
 | puffin-web-browser-tv |  |  <img src="../icons/puffin-web-browser-tv.svg" alt="puffin-web-browser-tv" width="50"> |
+| puls |  |  <img src="../icons/puls.svg" alt="puls" width="50"> |
 | pulsar |  |  <img src="../icons/pulsar.svg" alt="pulsar" width="50"> |
 | pulse-music |  |  <img src="../icons/pulse-music.svg" alt="pulse-music" width="50"> |
 | pulse-sms |  |  <img src="../icons/pulse-sms.svg" alt="pulse-sms" width="50"> |

@@ -38,11 +38,11 @@
 | ledger-live |  |  <img src="../icons/ledger-live.svg" alt="ledger-live" width="50"> |
 | left-4-dead-2 | <img src="../icons/left-4-dead-2.png" alt="left-4-dead-2" width="50"> |   |
 | lemmur |  |  <img src="../icons/lemmur.svg" alt="lemmur" width="50"> |
-| lemmy | <img src="../icons/lemmy.png" alt="lemmy" width="50"> |  <img src="../icons/lemmy.svg" alt="lemmy" width="50"> |
-| lemmy-light | <img src="../icons/lemmy-light.png" alt="lemmy-light" width="50"> |   |
+| lemmy | <img src="../icons/lemmy.png" alt="lemmy" width="50"> |   |
+| lemmy-light | <img src="../icons/lemmy-light.png" alt="lemmy-light" width="50"> |  <img src="../icons/lemmy-light.svg" alt="lemmy-light" width="50"> |
 | lemonldap-ng | <img src="../icons/lemonldap-ng.png" alt="lemonldap-ng" width="50"> |   |
 | lemonldapng | <img src="../icons/lemonldapng.png" alt="lemonldapng" width="50"> |   |
-| lenovo |  |  <img src="../icons/lenovo.svg" alt="lenovo" width="50"> |
+| lenovo-logo |  |  <img src="../icons/lenovo-logo.svg" alt="lenovo-logo" width="50"> |
 | lenskart |  |  <img src="../icons/lenskart.svg" alt="lenskart" width="50"> |
 | lenta |  |  <img src="../icons/lenta.svg" alt="lenta" width="50"> |
 | leroy-merlin |  |  <img src="../icons/leroy-merlin.svg" alt="leroy-merlin" width="50"> |
@@ -56,8 +56,8 @@
 | libreav |  |  <img src="../icons/libreav.svg" alt="libreav" width="50"> |
 | libreddit | <img src="../icons/libreddit.png" alt="libreddit" width="50"> |  <img src="../icons/libreddit.svg" alt="libreddit" width="50"> |
 | libremdb | <img src="../icons/libremdb.png" alt="libremdb" width="50"> |   |
-| librenms | <img src="../icons/librenms.png" alt="librenms" width="50"> |  <img src="../icons/librenms.svg" alt="librenms" width="50"> |
-| librenms-light | <img src="../icons/librenms-light.png" alt="librenms-light" width="50"> |   |
+| librenms | <img src="../icons/librenms.png" alt="librenms" width="50"> |   |
+| librenms-light | <img src="../icons/librenms-light.png" alt="librenms-light" width="50"> |  <img src="../icons/librenms-light.svg" alt="librenms-light" width="50"> |
 | libreoffice | <img src="../icons/libreoffice.png" alt="libreoffice" width="50"> |  <img src="../icons/libreoffice.svg" alt="libreoffice" width="50"> |
 | libreoffice-impress-remote |  |  <img src="../icons/libreoffice-impress-remote.svg" alt="libreoffice-impress-remote" width="50"> |
 | librephotos | <img src="../icons/librephotos.png" alt="librephotos" width="50"> |   |

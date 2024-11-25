@@ -35,7 +35,7 @@
 | kde-plasma |  |  <img src="../icons/kde-plasma.svg" alt="kde-plasma" width="50"> |
 | kdv |  |  <img src="../icons/kdv.svg" alt="kdv" width="50"> |
 | keenetic | <img src="../icons/keenetic.png" alt="keenetic" width="50"> |  <img src="../icons/keenetic.svg" alt="keenetic" width="50"> |
-| keenetic-new | <img src="../icons/keenetic-new.png" alt="keenetic-new" width="50"> |  <img src="../icons/keenetic-new.svg" alt="keenetic-new" width="50"> |
+| keenetic-logo | <img src="../icons/keenetic-logo.png" alt="keenetic-logo" width="50"> |  <img src="../icons/keenetic-logo.svg" alt="keenetic-logo" width="50"> |
 | keepass-dx |  |  <img src="../icons/keepass-dx.svg" alt="keepass-dx" width="50"> |
 | keepass2android |  |  <img src="../icons/keepass2android.svg" alt="keepass2android" width="50"> |
 | keepass2android-offline |  |  <img src="../icons/keepass2android-offline.svg" alt="keepass2android-offline" width="50"> |
@@ -48,14 +48,14 @@
 | keybase |  |  <img src="../icons/keybase.svg" alt="keybase" width="50"> |
 | keycloak | <img src="../icons/keycloak.png" alt="keycloak" width="50"> |  <img src="../icons/keycloak.svg" alt="keycloak" width="50"> |
 | keyoxide | <img src="../icons/keyoxide.png" alt="keyoxide" width="50"> |  <img src="../icons/keyoxide.svg" alt="keyoxide" width="50"> |
-| keyoxide-alt | <img src="../icons/keyoxide-alt.png" alt="keyoxide-alt" width="50"> |  <img src="../icons/keyoxide-alt.svg" alt="keyoxide-alt" width="50"> |
+| keyoxide-blue | <img src="../icons/keyoxide-blue.png" alt="keyoxide-blue" width="50"> |  <img src="../icons/keyoxide-blue.svg" alt="keyoxide-blue" width="50"> |
 | khalti |  |  <img src="../icons/khalti.svg" alt="khalti" width="50"> |
 | khan-academy |  |  <img src="../icons/khan-academy.svg" alt="khan-academy" width="50"> |
 | kibana | <img src="../icons/kibana.png" alt="kibana" width="50"> |  <img src="../icons/kibana.svg" alt="kibana" width="50"> |
 | kick | <img src="../icons/kick.png" alt="kick" width="50"> |  <img src="../icons/kick.svg" alt="kick" width="50"> |
 | kickstarter |  |  <img src="../icons/kickstarter.svg" alt="kickstarter" width="50"> |
 | kids | <img src="../icons/kids.png" alt="kids" width="50"> |   |
-| kids-alt | <img src="../icons/kids-alt.png" alt="kids-alt" width="50"> |   |
+| kids-cow-giraffe | <img src="../icons/kids-cow-giraffe.png" alt="kids-cow-giraffe" width="50"> |   |
 | kimai | <img src="../icons/kimai.png" alt="kimai" width="50"> |  <img src="../icons/kimai.svg" alt="kimai" width="50"> |
 | kinedu |  |  <img src="../icons/kinedu.svg" alt="kinedu" width="50"> |
 | kinemaster |  |  <img src="../icons/kinemaster.svg" alt="kinemaster" width="50"> |

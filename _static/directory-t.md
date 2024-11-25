@@ -53,14 +53,14 @@
 | teleport | <img src="../icons/teleport.png" alt="teleport" width="50"> |  <img src="../icons/teleport.svg" alt="teleport" width="50"> |
 | telkomsel |  |  <img src="../icons/telkomsel.svg" alt="telkomsel" width="50"> |
 | tenable |  |  <img src="../icons/tenable.svg" alt="tenable" width="50"> |
-| tenda | <img src="../icons/tenda.png" alt="tenda" width="50"> |  <img src="../icons/tenda.svg" alt="tenda" width="50"> |
+| tenda-logo | <img src="../icons/tenda-logo.png" alt="tenda-logo" width="50"> |  <img src="../icons/tenda-logo.svg" alt="tenda-logo" width="50"> |
 | terabox |  |  <img src="../icons/terabox.svg" alt="terabox" width="50"> |
 | termbot |  |  <img src="../icons/termbot.svg" alt="termbot" width="50"> |
 | terminal | <img src="../icons/terminal.png" alt="terminal" width="50"> |  <img src="../icons/terminal.svg" alt="terminal" width="50"> |
 | termius |  |  <img src="../icons/termius.svg" alt="termius" width="50"> |
 | terraform | <img src="../icons/terraform.png" alt="terraform" width="50"> |  <img src="../icons/terraform.svg" alt="terraform" width="50"> |
 | terraria | <img src="../icons/terraria.png" alt="terraria" width="50"> |  <img src="../icons/terraria.svg" alt="terraria" width="50"> |
-| terraria-alt | <img src="../icons/terraria-alt.png" alt="terraria-alt" width="50"> |   |
+| terraria-logo | <img src="../icons/terraria-logo.png" alt="terraria-logo" width="50"> |   |
 | teslamate | <img src="../icons/teslamate.png" alt="teslamate" width="50"> |  <img src="../icons/teslamate.svg" alt="teslamate" width="50"> |
 | tether |  |  <img src="../icons/tether.svg" alt="tether" width="50"> |
 | texaco |  |  <img src="../icons/texaco.svg" alt="texaco" width="50"> |
@@ -104,7 +104,8 @@
 | tinkoff |  |  <img src="../icons/tinkoff.svg" alt="tinkoff" width="50"> |
 | tiny-fax |  |  <img src="../icons/tiny-fax.svg" alt="tiny-fax" width="50"> |
 | tiny-tiny-rss | <img src="../icons/tiny-tiny-rss.png" alt="tiny-tiny-rss" width="50"> |  <img src="../icons/tiny-tiny-rss.svg" alt="tiny-tiny-rss" width="50"> |
-| tinypilot | <img src="../icons/tinypilot.png" alt="tinypilot" width="50"> |  <img src="../icons/tinypilot.svg" alt="tinypilot" width="50"> |
+| tinypilot |  |  <img src="../icons/tinypilot.svg" alt="tinypilot" width="50"> |
+| tinypilot-light | <img src="../icons/tinypilot-light.png" alt="tinypilot-light" width="50"> |   |
 | tipi | <img src="../icons/tipi.png" alt="tipi" width="50"> |   |
 | titanium-backup |  |  <img src="../icons/titanium-backup.svg" alt="titanium-backup" width="50"> |
 | tix-id |  |  <img src="../icons/tix-id.svg" alt="tix-id" width="50"> |
@@ -135,7 +136,6 @@
 | trackview |  |  <img src="../icons/trackview.svg" alt="trackview" width="50"> |
 | tradingview |  |  <img src="../icons/tradingview.svg" alt="tradingview" width="50"> |
 | traefik | <img src="../icons/traefik.png" alt="traefik" width="50"> |  <img src="../icons/traefik.svg" alt="traefik" width="50"> |
-| traefik-gopher |  |  <img src="../icons/traefik-gopher.svg" alt="traefik-gopher" width="50"> |
 | traefik-proxy | <img src="../icons/traefik-proxy.png" alt="traefik-proxy" width="50"> |  <img src="../icons/traefik-proxy.svg" alt="traefik-proxy" width="50"> |
 | traggo | <img src="../icons/traggo.png" alt="traggo" width="50"> |  <img src="../icons/traggo.svg" alt="traggo" width="50"> |
 | trakt | <img src="../icons/trakt.png" alt="trakt" width="50"> |  <img src="../icons/trakt.svg" alt="trakt" width="50"> |
@@ -151,7 +151,6 @@
 | trezor |  |  <img src="../icons/trezor.svg" alt="trezor" width="50"> |
 | trezor-white |  |  <img src="../icons/trezor-white.svg" alt="trezor-white" width="50"> |
 | trilium | <img src="../icons/trilium.png" alt="trilium" width="50"> |  <img src="../icons/trilium.svg" alt="trilium" width="50"> |
-| trillium |  |  <img src="../icons/trillium.svg" alt="trillium" width="50"> |
 | trinity |  |  <img src="../icons/trinity.svg" alt="trinity" width="50"> |
 | trivy | <img src="../icons/trivy.png" alt="trivy" width="50"> |   |
 | troddit | <img src="../icons/troddit.png" alt="troddit" width="50"> |   |
@@ -167,7 +166,6 @@
 | trulia |  |  <img src="../icons/trulia.svg" alt="trulia" width="50"> |
 | tube-archivist | <img src="../icons/tube-archivist.png" alt="tube-archivist" width="50"> |   |
 | tube-archivist-light | <img src="../icons/tube-archivist-light.png" alt="tube-archivist-light" width="50"> |   |
-| tubearchivist | <img src="../icons/tubearchivist.png" alt="tubearchivist" width="50"> |   |
 | tubesync | <img src="../icons/tubesync.png" alt="tubesync" width="50"> |  <img src="../icons/tubesync.svg" alt="tubesync" width="50"> |
 | tumblr |  |  <img src="../icons/tumblr.svg" alt="tumblr" width="50"> |
 | tunein |  |  <img src="../icons/tunein.svg" alt="tunein" width="50"> |

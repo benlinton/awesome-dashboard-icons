@@ -45,8 +45,8 @@
 | deluge | <img src="../icons/deluge.png" alt="deluge" width="50"> |  <img src="../icons/deluge.svg" alt="deluge" width="50"> |
 | deno | <img src="../icons/deno.png" alt="deno" width="50"> |  <img src="../icons/deno.svg" alt="deno" width="50"> |
 | deno-light | <img src="../icons/deno-light.png" alt="deno-light" width="50"> |   |
-| denon | <img src="../icons/denon.png" alt="denon" width="50"> |  <img src="../icons/denon.svg" alt="denon" width="50"> |
-| denon-light | <img src="../icons/denon-light.png" alt="denon-light" width="50"> |   |
+| denon-logo | <img src="../icons/denon-logo.png" alt="denon-logo" width="50"> |  <img src="../icons/denon-logo.svg" alt="denon-logo" width="50"> |
+| denon-logo-light | <img src="../icons/denon-logo-light.png" alt="denon-logo-light" width="50"> |   |
 | deployarr | <img src="../icons/deployarr.png" alt="deployarr" width="50"> |  <img src="../icons/deployarr.svg" alt="deployarr" width="50"> |
 | derandom |  |  <img src="../icons/derandom.svg" alt="derandom" width="50"> |
 | detmir |  |  <img src="../icons/detmir.svg" alt="detmir" width="50"> |
@@ -62,8 +62,8 @@
 | difm-radio |  |  <img src="../icons/difm-radio.svg" alt="difm-radio" width="50"> |
 | digid |  |  <img src="../icons/digid.svg" alt="digid" width="50"> |
 | digilocker |  |  <img src="../icons/digilocker.svg" alt="digilocker" width="50"> |
-| digital-ocean | <img src="../icons/digital-ocean.png" alt="digital-ocean" width="50"> |  <img src="../icons/digital-ocean.svg" alt="digital-ocean" width="50"> |
-| digital-ocean-alt |  |  <img src="../icons/digital-ocean-alt.svg" alt="digital-ocean-alt" width="50"> |
+| digital-ocean |  |  <img src="../icons/digital-ocean.svg" alt="digital-ocean" width="50"> |
+| digital-ocean-logo | <img src="../icons/digital-ocean-logo.png" alt="digital-ocean-logo" width="50"> |  <img src="../icons/digital-ocean-logo.svg" alt="digital-ocean-logo" width="50"> |
 | dijital-operator |  |  <img src="../icons/dijital-operator.svg" alt="dijital-operator" width="50"> |
 | dillinger | <img src="../icons/dillinger.png" alt="dillinger" width="50"> |   |
 | dim | <img src="../icons/dim.png" alt="dim" width="50"> |   |
@@ -74,9 +74,9 @@
 | discord | <img src="../icons/discord.png" alt="discord" width="50"> |  <img src="../icons/discord.svg" alt="discord" width="50"> |
 | discourse | <img src="../icons/discourse.png" alt="discourse" width="50"> |  <img src="../icons/discourse.svg" alt="discourse" width="50"> |
 | diskover | <img src="../icons/diskover.png" alt="diskover" width="50"> |   |
-| disney-plus | <img src="../icons/disney-plus.png" alt="disney-plus" width="50"> |  <img src="../icons/disney-plus.svg" alt="disney-plus" width="50"> |
-| disney-plus-alt |  |  <img src="../icons/disney-plus-alt.svg" alt="disney-plus-alt" width="50"> |
-| disney-plus-light | <img src="../icons/disney-plus-light.png" alt="disney-plus-light" width="50"> |   |
+| disney-plus |  |  <img src="../icons/disney-plus.svg" alt="disney-plus" width="50"> |
+| disney-plus-logo | <img src="../icons/disney-plus-logo.png" alt="disney-plus-logo" width="50"> |  <img src="../icons/disney-plus-logo.svg" alt="disney-plus-logo" width="50"> |
+| disney-plus-logo-light | <img src="../icons/disney-plus-logo-light.png" alt="disney-plus-logo-light" width="50"> |   |
 | disney-star-plus |  |  <img src="../icons/disney-star-plus.svg" alt="disney-star-plus" width="50"> |
 | diun | <img src="../icons/diun.png" alt="diun" width="50"> |   |
 | dixy |  |  <img src="../icons/dixy.svg" alt="dixy" width="50"> |
@@ -123,12 +123,12 @@
 | double-take | <img src="../icons/double-take.png" alt="double-take" width="50"> |   |
 | double-twist-player |  |  <img src="../icons/double-twist-player.svg" alt="double-twist-player" width="50"> |
 | dove-icon-pack |  |  <img src="../icons/dove-icon-pack.svg" alt="dove-icon-pack" width="50"> |
-| dovecot | <img src="../icons/dovecot.png" alt="dovecot" width="50"> |  <img src="../icons/dovecot.svg" alt="dovecot" width="50"> |
+| dovecot-logo | <img src="../icons/dovecot-logo.png" alt="dovecot-logo" width="50"> |  <img src="../icons/dovecot-logo.svg" alt="dovecot-logo" width="50"> |
 | dozzle | <img src="../icons/dozzle.png" alt="dozzle" width="50"> |  <img src="../icons/dozzle.svg" alt="dozzle" width="50"> |
 | dpd |  |  <img src="../icons/dpd.svg" alt="dpd" width="50"> |
 | dragonflybsd |  |  <img src="../icons/dragonflybsd.svg" alt="dragonflybsd" width="50"> |
 | draw | <img src="../icons/draw.png" alt="draw" width="50"> |   |
-| draytek | <img src="../icons/draytek.png" alt="draytek" width="50"> |  <img src="../icons/draytek.svg" alt="draytek" width="50"> |
+| draytek-logo | <img src="../icons/draytek-logo.png" alt="draytek-logo" width="50"> |  <img src="../icons/draytek-logo.svg" alt="draytek-logo" width="50"> |
 | dreams-player |  |  <img src="../icons/dreams-player.svg" alt="dreams-player" width="50"> |
 | drink-water-reminder |  |  <img src="../icons/drink-water-reminder.svg" alt="drink-water-reminder" width="50"> |
 | driver-license |  |  <img src="../icons/driver-license.svg" alt="driver-license" width="50"> |
@@ -145,6 +145,7 @@
 | drupe |  |  <img src="../icons/drupe.svg" alt="drupe" width="50"> |
 | drweb |  |  <img src="../icons/drweb.svg" alt="drweb" width="50"> |
 | drweb-mcc |  |  <img src="../icons/drweb-mcc.svg" alt="drweb-mcc" width="50"> |
+| du |  |  <img src="../icons/du.svg" alt="du" width="50"> |
 | dub-music-player |  |  <img src="../icons/dub-music-player.svg" alt="dub-music-player" width="50"> |
 | dub-studio-eq |  |  <img src="../icons/dub-studio-eq.svg" alt="dub-studio-eq" width="50"> |
 | duck-duck-go |  |  <img src="../icons/duck-duck-go.svg" alt="duck-duck-go" width="50"> |

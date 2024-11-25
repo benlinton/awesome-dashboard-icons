@@ -7,7 +7,7 @@
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
 | abbey-music-player |  |  <img src="../icons/abbey-music-player.svg" alt="abbey-music-player" width="50"> |
-| abiotic-factor | <img src="../icons/abiotic-factor.png" alt="abiotic-factor" width="50"> |   |
+| abiotic-factor-logo | <img src="../icons/abiotic-factor-logo.png" alt="abiotic-factor-logo" width="50"> |   |
 | ac-browser |  |  <img src="../icons/ac-browser.svg" alt="ac-browser" width="50"> |
 | ac3-player |  |  <img src="../icons/ac3-player.svg" alt="ac3-player" width="50"> |
 | ac3-video-player |  |  <img src="../icons/ac3-video-player.svg" alt="ac3-video-player" width="50"> |
@@ -61,7 +61,8 @@
 | airnz |  |  <img src="../icons/airnz.svg" alt="airnz" width="50"> |
 | airsonic | <img src="../icons/airsonic.png" alt="airsonic" width="50"> |  <img src="../icons/airsonic.svg" alt="airsonic" width="50"> |
 | airtel | <img src="../icons/airtel.png" alt="airtel" width="50"> |  <img src="../icons/airtel.svg" alt="airtel" width="50"> |
-| airthings | <img src="../icons/airthings.png" alt="airthings" width="50"> |  <img src="../icons/airthings.svg" alt="airthings" width="50"> |
+| airthings | <img src="../icons/airthings.png" alt="airthings" width="50"> |   |
+| airthings-logo |  |  <img src="../icons/airthings-logo.svg" alt="airthings-logo" width="50"> |
 | airvpn | <img src="../icons/airvpn.png" alt="airvpn" width="50"> |  <img src="../icons/airvpn.svg" alt="airvpn" width="50"> |
 | ajustes-de-microg |  |  <img src="../icons/ajustes-de-microg.svg" alt="ajustes-de-microg" width="50"> |
 | al-chan |  |  <img src="../icons/al-chan.svg" alt="al-chan" width="50"> |
@@ -98,12 +99,12 @@
 | amcrest-cloud | <img src="../icons/amcrest-cloud.png" alt="amcrest-cloud" width="50"> |   |
 | amd | <img src="../icons/amd.png" alt="amd" width="50"> |  <img src="../icons/amd.svg" alt="amd" width="50"> |
 | amd-light | <img src="../icons/amd-light.png" alt="amd-light" width="50"> |  <img src="../icons/amd-light.svg" alt="amd-light" width="50"> |
-| amd-wide |  |  <img src="../icons/amd-wide.svg" alt="amd-wide" width="50"> |
+| amd-logo |  |  <img src="../icons/amd-logo.svg" alt="amd-logo" width="50"> |
 | ameixa |  |  <img src="../icons/ameixa.svg" alt="ameixa" width="50"> |
 | ameixa-monochrome |  |  <img src="../icons/ameixa-monochrome.svg" alt="ameixa-monochrome" width="50"> |
 | ami | <img src="../icons/ami.png" alt="ami" width="50"> |   |
-| ami-alt | <img src="../icons/ami-alt.png" alt="ami-alt" width="50"> |  <img src="../icons/ami-alt.svg" alt="ami-alt" width="50"> |
-| ami-alt-light | <img src="../icons/ami-alt-light.png" alt="ami-alt-light" width="50"> |   |
+| ami-logo | <img src="../icons/ami-logo.png" alt="ami-logo" width="50"> |  <img src="../icons/ami-logo.svg" alt="ami-logo" width="50"> |
+| ami-logo-light | <img src="../icons/ami-logo-light.png" alt="ami-logo-light" width="50"> |   |
 | among-us |  |  <img src="../icons/among-us.svg" alt="among-us" width="50"> |
 | amp | <img src="../icons/amp.png" alt="amp" width="50"> |   |
 | ampache | <img src="../icons/ampache.png" alt="ampache" width="50"> |   |
@@ -143,7 +144,6 @@
 | apache-guacamole |  |  <img src="../icons/apache-guacamole.svg" alt="apache-guacamole" width="50"> |
 | apache-httpd |  |  <img src="../icons/apache-httpd.svg" alt="apache-httpd" width="50"> |
 | apache-kafka |  |  <img src="../icons/apache-kafka.svg" alt="apache-kafka" width="50"> |
-| apache-open-office |  |  <img src="../icons/apache-open-office.svg" alt="apache-open-office" width="50"> |
 | apache-openoffice | <img src="../icons/apache-openoffice.png" alt="apache-openoffice" width="50"> |  <img src="../icons/apache-openoffice.svg" alt="apache-openoffice" width="50"> |
 | apache-solr | <img src="../icons/apache-solr.png" alt="apache-solr" width="50"> |  <img src="../icons/apache-solr.svg" alt="apache-solr" width="50"> |
 | apache-subversion | <img src="../icons/apache-subversion.png" alt="apache-subversion" width="50"> |  <img src="../icons/apache-subversion.svg" alt="apache-subversion" width="50"> |
@@ -162,13 +162,13 @@
 | appsddoz-video-player |  |  <img src="../icons/appsddoz-video-player.svg" alt="appsddoz-video-player" width="50"> |
 | apteka-ru |  |  <img src="../icons/apteka-ru.svg" alt="apteka-ru" width="50"> |
 | aptoide |  |  <img src="../icons/aptoide.svg" alt="aptoide" width="50"> |
+| apus |  |  <img src="../icons/apus.svg" alt="apus" width="50"> |
 | apus-browser-pro-video-booster |  |  <img src="../icons/apus-browser-pro-video-booster.svg" alt="apus-browser-pro-video-booster" width="50"> |
 | apus-launcher |  |  <img src="../icons/apus-launcher.svg" alt="apus-launcher" width="50"> |
 | apus-launcher-pro |  |  <img src="../icons/apus-launcher-pro.svg" alt="apus-launcher-pro" width="50"> |
 | ar-zone |  |  <img src="../icons/ar-zone.svg" alt="ar-zone" width="50"> |
 | arc |  |  <img src="../icons/arc.svg" alt="arc" width="50"> |
 | arch | <img src="../icons/arch.png" alt="arch" width="50"> |  <img src="../icons/arch.svg" alt="arch" width="50"> |
-| arch-linux |  |  <img src="../icons/arch-linux.svg" alt="arch-linux" width="50"> |
 | archisteamfarm | <img src="../icons/archisteamfarm.png" alt="archisteamfarm" width="50"> |   |
 | archivebox | <img src="../icons/archivebox.png" alt="archivebox" width="50"> |   |
 | archiveteamwarrior | <img src="../icons/archiveteamwarrior.png" alt="archiveteamwarrior" width="50"> |   |
@@ -183,8 +183,8 @@
 | arm | <img src="../icons/arm.png" alt="arm" width="50"> |  <img src="../icons/arm.svg" alt="arm" width="50"> |
 | arm-workout |  |  <img src="../icons/arm-workout.svg" alt="arm-workout" width="50"> |
 | armorfly-browser |  |  <img src="../icons/armorfly-browser.svg" alt="armorfly-browser" width="50"> |
-| arris | <img src="../icons/arris.png" alt="arris" width="50"> |   |
-| arris-light | <img src="../icons/arris-light.png" alt="arris-light" width="50"> |   |
+| arris-logo | <img src="../icons/arris-logo.png" alt="arris-logo" width="50"> |   |
+| arris-logo-light | <img src="../icons/arris-logo-light.png" alt="arris-logo-light" width="50"> |   |
 | artflow |  |  <img src="../icons/artflow.svg" alt="artflow" width="50"> |
 | artifacthub | <img src="../icons/artifacthub.png" alt="artifacthub" width="50"> |  <img src="../icons/artifacthub.svg" alt="artifacthub" width="50"> |
 | artifactory | <img src="../icons/artifactory.png" alt="artifactory" width="50"> |   |
@@ -205,18 +205,18 @@
 | asus-rog | <img src="../icons/asus-rog.png" alt="asus-rog" width="50"> |  <img src="../icons/asus-rog.svg" alt="asus-rog" width="50"> |
 | asus-router | <img src="../icons/asus-router.png" alt="asus-router" width="50"> |  <img src="../icons/asus-router.svg" alt="asus-router" width="50"> |
 | asustor | <img src="../icons/asustor.png" alt="asustor" width="50"> |  <img src="../icons/asustor.svg" alt="asustor" width="50"> |
-| at-t | <img src="../icons/at-t.png" alt="at-t" width="50"> |  <img src="../icons/at-t.svg" alt="at-t" width="50"> |
 | ata-football |  |  <img src="../icons/ata-football.svg" alt="ata-football" width="50"> |
 | atimetracker |  |  <img src="../icons/atimetracker.svg" alt="atimetracker" width="50"> |
 | atlassian | <img src="../icons/atlassian.png" alt="atlassian" width="50"> |  <img src="../icons/atlassian.svg" alt="atlassian" width="50"> |
 | atlassian-bamboo | <img src="../icons/atlassian-bamboo.png" alt="atlassian-bamboo" width="50"> |  <img src="../icons/atlassian-bamboo.svg" alt="atlassian-bamboo" width="50"> |
 | atlassian-bitbucket |  |  <img src="../icons/atlassian-bitbucket.svg" alt="atlassian-bitbucket" width="50"> |
-| atlassian-confluence | <img src="../icons/atlassian-confluence.png" alt="atlassian-confluence" width="50"> |   |
+| atlassian-confluence | <img src="../icons/atlassian-confluence.png" alt="atlassian-confluence" width="50"> |  <img src="../icons/atlassian-confluence.svg" alt="atlassian-confluence" width="50"> |
 | atlassian-jira | <img src="../icons/atlassian-jira.png" alt="atlassian-jira" width="50"> |  <img src="../icons/atlassian-jira.svg" alt="atlassian-jira" width="50"> |
 | atlassian-opsgenie | <img src="../icons/atlassian-opsgenie.png" alt="atlassian-opsgenie" width="50"> |  <img src="../icons/atlassian-opsgenie.svg" alt="atlassian-opsgenie" width="50"> |
 | atlassian-trello | <img src="../icons/atlassian-trello.png" alt="atlassian-trello" width="50"> |  <img src="../icons/atlassian-trello.svg" alt="atlassian-trello" width="50"> |
 | atmosphere |  |  <img src="../icons/atmosphere.svg" alt="atmosphere" width="50"> |
 | atomic |  |  <img src="../icons/atomic.svg" alt="atomic" width="50"> |
+| att | <img src="../icons/att.png" alt="att" width="50"> |  <img src="../icons/att.svg" alt="att" width="50"> |
 | auchan |  |  <img src="../icons/auchan.svg" alt="auchan" width="50"> |
 | audacity | <img src="../icons/audacity.png" alt="audacity" width="50"> |  <img src="../icons/audacity.svg" alt="audacity" width="50"> |
 | audible |  |  <img src="../icons/audible.svg" alt="audible" width="50"> |
@@ -249,7 +249,7 @@
 | autosync |  |  <img src="../icons/autosync.svg" alt="autosync" width="50"> |
 | autotrader |  |  <img src="../icons/autotrader.svg" alt="autotrader" width="50"> |
 | avg | <img src="../icons/avg.png" alt="avg" width="50"> |   |
-| avigilon | <img src="../icons/avigilon.png" alt="avigilon" width="50"> |  <img src="../icons/avigilon.svg" alt="avigilon" width="50"> |
+| avigilon-logo | <img src="../icons/avigilon-logo.png" alt="avigilon-logo" width="50"> |  <img src="../icons/avigilon-logo.svg" alt="avigilon-logo" width="50"> |
 | avito |  |  <img src="../icons/avito.svg" alt="avito" width="50"> |
 | avmfritzbox | <img src="../icons/avmfritzbox.png" alt="avmfritzbox" width="50"> |  <img src="../icons/avmfritzbox.svg" alt="avmfritzbox" width="50"> |
 | aws | <img src="../icons/aws.png" alt="aws" width="50"> |  <img src="../icons/aws.svg" alt="aws" width="50"> |

@@ -6,7 +6,7 @@
 
 ### PNGs (12 Icons)
 
-<img src="../icons/x-light.png" alt="x-light" height="50"> <img src="../icons/x.png" alt="x" height="50"> <img src="../icons/xbackbone.png" alt="xbackbone" height="50"> <img src="../icons/xbrowsersync.png" alt="xbrowsersync" height="50"> <img src="../icons/xcp-ng.png" alt="xcp-ng" height="50"> <img src="../icons/xen-orchestra.png" alt="xen-orchestra" height="50"> <img src="../icons/xfinity.png" alt="xfinity" height="50"> <img src="../icons/xigmanas.png" alt="xigmanas" height="50"> <img src="../icons/xmr.png" alt="xmr" height="50"> <img src="../icons/xmrig.png" alt="xmrig" height="50"> <img src="../icons/xteve.png" alt="xteve" height="50"> <img src="../icons/xwiki.png" alt="xwiki" height="50">
+<img src="../icons/x-light.png" alt="x-light" height="50"> <img src="../icons/x.png" alt="x" height="50"> <img src="../icons/xbackbone.png" alt="xbackbone" height="50"> <img src="../icons/xbrowsersync.png" alt="xbrowsersync" height="50"> <img src="../icons/xcp-ng.png" alt="xcp-ng" height="50"> <img src="../icons/xen-orchestra.png" alt="xen-orchestra" height="50"> <img src="../icons/xfinity-logo.png" alt="xfinity-logo" height="50"> <img src="../icons/xigmanas.png" alt="xigmanas" height="50"> <img src="../icons/xmr.png" alt="xmr" height="50"> <img src="../icons/xmrig.png" alt="xmrig" height="50"> <img src="../icons/xteve.png" alt="xteve" height="50"> <img src="../icons/xwiki.png" alt="xwiki" height="50">
 
 ### SVGs (19 Icons)
 

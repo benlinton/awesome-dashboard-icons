@@ -18,7 +18,7 @@
 | harvester | <img src="../icons/harvester.png" alt="harvester" width="50"> |  <img src="../icons/harvester.svg" alt="harvester" width="50"> |
 | hashdroid |  |  <img src="../icons/hashdroid.svg" alt="hashdroid" width="50"> |
 | hashicorp |  |  <img src="../icons/hashicorp.svg" alt="hashicorp" width="50"> |
-| hashicorp-dark |  |  <img src="../icons/hashicorp-dark.svg" alt="hashicorp-dark" width="50"> |
+| hashicorp-light |  |  <img src="../icons/hashicorp-light.svg" alt="hashicorp-light" width="50"> |
 | hastypaste | <img src="../icons/hastypaste.png" alt="hastypaste" width="50"> |  <img src="../icons/hastypaste.svg" alt="hastypaste" width="50"> |
 | hasura | <img src="../icons/hasura.png" alt="hasura" width="50"> |  <img src="../icons/hasura.svg" alt="hasura" width="50"> |
 | hatsh | <img src="../icons/hatsh.png" alt="hatsh" width="50"> |  <img src="../icons/hatsh.svg" alt="hatsh" width="50"> |
@@ -97,7 +97,6 @@
 | hp-light |  |  <img src="../icons/hp-light.svg" alt="hp-light" width="50"> |
 | htc-videoplayer |  |  <img src="../icons/htc-videoplayer.svg" alt="htc-videoplayer" width="50"> |
 | html | <img src="../icons/html.png" alt="html" width="50"> |  <img src="../icons/html.svg" alt="html" width="50"> |
-| html5 |  |  <img src="../icons/html5.svg" alt="html5" width="50"> |
 | http-custom |  |  <img src="../icons/http-custom.svg" alt="http-custom" width="50"> |
 | huawei | <img src="../icons/huawei.png" alt="huawei" width="50"> |  <img src="../icons/huawei.svg" alt="huawei" width="50"> |
 | huawei-appgallery |  |  <img src="../icons/huawei-appgallery.svg" alt="huawei-appgallery" width="50"> |

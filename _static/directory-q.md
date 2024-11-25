@@ -12,7 +12,7 @@
 | qinglong | <img src="../icons/qinglong.png" alt="qinglong" width="50"> |  <img src="../icons/qinglong.svg" alt="qinglong" width="50"> |
 | qksms |  |  <img src="../icons/qksms.svg" alt="qksms" width="50"> |
 | qnap | <img src="../icons/qnap.png" alt="qnap" width="50"> |  <img src="../icons/qnap.svg" alt="qnap" width="50"> |
-| qnap-alt | <img src="../icons/qnap-alt.png" alt="qnap-alt" width="50"> |  <img src="../icons/qnap-alt.svg" alt="qnap-alt" width="50"> |
+| qnap-logo | <img src="../icons/qnap-logo.png" alt="qnap-logo" width="50"> |  <img src="../icons/qnap-logo.svg" alt="qnap-logo" width="50"> |
 | qr-scanner |  |  <img src="../icons/qr-scanner.svg" alt="qr-scanner" width="50"> |
 | qrstream |  |  <img src="../icons/qrstream.svg" alt="qrstream" width="50"> |
 | quant-ux | <img src="../icons/quant-ux.png" alt="quant-ux" width="50"> |   |

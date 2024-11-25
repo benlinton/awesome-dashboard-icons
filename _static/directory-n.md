@@ -23,8 +23,8 @@
 | ncell-app |  |  <img src="../icons/ncell-app.svg" alt="ncell-app" width="50"> |
 | ncore | <img src="../icons/ncore.png" alt="ncore" width="50"> |   |
 | nebulo |  |  <img src="../icons/nebulo.svg" alt="nebulo" width="50"> |
-| neko | <img src="../icons/neko.png" alt="neko" width="50"> |  <img src="../icons/neko.svg" alt="neko" width="50"> |
-| neko-light | <img src="../icons/neko-light.png" alt="neko-light" width="50"> |   |
+| neko | <img src="../icons/neko.png" alt="neko" width="50"> |   |
+| neko-light | <img src="../icons/neko-light.png" alt="neko-light" width="50"> |  <img src="../icons/neko-light.svg" alt="neko-light" width="50"> |
 | nekogram |  |  <img src="../icons/nekogram.svg" alt="nekogram" width="50"> |
 | nekogram-x |  |  <img src="../icons/nekogram-x.svg" alt="nekogram-x" width="50"> |
 | neo4j | <img src="../icons/neo4j.png" alt="neo4j" width="50"> |  <img src="../icons/neo4j.svg" alt="neo4j" width="50"> |
@@ -43,7 +43,8 @@
 | netcam-studio | <img src="../icons/netcam-studio.png" alt="netcam-studio" width="50"> |   |
 | netdata | <img src="../icons/netdata.png" alt="netdata" width="50"> |  <img src="../icons/netdata.svg" alt="netdata" width="50"> |
 | netflix | <img src="../icons/netflix.png" alt="netflix" width="50"> |  <img src="../icons/netflix.svg" alt="netflix" width="50"> |
-| netgear | <img src="../icons/netgear.png" alt="netgear" width="50"> |  <img src="../icons/netgear.svg" alt="netgear" width="50"> |
+| netgear | <img src="../icons/netgear.png" alt="netgear" width="50"> |   |
+| netgear-logo |  |  <img src="../icons/netgear-logo.svg" alt="netgear-logo" width="50"> |
 | netgear-orbi | <img src="../icons/netgear-orbi.png" alt="netgear-orbi" width="50"> |   |
 | netguard |  |  <img src="../icons/netguard.svg" alt="netguard" width="50"> |
 | netlify | <img src="../icons/netlify.png" alt="netlify" width="50"> |  <img src="../icons/netlify.svg" alt="netlify" width="50"> |
@@ -120,7 +121,6 @@
 | notification-widget |  |  <img src="../icons/notification-widget.svg" alt="notification-widget" width="50"> |
 | notify-for-mi-band |  |  <img src="../icons/notify-for-mi-band.svg" alt="notify-for-mi-band" width="50"> |
 | notion | <img src="../icons/notion.png" alt="notion" width="50"> |  <img src="../icons/notion.svg" alt="notion" width="50"> |
-| notion-light | <img src="../icons/notion-light.png" alt="notion-light" width="50"> |   |
 | noto |  |  <img src="../icons/noto.svg" alt="noto" width="50"> |
 | nougat-launcher |  |  <img src="../icons/nougat-launcher.svg" alt="nougat-launcher" width="50"> |
 | nova-launcher |  |  <img src="../icons/nova-launcher.svg" alt="nova-launcher" width="50"> |
@@ -140,7 +140,8 @@
 | num |  |  <img src="../icons/num.svg" alt="num" width="50"> |
 | nut | <img src="../icons/nut.png" alt="nut" width="50"> |  <img src="../icons/nut.svg" alt="nut" width="50"> |
 | nutstore |  |  <img src="../icons/nutstore.svg" alt="nutstore" width="50"> |
-| nvidia | <img src="../icons/nvidia.png" alt="nvidia" width="50"> |  <img src="../icons/nvidia.svg" alt="nvidia" width="50"> |
+| nvidia |  |  <img src="../icons/nvidia.svg" alt="nvidia" width="50"> |
+| nvidia-light | <img src="../icons/nvidia-light.png" alt="nvidia-light" width="50"> |   |
 | nvidia-logo |  |  <img src="../icons/nvidia-logo.svg" alt="nvidia-logo" width="50"> |
 | nxfilter | <img src="../icons/nxfilter.png" alt="nxfilter" width="50"> |   |
 | nxlog | <img src="../icons/nxlog.png" alt="nxlog" width="50"> |   |

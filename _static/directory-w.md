@@ -82,10 +82,9 @@
 | wifi-adb |  |  <img src="../icons/wifi-adb.svg" alt="wifi-adb" width="50"> |
 | wifianalyzer |  |  <img src="../icons/wifianalyzer.svg" alt="wifianalyzer" width="50"> |
 | wifiman | <img src="../icons/wifiman.png" alt="wifiman" width="50"> |  <img src="../icons/wifiman.svg" alt="wifiman" width="50"> |
-| wiki-text | <img src="../icons/wiki-text.png" alt="wiki-text" width="50"> |   |
 | wikijs | <img src="../icons/wikijs.png" alt="wikijs" width="50"> |  <img src="../icons/wikijs.svg" alt="wikijs" width="50"> |
-| wikijs-full | <img src="../icons/wikijs-full.png" alt="wikijs-full" width="50"> |  <img src="../icons/wikijs-full.svg" alt="wikijs-full" width="50"> |
-| wikijs-text |  |  <img src="../icons/wikijs-text.svg" alt="wikijs-text" width="50"> |
+| wikijs-logo | <img src="../icons/wikijs-logo.png" alt="wikijs-logo" width="50"> |  <img src="../icons/wikijs-logo.svg" alt="wikijs-logo" width="50"> |
+| wikijs-logo-full | <img src="../icons/wikijs-logo-full.png" alt="wikijs-logo-full" width="50"> |  <img src="../icons/wikijs-logo-full.svg" alt="wikijs-logo-full" width="50"> |
 | wikipedia |  |  <img src="../icons/wikipedia.svg" alt="wikipedia" width="50"> |
 | wildberries |  |  <img src="../icons/wildberries.svg" alt="wildberries" width="50"> |
 | windmill | <img src="../icons/windmill.png" alt="windmill" width="50"> |  <img src="../icons/windmill.svg" alt="windmill" width="50"> |
@@ -95,7 +94,6 @@
 | windows-8 | <img src="../icons/windows-8.png" alt="windows-8" width="50"> |  <img src="../icons/windows-8.svg" alt="windows-8" width="50"> |
 | windows-95 | <img src="../icons/windows-95.png" alt="windows-95" width="50"> |  <img src="../icons/windows-95.svg" alt="windows-95" width="50"> |
 | windows-98 | <img src="../icons/windows-98.png" alt="windows-98" width="50"> |  <img src="../icons/windows-98.svg" alt="windows-98" width="50"> |
-| windows-98-alt | <img src="../icons/windows-98-alt.png" alt="windows-98-alt" width="50"> |   |
 | windows-admin-center |  |   |
 | windows-nt | <img src="../icons/windows-nt.png" alt="windows-nt" width="50"> |   |
 | windows-vista | <img src="../icons/windows-vista.png" alt="windows-vista" width="50"> |   |

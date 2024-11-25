@@ -43,7 +43,7 @@
 | ghostfolio | <img src="../icons/ghostfolio.png" alt="ghostfolio" width="50"> |   |
 | gif-maker-editor |  |  <img src="../icons/gif-maker-editor.svg" alt="gif-maker-editor" width="50"> |
 | gif-me |  |  <img src="../icons/gif-me.svg" alt="gif-me" width="50"> |
-| gigaset | <img src="../icons/gigaset.png" alt="gigaset" width="50"> |  <img src="../icons/gigaset.svg" alt="gigaset" width="50"> |
+| gigaset-logo | <img src="../icons/gigaset-logo.png" alt="gigaset-logo" width="50"> |  <img src="../icons/gigaset-logo.svg" alt="gigaset-logo" width="50"> |
 | gimp |  |  <img src="../icons/gimp.svg" alt="gimp" width="50"> |
 | giphy |  |  <img src="../icons/giphy.svg" alt="giphy" width="50"> |
 | git | <img src="../icons/git.png" alt="git" width="50"> |  <img src="../icons/git.svg" alt="git" width="50"> |
@@ -74,15 +74,14 @@
 | gnu |  |  <img src="../icons/gnu.svg" alt="gnu" width="50"> |
 | gnupg |  |  <img src="../icons/gnupg.svg" alt="gnupg" width="50"> |
 | go | <img src="../icons/go.png" alt="go" width="50"> |  <img src="../icons/go.svg" alt="go" width="50"> |
-| go-blue |  |  <img src="../icons/go-blue.svg" alt="go-blue" width="50"> |
+| go-dark |  |  <img src="../icons/go-dark.svg" alt="go-dark" width="50"> |
 | go-launcher |  |  <img src="../icons/go-launcher.svg" alt="go-launcher" width="50"> |
-| go-light |  |  <img src="../icons/go-light.svg" alt="go-light" width="50"> |
 | go2rtc | <img src="../icons/go2rtc.png" alt="go2rtc" width="50"> |   |
-| go2rtc-alt | <img src="../icons/go2rtc-alt.png" alt="go2rtc-alt" width="50"> |   |
+| go2rtc-logo | <img src="../icons/go2rtc-logo.png" alt="go2rtc-logo" width="50"> |   |
 | goaccess | <img src="../icons/goaccess.png" alt="goaccess" width="50"> |   |
 | gobenefits |  |  <img src="../icons/gobenefits.svg" alt="gobenefits" width="50"> |
 | godaddy | <img src="../icons/godaddy.png" alt="godaddy" width="50"> |  <img src="../icons/godaddy.svg" alt="godaddy" width="50"> |
-| godaddy-alt | <img src="../icons/godaddy-alt.png" alt="godaddy-alt" width="50"> |  <img src="../icons/godaddy-alt.svg" alt="godaddy-alt" width="50"> |
+| godaddy-logo | <img src="../icons/godaddy-logo.png" alt="godaddy-logo" width="50"> |  <img src="../icons/godaddy-logo.svg" alt="godaddy-logo" width="50"> |
 | gogs | <img src="../icons/gogs.png" alt="gogs" width="50"> |  <img src="../icons/gogs.svg" alt="gogs" width="50"> |
 | goibibo |  |  <img src="../icons/goibibo.svg" alt="goibibo" width="50"> |
 | gojek |  |  <img src="../icons/gojek.svg" alt="gojek" width="50"> |
@@ -120,7 +119,7 @@
 | google-home | <img src="../icons/google-home.png" alt="google-home" width="50"> |  <img src="../icons/google-home.svg" alt="google-home" width="50"> |
 | google-keep | <img src="../icons/google-keep.png" alt="google-keep" width="50"> |  <img src="../icons/google-keep.svg" alt="google-keep" width="50"> |
 | google-lens | <img src="../icons/google-lens.png" alt="google-lens" width="50"> |  <img src="../icons/google-lens.svg" alt="google-lens" width="50"> |
-| google-mail | <img src="../icons/google-mail.png" alt="google-mail" width="50"> |   |
+| google-mail | <img src="../icons/google-mail.png" alt="google-mail" width="50"> |  <img src="../icons/google-mail.svg" alt="google-mail" width="50"> |
 | google-maps | <img src="../icons/google-maps.png" alt="google-maps" width="50"> |  <img src="../icons/google-maps.svg" alt="google-maps" width="50"> |
 | google-meet | <img src="../icons/google-meet.png" alt="google-meet" width="50"> |  <img src="../icons/google-meet.svg" alt="google-meet" width="50"> |
 | google-messages | <img src="../icons/google-messages.png" alt="google-messages" width="50"> |  <img src="../icons/google-messages.svg" alt="google-messages" width="50"> |
@@ -144,7 +143,6 @@
 | google-voice | <img src="../icons/google-voice.png" alt="google-voice" width="50"> |  <img src="../icons/google-voice.svg" alt="google-voice" width="50"> |
 | google-wallet | <img src="../icons/google-wallet.png" alt="google-wallet" width="50"> |  <img src="../icons/google-wallet.svg" alt="google-wallet" width="50"> |
 | google-wifi | <img src="../icons/google-wifi.png" alt="google-wifi" width="50"> |  <img src="../icons/google-wifi.svg" alt="google-wifi" width="50"> |
-| googlemail |  |  <img src="../icons/googlemail.svg" alt="googlemail" width="50"> |
 | gopro-quik |  |  <img src="../icons/gopro-quik.svg" alt="gopro-quik" width="50"> |
 | gosuslugi |  |  <img src="../icons/gosuslugi.svg" alt="gosuslugi" width="50"> |
 | gotify | <img src="../icons/gotify.png" alt="gotify" width="50"> |  <img src="../icons/gotify.svg" alt="gotify" width="50"> |
@@ -158,7 +156,7 @@
 | grafana-loki |  |  <img src="../icons/grafana-loki.svg" alt="grafana-loki" width="50"> |
 | grammarly |  |  <img src="../icons/grammarly.svg" alt="grammarly" width="50"> |
 | gramps | <img src="../icons/gramps.png" alt="gramps" width="50"> |  <img src="../icons/gramps.svg" alt="gramps" width="50"> |
-| grandstream | <img src="../icons/grandstream.png" alt="grandstream" width="50"> |  <img src="../icons/grandstream.svg" alt="grandstream" width="50"> |
+| grandstream-logo | <img src="../icons/grandstream-logo.png" alt="grandstream-logo" width="50"> |  <img src="../icons/grandstream-logo.svg" alt="grandstream-logo" width="50"> |
 | graphene-os |  |  <img src="../icons/graphene-os.svg" alt="graphene-os" width="50"> |
 | graphie |  |  <img src="../icons/graphie.svg" alt="graphie" width="50"> |
 | grav | <img src="../icons/grav.png" alt="grav" width="50"> |  <img src="../icons/grav.svg" alt="grav" width="50"> |

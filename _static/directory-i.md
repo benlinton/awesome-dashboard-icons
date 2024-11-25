@@ -11,8 +11,8 @@
 | i2pd | <img src="../icons/i2pd.png" alt="i2pd" width="50"> |  <img src="../icons/i2pd.svg" alt="i2pd" width="50"> |
 | ibispaint-x |  |  <img src="../icons/ibispaint-x.svg" alt="ibispaint-x" width="50"> |
 | ibkr-mobile |  |  <img src="../icons/ibkr-mobile.svg" alt="ibkr-mobile" width="50"> |
-| ibm-8bar |  |  <img src="../icons/ibm-8bar.svg" alt="ibm-8bar" width="50"> |
-| ibm-8bar-dark |  |  <img src="../icons/ibm-8bar-dark.svg" alt="ibm-8bar-dark" width="50"> |
+| ibm |  |  <img src="../icons/ibm.svg" alt="ibm" width="50"> |
+| ibm-dark |  |  <img src="../icons/ibm-dark.svg" alt="ibm-dark" width="50"> |
 | ibm-rebus |  |  <img src="../icons/ibm-rebus.svg" alt="ibm-rebus" width="50"> |
 | ibm-rebus-dark |  |  <img src="../icons/ibm-rebus-dark.svg" alt="ibm-rebus-dark" width="50"> |
 | icarros |  |  <img src="../icons/icarros.svg" alt="icarros" width="50"> |
@@ -58,7 +58,7 @@
 | inshot |  |  <img src="../icons/inshot.svg" alt="inshot" width="50"> |
 | instagram | <img src="../icons/instagram.png" alt="instagram" width="50"> |  <img src="../icons/instagram.svg" alt="instagram" width="50"> |
 | intel |  |  <img src="../icons/intel.svg" alt="intel" width="50"> |
-| intel-circle |  |  <img src="../icons/intel-circle.svg" alt="intel-circle" width="50"> |
+| intel-logo |  |  <img src="../icons/intel-logo.svg" alt="intel-logo" width="50"> |
 | intercept-x |  |  <img src="../icons/intercept-x.svg" alt="intercept-x" width="50"> |
 | inventree | <img src="../icons/inventree.png" alt="inventree" width="50"> |  <img src="../icons/inventree.svg" alt="inventree" width="50"> |
 | invidious | <img src="../icons/invidious.png" alt="invidious" width="50"> |  <img src="../icons/invidious.svg" alt="invidious" width="50"> |
@@ -68,7 +68,8 @@
 | invoiceninja-light | <img src="../icons/invoiceninja-light.png" alt="invoiceninja-light" width="50"> |   |
 | invoke-ai | <img src="../icons/invoke-ai.png" alt="invoke-ai" width="50"> |  <img src="../icons/invoke-ai.svg" alt="invoke-ai" width="50"> |
 | iobroker | <img src="../icons/iobroker.png" alt="iobroker" width="50"> |  <img src="../icons/iobroker.svg" alt="iobroker" width="50"> |
-| ionos | <img src="../icons/ionos.png" alt="ionos" width="50"> |  <img src="../icons/ionos.svg" alt="ionos" width="50"> |
+| ionos |  |  <img src="../icons/ionos.svg" alt="ionos" width="50"> |
+| ionos-dark | <img src="../icons/ionos-dark.png" alt="ionos-dark" width="50"> |   |
 | ionos-light | <img src="../icons/ionos-light.png" alt="ionos-light" width="50"> |   |
 | ipboard | <img src="../icons/ipboard.png" alt="ipboard" width="50"> |  <img src="../icons/ipboard.svg" alt="ipboard" width="50"> |
 | ipcamtalk | <img src="../icons/ipcamtalk.png" alt="ipcamtalk" width="50"> |   |

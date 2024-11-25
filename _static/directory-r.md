@@ -19,12 +19,12 @@
 | rallly | <img src="../icons/rallly.png" alt="rallly" width="50"> |  <img src="../icons/rallly.svg" alt="rallly" width="50"> |
 | rancher | <img src="../icons/rancher.png" alt="rancher" width="50"> |  <img src="../icons/rancher.svg" alt="rancher" width="50"> |
 | raneto | <img src="../icons/raneto.png" alt="raneto" width="50"> |   |
-| rapid7 |  |  <img src="../icons/rapid7.svg" alt="rapid7" width="50"> |
-| rapid7-light |  |  <img src="../icons/rapid7-light.svg" alt="rapid7-light" width="50"> |
+| rapid7-logo |  |  <img src="../icons/rapid7-logo.svg" alt="rapid7-logo" width="50"> |
+| rapid7-logo-light |  |  <img src="../icons/rapid7-logo-light.svg" alt="rapid7-logo-light" width="50"> |
 | rappi |  |  <img src="../icons/rappi.svg" alt="rappi" width="50"> |
 | rar |  |  <img src="../icons/rar.svg" alt="rar" width="50"> |
-| raritan | <img src="../icons/raritan.png" alt="raritan" width="50"> |   |
-| raritan-light | <img src="../icons/raritan-light.png" alt="raritan-light" width="50"> |   |
+| raritan-logo | <img src="../icons/raritan-logo.png" alt="raritan-logo" width="50"> |   |
+| raritan-logo-light | <img src="../icons/raritan-logo-light.png" alt="raritan-logo-light" width="50"> |   |
 | raspap | <img src="../icons/raspap.png" alt="raspap" width="50"> |   |
 | raspberrymatic | <img src="../icons/raspberrymatic.png" alt="raspberrymatic" width="50"> |   |
 | raspberrypi | <img src="../icons/raspberrypi.png" alt="raspberrypi" width="50"> |  <img src="../icons/raspberrypi.svg" alt="raspberrypi" width="50"> |
@@ -73,7 +73,7 @@
 | requestrr | <img src="../icons/requestrr.png" alt="requestrr" width="50"> |  <img src="../icons/requestrr.svg" alt="requestrr" width="50"> |
 | rescuetime |  |  <img src="../icons/rescuetime.svg" alt="rescuetime" width="50"> |
 | resilio-sync |  |  <img src="../icons/resilio-sync.svg" alt="resilio-sync" width="50"> |
-| resiliosync | <img src="../icons/resiliosync.png" alt="resiliosync" width="50"> |  <img src="../icons/resiliosync.svg" alt="resiliosync" width="50"> |
+| resilio-sync-light | <img src="../icons/resilio-sync-light.png" alt="resilio-sync-light" width="50"> |  <img src="../icons/resilio-sync-light.svg" alt="resilio-sync-light" width="50"> |
 | resplash |  |  <img src="../icons/resplash.svg" alt="resplash" width="50"> |
 | restic | <img src="../icons/restic.png" alt="restic" width="50"> |   |
 | retro-music |  |  <img src="../icons/retro-music.svg" alt="retro-music" width="50"> |

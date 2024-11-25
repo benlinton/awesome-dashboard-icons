@@ -8,7 +8,7 @@
 |-----------|-----|-----|
 | obd-auto-doctor |  |  <img src="../icons/obd-auto-doctor.svg" alt="obd-auto-doctor" width="50"> |
 | obico | <img src="../icons/obico.png" alt="obico" width="50"> |  <img src="../icons/obico.svg" alt="obico" width="50"> |
-| obitalk | <img src="../icons/obitalk.png" alt="obitalk" width="50"> |   |
+| obitalk-logo | <img src="../icons/obitalk-logo.png" alt="obitalk-logo" width="50"> |   |
 | obs-studio |  |  <img src="../icons/obs-studio.svg" alt="obs-studio" width="50"> |
 | observium | <img src="../icons/observium.png" alt="observium" width="50"> |   |
 | observo-ai | <img src="../icons/observo-ai.png" alt="observo-ai" width="50"> |   |
@@ -111,6 +111,7 @@
 | oracle | <img src="../icons/oracle.png" alt="oracle" width="50"> |  <img src="../icons/oracle.svg" alt="oracle" width="50"> |
 | oracle-cloud | <img src="../icons/oracle-cloud.png" alt="oracle-cloud" width="50"> |  <img src="../icons/oracle-cloud.svg" alt="oracle-cloud" width="50"> |
 | orange | <img src="../icons/orange.png" alt="orange" width="50"> |  <img src="../icons/orange.svg" alt="orange" width="50"> |
+| orbitum |  |  <img src="../icons/orbitum.svg" alt="orbitum" width="50"> |
 | orbot |  |  <img src="../icons/orbot.svg" alt="orbot" width="50"> |
 | orcaslicer | <img src="../icons/orcaslicer.png" alt="orcaslicer" width="50"> |   |
 | orfox |  |  <img src="../icons/orfox.svg" alt="orfox" width="50"> |
@@ -127,7 +128,8 @@
 | ostin |  |  <img src="../icons/ostin.svg" alt="ostin" width="50"> |
 | otpauth |  |  <img src="../icons/otpauth.svg" alt="otpauth" width="50"> |
 | otter |  |  <img src="../icons/otter.svg" alt="otter" width="50"> |
-| outline | <img src="../icons/outline.png" alt="outline" width="50"> |  <img src="../icons/outline.svg" alt="outline" width="50"> |
+| outline |  |  <img src="../icons/outline.svg" alt="outline" width="50"> |
+| outline-light | <img src="../icons/outline-light.png" alt="outline-light" width="50"> |   |
 | overclockers | <img src="../icons/overclockers.png" alt="overclockers" width="50"> |   |
 | overdrive |  |  <img src="../icons/overdrive.svg" alt="overdrive" width="50"> |
 | overdrop |  |  <img src="../icons/overdrop.svg" alt="overdrop" width="50"> |

@@ -35,7 +35,7 @@
 | santander |  |  <img src="../icons/santander.svg" alt="santander" width="50"> |
 | santander-way |  |  <img src="../icons/santander-way.svg" alt="santander-way" width="50"> |
 | satisfactory | <img src="../icons/satisfactory.png" alt="satisfactory" width="50"> |   |
-| satisfactory-alt | <img src="../icons/satisfactory-alt.png" alt="satisfactory-alt" width="50"> |   |
+| satisfactory-logo | <img src="../icons/satisfactory-logo.png" alt="satisfactory-logo" width="50"> |   |
 | satoshiproof |  |  <img src="../icons/satoshiproof.svg" alt="satoshiproof" width="50"> |
 | sber-market |  |  <img src="../icons/sber-market.svg" alt="sber-market" width="50"> |
 | sberbank |  |  <img src="../icons/sberbank.svg" alt="sberbank" width="50"> |
@@ -126,7 +126,7 @@
 | siyuan | <img src="../icons/siyuan.png" alt="siyuan" width="50"> |   |
 | sketchbook |  |  <img src="../icons/sketchbook.svg" alt="sketchbook" width="50"> |
 | skit-premium |  |  <img src="../icons/skit-premium.svg" alt="skit-premium" width="50"> |
-| skylink-fibernet | <img src="../icons/skylink-fibernet.png" alt="skylink-fibernet" width="50"> |   |
+| skylink-fibernet-logo | <img src="../icons/skylink-fibernet-logo.png" alt="skylink-fibernet-logo" width="50"> |   |
 | skype | <img src="../icons/skype.png" alt="skype" width="50"> |  <img src="../icons/skype.svg" alt="skype" width="50"> |
 | skype-business |  |  <img src="../icons/skype-business.svg" alt="skype-business" width="50"> |
 | skype-lite |  |  <img src="../icons/skype-lite.svg" alt="skype-lite" width="50"> |
@@ -135,8 +135,8 @@
 | sleep-as-android |  |  <img src="../icons/sleep-as-android.svg" alt="sleep-as-android" width="50"> |
 | slice | <img src="../icons/slice.png" alt="slice" width="50"> |  <img src="../icons/slice.svg" alt="slice" width="50"> |
 | slidev | <img src="../icons/slidev.png" alt="slidev" width="50"> |  <img src="../icons/slidev.svg" alt="slidev" width="50"> |
-| sling | <img src="../icons/sling.png" alt="sling" width="50"> |  <img src="../icons/sling.svg" alt="sling" width="50"> |
-| sling-alt | <img src="../icons/sling-alt.png" alt="sling-alt" width="50"> |   |
+| sling | <img src="../icons/sling.png" alt="sling" width="50"> |   |
+| sling-logo | <img src="../icons/sling-logo.png" alt="sling-logo" width="50"> |  <img src="../icons/sling-logo.svg" alt="sling-logo" width="50"> |
 | slink | <img src="../icons/slink.png" alt="slink" width="50"> |   |
 | slink-light | <img src="../icons/slink-light.png" alt="slink-light" width="50"> |   |
 | slskd | <img src="../icons/slskd.png" alt="slskd" width="50"> |  <img src="../icons/slskd.svg" alt="slskd" width="50"> |
@@ -166,8 +166,8 @@
 | smt-thankyou |  |  <img src="../icons/smt-thankyou.svg" alt="smt-thankyou" width="50"> |
 | smt-voicerecorder |  |  <img src="../icons/smt-voicerecorder.svg" alt="smt-voicerecorder" width="50"> |
 | snapcast | <img src="../icons/snapcast.png" alt="snapcast" width="50"> |  <img src="../icons/snapcast.svg" alt="snapcast" width="50"> |
-| snapcast-alt | <img src="../icons/snapcast-alt.png" alt="snapcast-alt" width="50"> |  <img src="../icons/snapcast-alt.svg" alt="snapcast-alt" width="50"> |
-| snapcast-alt-light | <img src="../icons/snapcast-alt-light.png" alt="snapcast-alt-light" width="50"> |  <img src="../icons/snapcast-alt-light.svg" alt="snapcast-alt-light" width="50"> |
+| snapcast-logo | <img src="../icons/snapcast-logo.png" alt="snapcast-logo" width="50"> |  <img src="../icons/snapcast-logo.svg" alt="snapcast-logo" width="50"> |
+| snapcast-logo-light | <img src="../icons/snapcast-logo-light.png" alt="snapcast-logo-light" width="50"> |  <img src="../icons/snapcast-logo-light.svg" alt="snapcast-logo-light" width="50"> |
 | snapchat | <img src="../icons/snapchat.png" alt="snapchat" width="50"> |  <img src="../icons/snapchat.svg" alt="snapchat" width="50"> |
 | snapdrop | <img src="../icons/snapdrop.png" alt="snapdrop" width="50"> |  <img src="../icons/snapdrop.svg" alt="snapdrop" width="50"> |
 | snapp |  |  <img src="../icons/snapp.svg" alt="snapp" width="50"> |
@@ -206,7 +206,7 @@
 | sourcehut-light |  |  <img src="../icons/sourcehut-light.svg" alt="sourcehut-light" width="50"> |
 | southern-cross |  |  <img src="../icons/southern-cross.svg" alt="southern-cross" width="50"> |
 | space-engineers | <img src="../icons/space-engineers.png" alt="space-engineers" width="50"> |   |
-| space-engineers-dark | <img src="../icons/space-engineers-dark.png" alt="space-engineers-dark" width="50"> |   |
+| space-engineers-light | <img src="../icons/space-engineers-light.png" alt="space-engineers-light" width="50"> |   |
 | spamassassin | <img src="../icons/spamassassin.png" alt="spamassassin" width="50"> |  <img src="../icons/spamassassin.svg" alt="spamassassin" width="50"> |
 | spar |  |  <img src="../icons/spar.svg" alt="spar" width="50"> |
 | spark |  |  <img src="../icons/spark.svg" alt="spark" width="50"> |
@@ -250,7 +250,7 @@
 | star-walk-2 |  |  <img src="../icons/star-walk-2.svg" alt="star-walk-2" width="50"> |
 | starmaker |  |  <img src="../icons/starmaker.svg" alt="starmaker" width="50"> |
 | starmoney |  |  <img src="../icons/starmoney.svg" alt="starmoney" width="50"> |
-| startpage | <img src="../icons/startpage.png" alt="startpage" width="50"> |  <img src="../icons/startpage.svg" alt="startpage" width="50"> |
+| startpage-logo | <img src="../icons/startpage-logo.png" alt="startpage-logo" width="50"> |  <img src="../icons/startpage-logo.svg" alt="startpage-logo" width="50"> |
 | stash | <img src="../icons/stash.png" alt="stash" width="50"> |  <img src="../icons/stash.svg" alt="stash" width="50"> |
 | statefarm |  |  <img src="../icons/statefarm.svg" alt="statefarm" width="50"> |
 | static-web-server |  |  <img src="../icons/static-web-server.svg" alt="static-web-server" width="50"> |
@@ -278,7 +278,7 @@
 | stremio | <img src="../icons/stremio.png" alt="stremio" width="50"> |  <img src="../icons/stremio.svg" alt="stremio" width="50"> |
 | stringis |  |  <img src="../icons/stringis.svg" alt="stringis" width="50"> |
 | stump | <img src="../icons/stump.png" alt="stump" width="50"> |  <img src="../icons/stump.svg" alt="stump" width="50"> |
-| stump-alt | <img src="../icons/stump-alt.png" alt="stump-alt" width="50"> |  <img src="../icons/stump-alt.svg" alt="stump-alt" width="50"> |
+| stump-logo | <img src="../icons/stump-logo.png" alt="stump-logo" width="50"> |  <img src="../icons/stump-logo.svg" alt="stump-logo" width="50"> |
 | styx-browser |  |  <img src="../icons/styx-browser.svg" alt="styx-browser" width="50"> |
 | sublime-text |  |  <img src="../icons/sublime-text.svg" alt="sublime-text" width="50"> |
 | subsonic |  |  <img src="../icons/subsonic.svg" alt="subsonic" width="50"> |
@@ -288,7 +288,7 @@
 | sunvox |  |  <img src="../icons/sunvox.svg" alt="sunvox" width="50"> |
 | supabase |  |  <img src="../icons/supabase.svg" alt="supabase" width="50"> |
 | supergenpass |  |  <img src="../icons/supergenpass.svg" alt="supergenpass" width="50"> |
-| supermicro | <img src="../icons/supermicro.png" alt="supermicro" width="50"> |  <img src="../icons/supermicro.svg" alt="supermicro" width="50"> |
+| supermicro-logo | <img src="../icons/supermicro-logo.png" alt="supermicro-logo" width="50"> |  <img src="../icons/supermicro-logo.svg" alt="supermicro-logo" width="50"> |
 | superproductivity |  |  <img src="../icons/superproductivity.svg" alt="superproductivity" width="50"> |
 | supersu |  |  <img src="../icons/supersu.svg" alt="supersu" width="50"> |
 | superuser |  |  <img src="../icons/superuser.svg" alt="superuser" width="50"> |
@@ -301,8 +301,8 @@
 | swiftscan |  |  <img src="../icons/swiftscan.svg" alt="swiftscan" width="50"> |
 | swizzin | <img src="../icons/swizzin.png" alt="swizzin" width="50"> |   |
 | syft | <img src="../icons/syft.png" alt="syft" width="50"> |   |
-| symmetricom | <img src="../icons/symmetricom.png" alt="symmetricom" width="50"> |  <img src="../icons/symmetricom.svg" alt="symmetricom" width="50"> |
-| symmetricom-light | <img src="../icons/symmetricom-light.png" alt="symmetricom-light" width="50"> |   |
+| symmetricom-logo | <img src="../icons/symmetricom-logo.png" alt="symmetricom-logo" width="50"> |  <img src="../icons/symmetricom-logo.svg" alt="symmetricom-logo" width="50"> |
+| symmetricom-logo-light | <img src="../icons/symmetricom-logo-light.png" alt="symmetricom-logo-light" width="50"> |   |
 | sympa | <img src="../icons/sympa.png" alt="sympa" width="50"> |   |
 | syncany | <img src="../icons/syncany.png" alt="syncany" width="50"> |   |
 | synclounge | <img src="../icons/synclounge.png" alt="synclounge" width="50"> |   |
@@ -314,7 +314,6 @@
 | synology-chat | <img src="../icons/synology-chat.png" alt="synology-chat" width="50"> |   |
 | synology-cloud-sync | <img src="../icons/synology-cloud-sync.png" alt="synology-cloud-sync" width="50"> |   |
 | synology-contacts | <img src="../icons/synology-contacts.png" alt="synology-contacts" width="50"> |   |
-| synology-dark |  |  <img src="../icons/synology-dark.svg" alt="synology-dark" width="50"> |
 | synology-diskstationmanager |  |  <img src="../icons/synology-diskstationmanager.svg" alt="synology-diskstationmanager" width="50"> |
 | synology-document-viewer | <img src="../icons/synology-document-viewer.png" alt="synology-document-viewer" width="50"> |   |
 | synology-download-station | <img src="../icons/synology-download-station.png" alt="synology-download-station" width="50"> |   |
@@ -322,7 +321,9 @@
 | synology-drive-server | <img src="../icons/synology-drive-server.png" alt="synology-drive-server" width="50"> |   |
 | synology-dsm | <img src="../icons/synology-dsm.png" alt="synology-dsm" width="50"> |  <img src="../icons/synology-dsm.svg" alt="synology-dsm" width="50"> |
 | synology-file-station | <img src="../icons/synology-file-station.png" alt="synology-file-station" width="50"> |   |
-| synology-light |  |  <img src="../icons/synology-light.svg" alt="synology-light" width="50"> |
+| synology-logo-dark |  |  <img src="../icons/synology-logo-dark.svg" alt="synology-logo-dark" width="50"> |
+| synology-logo-light |  |  <img src="../icons/synology-logo-light.svg" alt="synology-logo-light" width="50"> |
+| synology-logo-multicolor |  |  <img src="../icons/synology-logo-multicolor.svg" alt="synology-logo-multicolor" width="50"> |
 | synology-mail-plus | <img src="../icons/synology-mail-plus.png" alt="synology-mail-plus" width="50"> |   |
 | synology-mail-station | <img src="../icons/synology-mail-station.png" alt="synology-mail-station" width="50"> |   |
 | synology-note-station | <img src="../icons/synology-note-station.png" alt="synology-note-station" width="50"> |   |
@@ -332,7 +333,6 @@
 | synology-photos | <img src="../icons/synology-photos.png" alt="synology-photos" width="50"> |   |
 | synology-surveillance-station | <img src="../icons/synology-surveillance-station.png" alt="synology-surveillance-station" width="50"> |   |
 | synology-text-editor | <img src="../icons/synology-text-editor.png" alt="synology-text-editor" width="50"> |   |
-| synology-two-color |  |  <img src="../icons/synology-two-color.svg" alt="synology-two-color" width="50"> |
 | synology-video-station | <img src="../icons/synology-video-station.png" alt="synology-video-station" width="50"> |   |
 | synology-webstation | <img src="../icons/synology-webstation.png" alt="synology-webstation" width="50"> |   |
 | syphon |  |  <img src="../icons/syphon.svg" alt="syphon" width="50"> |

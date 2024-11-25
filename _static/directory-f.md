@@ -191,7 +191,7 @@
 | frigate | <img src="../icons/frigate.png" alt="frigate" width="50"> |  <img src="../icons/frigate.svg" alt="frigate" width="50"> |
 | frigate-light | <img src="../icons/frigate-light.png" alt="frigate-light" width="50"> |   |
 | fritter |  |  <img src="../icons/fritter.svg" alt="fritter" width="50"> |
-| fronius | <img src="../icons/fronius.png" alt="fronius" width="50"> |  <img src="../icons/fronius.svg" alt="fronius" width="50"> |
+| fronius-logo | <img src="../icons/fronius-logo.png" alt="fronius-logo" width="50"> |  <img src="../icons/fronius-logo.svg" alt="fronius-logo" width="50"> |
 | frost |  |  <img src="../icons/frost.svg" alt="frost" width="50"> |
 | frostwire |  |  <img src="../icons/frostwire.svg" alt="frostwire" width="50"> |
 | ftm |  |  <img src="../icons/ftm.svg" alt="ftm" width="50"> |

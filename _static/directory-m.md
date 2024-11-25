@@ -62,20 +62,20 @@
 | matomo | <img src="../icons/matomo.png" alt="matomo" width="50"> |  <img src="../icons/matomo.svg" alt="matomo" width="50"> |
 | matrix | <img src="../icons/matrix.png" alt="matrix" width="50"> |  <img src="../icons/matrix.svg" alt="matrix" width="50"> |
 | matrix-light | <img src="../icons/matrix-light.png" alt="matrix-light" width="50"> |   |
+| matrix-logo |  |  <img src="../icons/matrix-logo.svg" alt="matrix-logo" width="50"> |
+| matrix-logo-light |  |  <img src="../icons/matrix-logo-light.svg" alt="matrix-logo-light" width="50"> |
 | matrix-synapse | <img src="../icons/matrix-synapse.png" alt="matrix-synapse" width="50"> |  <img src="../icons/matrix-synapse.svg" alt="matrix-synapse" width="50"> |
 | matrix-synapse-light | <img src="../icons/matrix-synapse-light.png" alt="matrix-synapse-light" width="50"> |   |
-| matrix-wide |  |  <img src="../icons/matrix-wide.svg" alt="matrix-wide" width="50"> |
-| matrix-wide-light |  |  <img src="../icons/matrix-wide-light.svg" alt="matrix-wide-light" width="50"> |
 | mattermost | <img src="../icons/mattermost.png" alt="mattermost" width="50"> |  <img src="../icons/mattermost.svg" alt="mattermost" width="50"> |
 | mattermost-classic |  |  <img src="../icons/mattermost-classic.svg" alt="mattermost-classic" width="50"> |
 | mattermost-dark |  |  <img src="../icons/mattermost-dark.svg" alt="mattermost-dark" width="50"> |
-| mautic | <img src="../icons/mautic.png" alt="mautic" width="50"> |  <img src="../icons/mautic.svg" alt="mautic" width="50"> |
-| mautic-light | <img src="../icons/mautic-light.png" alt="mautic-light" width="50"> |   |
+| mautic | <img src="../icons/mautic.png" alt="mautic" width="50"> |   |
+| mautic-light | <img src="../icons/mautic-light.png" alt="mautic-light" width="50"> |  <img src="../icons/mautic-light.svg" alt="mautic-light" width="50"> |
 | maxima |  |  <img src="../icons/maxima.svg" alt="maxima" width="50"> |
-| maxmind |  |  <img src="../icons/maxmind.svg" alt="maxmind" width="50"> |
+| maxmind-logo |  |  <img src="../icons/maxmind-logo.svg" alt="maxmind-logo" width="50"> |
 | maxthon-browser |  |  <img src="../icons/maxthon-browser.svg" alt="maxthon-browser" width="50"> |
 | mayan-edms | <img src="../icons/mayan-edms.png" alt="mayan-edms" width="50"> |   |
-| mayan-light | <img src="../icons/mayan-light.png" alt="mayan-light" width="50"> |   |
+| mayan-edms-light | <img src="../icons/mayan-edms-light.png" alt="mayan-edms-light" width="50"> |   |
 | mcdonalds |  |  <img src="../icons/mcdonalds.svg" alt="mcdonalds" width="50"> |
 | mcmyadmin | <img src="../icons/mcmyadmin.png" alt="mcmyadmin" width="50"> |   |
 | mealie | <img src="../icons/mealie.png" alt="mealie" width="50"> |  <img src="../icons/mealie.svg" alt="mealie" width="50"> |
@@ -104,7 +104,7 @@
 | mercado-pago |  |  <img src="../icons/mercado-pago.svg" alt="mercado-pago" width="50"> |
 | mercurial |  |  <img src="../icons/mercurial.svg" alt="mercurial" width="50"> |
 | mercury-browser |  |  <img src="../icons/mercury-browser.svg" alt="mercury-browser" width="50"> |
-| mercusys | <img src="../icons/mercusys.png" alt="mercusys" width="50"> |  <img src="../icons/mercusys.svg" alt="mercusys" width="50"> |
+| mercusys-logo | <img src="../icons/mercusys-logo.png" alt="mercusys-logo" width="50"> |  <img src="../icons/mercusys-logo.svg" alt="mercusys-logo" width="50"> |
 | merriam-webster-dictionary |  |  <img src="../icons/merriam-webster-dictionary.svg" alt="merriam-webster-dictionary" width="50"> |
 | meshcentral | <img src="../icons/meshcentral.png" alt="meshcentral" width="50"> |   |
 | meshtastic | <img src="../icons/meshtastic.png" alt="meshtastic" width="50"> |  <img src="../icons/meshtastic.svg" alt="meshtastic" width="50"> |

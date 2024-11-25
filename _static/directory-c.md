@@ -7,6 +7,7 @@
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
 | c | <img src="../icons/c.png" alt="c" width="50"> |  <img src="../icons/c.svg" alt="c" width="50"> |
+| c-sharp | <img src="../icons/c-sharp.png" alt="c-sharp" width="50"> |  <img src="../icons/c-sharp.svg" alt="c-sharp" width="50"> |
 | cabify |  |  <img src="../icons/cabify.svg" alt="cabify" width="50"> |
 | cabot | <img src="../icons/cabot.png" alt="cabot" width="50"> |   |
 | cacti | <img src="../icons/cacti.png" alt="cacti" width="50"> |  <img src="../icons/cacti.svg" alt="cacti" width="50"> |
@@ -59,8 +60,6 @@
 | castro |  |  <img src="../icons/castro.svg" alt="castro" width="50"> |
 | catima |  |  <img src="../icons/catima.svg" alt="catima" width="50"> |
 | caustic |  |  <img src="../icons/caustic.svg" alt="caustic" width="50"> |
-| cc | <img src="../icons/cc.png" alt="cc" width="50"> |  <img src="../icons/cc.svg" alt="cc" width="50"> |
-| cc-light | <img src="../icons/cc-light.png" alt="cc-light" width="50"> |   |
 | ccleaner |  |  <img src="../icons/ccleaner.svg" alt="ccleaner" width="50"> |
 | cdek |  |  <img src="../icons/cdek.svg" alt="cdek" width="50"> |
 | celestia |  |  <img src="../icons/celestia.svg" alt="celestia" width="50"> |
@@ -69,7 +68,7 @@
 | cert-manager | <img src="../icons/cert-manager.png" alt="cert-manager" width="50"> |  <img src="../icons/cert-manager.svg" alt="cert-manager" width="50"> |
 | cert-warden | <img src="../icons/cert-warden.png" alt="cert-warden" width="50"> |  <img src="../icons/cert-warden.svg" alt="cert-warden" width="50"> |
 | chainguard | <img src="../icons/chainguard.png" alt="chainguard" width="50"> |  <img src="../icons/chainguard.svg" alt="chainguard" width="50"> |
-| changedetection | <img src="../icons/changedetection.png" alt="changedetection" width="50"> |  <img src="../icons/changedetection.svg" alt="changedetection" width="50"> |
+| changedetection | <img src="../icons/changedetection.png" alt="changedetection" width="50"> |   |
 | changedetection-io | <img src="../icons/changedetection-io.png" alt="changedetection-io" width="50"> |   |
 | channels | <img src="../icons/channels.png" alt="channels" width="50"> |  <img src="../icons/channels.svg" alt="channels" width="50"> |
 | chatgpt | <img src="../icons/chatgpt.png" alt="chatgpt" width="50"> |  <img src="../icons/chatgpt.svg" alt="chatgpt" width="50"> |
@@ -98,8 +97,8 @@
 | cinny | <img src="../icons/cinny.png" alt="cinny" width="50"> |  <img src="../icons/cinny.svg" alt="cinny" width="50"> |
 | cinny-light | <img src="../icons/cinny-light.png" alt="cinny-light" width="50"> |   |
 | circleci |  |  <img src="../icons/circleci.svg" alt="circleci" width="50"> |
-| cisco | <img src="../icons/cisco.png" alt="cisco" width="50"> |  <img src="../icons/cisco.svg" alt="cisco" width="50"> |
 | cisco-anyconnect |  |  <img src="../icons/cisco-anyconnect.svg" alt="cisco-anyconnect" width="50"> |
+| cisco-logo | <img src="../icons/cisco-logo.png" alt="cisco-logo" width="50"> |  <img src="../icons/cisco-logo.svg" alt="cisco-logo" width="50"> |
 | citibanamex |  |  <img src="../icons/citibanamex.svg" alt="citibanamex" width="50"> |
 | citilink |  |  <img src="../icons/citilink.svg" alt="citilink" width="50"> |
 | citrix-receiver |  |  <img src="../icons/citrix-receiver.svg" alt="citrix-receiver" width="50"> |
@@ -146,7 +145,7 @@
 | codimd | <img src="../icons/codimd.png" alt="codimd" width="50"> |   |
 | codimd-light | <img src="../icons/codimd-light.png" alt="codimd-light" width="50"> |   |
 | collabora-office |  |  <img src="../icons/collabora-office.svg" alt="collabora-office" width="50"> |
-| collabora-online | <img src="../icons/collabora-online.png" alt="collabora-online" width="50"> |  <img src="../icons/collabora-online.svg" alt="collabora-online" width="50"> |
+| collabora-online-logo | <img src="../icons/collabora-online-logo.png" alt="collabora-online-logo" width="50"> |  <img src="../icons/collabora-online-logo.svg" alt="collabora-online-logo" width="50"> |
 | color-chooser |  |  <img src="../icons/color-chooser.svg" alt="color-chooser" width="50"> |
 | comic-geeks |  |  <img src="../icons/comic-geeks.svg" alt="comic-geeks" width="50"> |
 | comics-viewer |  |  <img src="../icons/comics-viewer.svg" alt="comics-viewer" width="50"> |
@@ -201,10 +200,8 @@
 | cryptomator | <img src="../icons/cryptomator.png" alt="cryptomator" width="50"> |  <img src="../icons/cryptomator.svg" alt="cryptomator" width="50"> |
 | cryptopass |  |  <img src="../icons/cryptopass.svg" alt="cryptopass" width="50"> |
 | cryptpad | <img src="../icons/cryptpad.png" alt="cryptpad" width="50"> |  <img src="../icons/cryptpad.svg" alt="cryptpad" width="50"> |
-| csharp | <img src="../icons/csharp.png" alt="csharp" width="50"> |  <img src="../icons/csharp.svg" alt="csharp" width="50"> |
 | csploit |  |  <img src="../icons/csploit.svg" alt="csploit" width="50"> |
 | css | <img src="../icons/css.png" alt="css" width="50"> |  <img src="../icons/css.svg" alt="css" width="50"> |
-| css3 |  |  <img src="../icons/css3.svg" alt="css3" width="50"> |
 | ctemplar |  |  <img src="../icons/ctemplar.svg" alt="ctemplar" width="50"> |
 | cube-black |  |  <img src="../icons/cube-black.svg" alt="cube-black" width="50"> |
 | cube-blueberry |  |  <img src="../icons/cube-blueberry.svg" alt="cube-blueberry" width="50"> |

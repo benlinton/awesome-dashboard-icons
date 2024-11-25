@@ -124,11 +124,6 @@
 | bromite |  |  <img src="../icons/bromite.svg" alt="bromite" width="50"> |
 | brosix |  |  <img src="../icons/brosix.svg" alt="brosix" width="50"> |
 | brother | <img src="../icons/brother.png" alt="brother" width="50"> |   |
-| browser-apus |  |  <img src="../icons/browser-apus.svg" alt="browser-apus" width="50"> |
-| browser-brave |  |  <img src="../icons/browser-brave.svg" alt="browser-brave" width="50"> |
-| browser-du |  |  <img src="../icons/browser-du.svg" alt="browser-du" width="50"> |
-| browser-orbitum |  |  <img src="../icons/browser-orbitum.svg" alt="browser-orbitum" width="50"> |
-| browser-puls |  |  <img src="../icons/browser-puls.svg" alt="browser-puls" width="50"> |
 | browserless | <img src="../icons/browserless.png" alt="browserless" width="50"> |  <img src="../icons/browserless.svg" alt="browserless" width="50"> |
 | browserless-light | <img src="../icons/browserless-light.png" alt="browserless-light" width="50"> |   |
 | browsh | <img src="../icons/browsh.png" alt="browsh" width="50"> |  <img src="../icons/browsh.svg" alt="browsh" width="50"> |

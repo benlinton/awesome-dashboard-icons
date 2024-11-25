@@ -75,7 +75,6 @@
 | white-noise-lite |  |  <img src="../icons/white-noise-lite.svg" alt="white-noise-lite" width="50"> |
 | whoami | <img src="../icons/whoami.png" alt="whoami" width="50"> |   |
 | whodb | <img src="../icons/whodb.png" alt="whodb" width="50"> |   |
-| whoogle | <img src="../icons/whoogle.png" alt="whoogle" width="50"> |   |
 | whoogle-search | <img src="../icons/whoogle-search.png" alt="whoogle-search" width="50"> |   |
 | whoosh |  |  <img src="../icons/whoosh.svg" alt="whoosh" width="50"> |
 | wickr-me |  |  <img src="../icons/wickr-me.svg" alt="wickr-me" width="50"> |

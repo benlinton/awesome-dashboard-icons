@@ -32,7 +32,7 @@
 | youla |  |  <img src="../icons/youla.svg" alt="youla" width="50"> |
 | youperfect |  |  <img src="../icons/youperfect.svg" alt="youperfect" width="50"> |
 | your-spotify | <img src="../icons/your-spotify.png" alt="your-spotify" width="50"> |  <img src="../icons/your-spotify.svg" alt="your-spotify" width="50"> |
-| yourls | <img src="../icons/yourls.png" alt="yourls" width="50"> |  <img src="../icons/yourls.svg" alt="yourls" width="50"> |
+| yourls-logo | <img src="../icons/yourls-logo.png" alt="yourls-logo" width="50"> |  <img src="../icons/yourls-logo.svg" alt="yourls-logo" width="50"> |
 | youtube | <img src="../icons/youtube.png" alt="youtube" width="50"> |  <img src="../icons/youtube.svg" alt="youtube" width="50"> |
 | youtube-dl | <img src="../icons/youtube-dl.png" alt="youtube-dl" width="50"> |  <img src="../icons/youtube-dl.svg" alt="youtube-dl" width="50"> |
 | youtube-kids | <img src="../icons/youtube-kids.png" alt="youtube-kids" width="50"> |  <img src="../icons/youtube-kids.svg" alt="youtube-kids" width="50"> |

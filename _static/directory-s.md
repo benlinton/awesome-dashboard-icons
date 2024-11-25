@@ -54,7 +54,7 @@
 | seagate |  |  <img src="../icons/seagate.svg" alt="seagate" width="50"> |
 | searx | <img src="../icons/searx.png" alt="searx" width="50"> |  <img src="../icons/searx.svg" alt="searx" width="50"> |
 | searx-light | <img src="../icons/searx-light.png" alt="searx-light" width="50"> |   |
-| searxmetasearchengine | <img src="../icons/searxmetasearchengine.png" alt="searxmetasearchengine" width="50"> |   |
+| searx-logo | <img src="../icons/searx-logo.png" alt="searx-logo" width="50"> |   |
 | searxng | <img src="../icons/searxng.png" alt="searxng" width="50"> |  <img src="../icons/searxng.svg" alt="searxng" width="50"> |
 | seconds-clock |  |  <img src="../icons/seconds-clock.svg" alt="seconds-clock" width="50"> |
 | secret-codes |  |  <img src="../icons/secret-codes.svg" alt="secret-codes" width="50"> |

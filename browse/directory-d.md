@@ -112,6 +112,8 @@
 | doodle |  |  <img src="../icons/doodle.svg" alt="doodle" width="50"> |
 | dopplertask | <img src="../icons/dopplertask.png" alt="dopplertask" width="50"> |   |
 | dosbox |  |  <img src="../icons/dosbox.svg" alt="dosbox" width="50"> |
+| dota |  |  <img src="../icons/dota.svg" alt="dota" width="50"> |
+| dota-2 |  |  <img src="../icons/dota-2.svg" alt="dota-2" width="50"> |
 | dotpict |  |  <img src="../icons/dotpict.svg" alt="dotpict" width="50"> |
 | double-take | <img src="../icons/double-take.png" alt="double-take" width="50"> |   |
 | double-twist-player |  |  <img src="../icons/double-twist-player.svg" alt="double-twist-player" width="50"> |

@@ -9,6 +9,7 @@
 | obd-auto-doctor |  |  <img src="../icons/obd-auto-doctor.svg" alt="obd-auto-doctor" width="50"> |
 | obico | <img src="../icons/obico.png" alt="obico" width="50"> |  <img src="../icons/obico.svg" alt="obico" width="50"> |
 | obitalk | <img src="../icons/obitalk.png" alt="obitalk" width="50"> |   |
+| obs-studio |  |  <img src="../icons/obs-studio.svg" alt="obs-studio" width="50"> |
 | observium | <img src="../icons/observium.png" alt="observium" width="50"> |   |
 | observo-ai | <img src="../icons/observo-ai.png" alt="observo-ai" width="50"> |   |
 | obsidian | <img src="../icons/obsidian.png" alt="obsidian" width="50"> |  <img src="../icons/obsidian.svg" alt="obsidian" width="50"> |
@@ -16,7 +17,7 @@
 | octo-mobile |  |  <img src="../icons/octo-mobile.svg" alt="octo-mobile" width="50"> |
 | octodroid |  |  <img src="../icons/octodroid.svg" alt="octodroid" width="50"> |
 | octoeverywhere | <img src="../icons/octoeverywhere.png" alt="octoeverywhere" width="50"> |   |
-| octoprint | <img src="../icons/octoprint.png" alt="octoprint" width="50"> |   |
+| octoprint | <img src="../icons/octoprint.png" alt="octoprint" width="50"> |  <img src="../icons/octoprint.svg" alt="octoprint" width="50"> |
 | oculus | <img src="../icons/oculus.png" alt="oculus" width="50"> |  <img src="../icons/oculus.svg" alt="oculus" width="50"> |
 | oculus-light | <img src="../icons/oculus-light.png" alt="oculus-light" width="50"> |   |
 | odoo | <img src="../icons/odoo.png" alt="odoo" width="50"> |  <img src="../icons/odoo.svg" alt="odoo" width="50"> |
@@ -32,6 +33,7 @@
 | oledbuddy |  |  <img src="../icons/oledbuddy.svg" alt="oledbuddy" width="50"> |
 | olivetin | <img src="../icons/olivetin.png" alt="olivetin" width="50"> |  <img src="../icons/olivetin.svg" alt="olivetin" width="50"> |
 | ollama | <img src="../icons/ollama.png" alt="ollama" width="50"> |  <img src="../icons/ollama.svg" alt="ollama" width="50"> |
+| ollama-light |  |  <img src="../icons/ollama-light.svg" alt="ollama-light" width="50"> |
 | olx |  |  <img src="../icons/olx.svg" alt="olx" width="50"> |
 | omada | <img src="../icons/omada.png" alt="omada" width="50"> |  <img src="../icons/omada.svg" alt="omada" width="50"> |
 | ombi | <img src="../icons/ombi.png" alt="ombi" width="50"> |  <img src="../icons/ombi.svg" alt="ombi" width="50"> |
@@ -52,19 +54,27 @@
 | onlyoffice | <img src="../icons/onlyoffice.png" alt="onlyoffice" width="50"> |  <img src="../icons/onlyoffice.svg" alt="onlyoffice" width="50"> |
 | ooniprobe |  |  <img src="../icons/ooniprobe.svg" alt="ooniprobe" width="50"> |
 | open-camera |  |  <img src="../icons/open-camera.svg" alt="open-camera" width="50"> |
+| open-collective |  |  <img src="../icons/open-collective.svg" alt="open-collective" width="50"> |
+| open-container-initiative |  |  <img src="../icons/open-container-initiative.svg" alt="open-container-initiative" width="50"> |
 | open-keychain |  |  <img src="../icons/open-keychain.svg" alt="open-keychain" width="50"> |
 | open-resume | <img src="../icons/open-resume.png" alt="open-resume" width="50"> |  <img src="../icons/open-resume.svg" alt="open-resume" width="50"> |
+| open-source-hardware |  |  <img src="../icons/open-source-hardware.svg" alt="open-source-hardware" width="50"> |
+| open-source-initiative |  |  <img src="../icons/open-source-initiative.svg" alt="open-source-initiative" width="50"> |
 | open-webui | <img src="../icons/open-webui.png" alt="open-webui" width="50"> |   |
 | open-webui-light | <img src="../icons/open-webui-light.png" alt="open-webui-light" width="50"> |   |
 | openai | <img src="../icons/openai.png" alt="openai" width="50"> |  <img src="../icons/openai.svg" alt="openai" width="50"> |
-| openai-light | <img src="../icons/openai-light.png" alt="openai-light" width="50"> |   |
+| openai-light | <img src="../icons/openai-light.png" alt="openai-light" width="50"> |  <img src="../icons/openai-light.svg" alt="openai-light" width="50"> |
+| openapi-initiative |  |  <img src="../icons/openapi-initiative.svg" alt="openapi-initiative" width="50"> |
+| openbao |  |  <img src="../icons/openbao.svg" alt="openbao" width="50"> |
 | openboard |  |  <img src="../icons/openboard.svg" alt="openboard" width="50"> |
+| openbsd |  |  <img src="../icons/openbsd.svg" alt="openbsd" width="50"> |
 | openeats | <img src="../icons/openeats.png" alt="openeats" width="50"> |  <img src="../icons/openeats.svg" alt="openeats" width="50"> |
 | opengarage | <img src="../icons/opengarage.png" alt="opengarage" width="50"> |   |
 | opengist | <img src="../icons/opengist.png" alt="opengist" width="50"> |  <img src="../icons/opengist.svg" alt="opengist" width="50"> |
 | opengist-light | <img src="../icons/opengist-light.png" alt="opengist-light" width="50"> |   |
 | openhab | <img src="../icons/openhab.png" alt="openhab" width="50"> |  <img src="../icons/openhab.svg" alt="openhab" width="50"> |
 | openhub |  |  <img src="../icons/openhub.svg" alt="openhub" width="50"> |
+| openjdk |  |  <img src="../icons/openjdk.svg" alt="openjdk" width="50"> |
 | openlp |  |  <img src="../icons/openlp.svg" alt="openlp" width="50"> |
 | openmaptiles | <img src="../icons/openmaptiles.png" alt="openmaptiles" width="50"> |   |
 | openmediavault | <img src="../icons/openmediavault.png" alt="openmediavault" width="50"> |  <img src="../icons/openmediavault.svg" alt="openmediavault" width="50"> |
@@ -79,11 +89,14 @@
 | openstack | <img src="../icons/openstack.png" alt="openstack" width="50"> |  <img src="../icons/openstack.svg" alt="openstack" width="50"> |
 | openstreetmap | <img src="../icons/openstreetmap.png" alt="openstreetmap" width="50"> |  <img src="../icons/openstreetmap.svg" alt="openstreetmap" width="50"> |
 | opensuse | <img src="../icons/opensuse.png" alt="opensuse" width="50"> |  <img src="../icons/opensuse.svg" alt="opensuse" width="50"> |
+| opentofu |  |  <img src="../icons/opentofu.svg" alt="opentofu" width="50"> |
+| opentogethertube |  |  <img src="../icons/opentogethertube.svg" alt="opentogethertube" width="50"> |
 | openttd |  |  <img src="../icons/openttd.svg" alt="openttd" width="50"> |
 | openvas | <img src="../icons/openvas.png" alt="openvas" width="50"> |  <img src="../icons/openvas.svg" alt="openvas" width="50"> |
 | openvpn | <img src="../icons/openvpn.png" alt="openvpn" width="50"> |  <img src="../icons/openvpn.svg" alt="openvpn" width="50"> |
 | openweather |  |  <img src="../icons/openweather.svg" alt="openweather" width="50"> |
 | openwrt | <img src="../icons/openwrt.png" alt="openwrt" width="50"> |  <img src="../icons/openwrt.svg" alt="openwrt" width="50"> |
+| openzfs |  |  <img src="../icons/openzfs.svg" alt="openzfs" width="50"> |
 | opera | <img src="../icons/opera.png" alt="opera" width="50"> |  <img src="../icons/opera.svg" alt="opera" width="50"> |
 | opera-beta | <img src="../icons/opera-beta.png" alt="opera-beta" width="50"> |  <img src="../icons/opera-beta.svg" alt="opera-beta" width="50"> |
 | opera-developer | <img src="../icons/opera-developer.png" alt="opera-developer" width="50"> |   |
@@ -114,7 +127,7 @@
 | ostin |  |  <img src="../icons/ostin.svg" alt="ostin" width="50"> |
 | otpauth |  |  <img src="../icons/otpauth.svg" alt="otpauth" width="50"> |
 | otter |  |  <img src="../icons/otter.svg" alt="otter" width="50"> |
-| outline | <img src="../icons/outline.png" alt="outline" width="50"> |   |
+| outline | <img src="../icons/outline.png" alt="outline" width="50"> |  <img src="../icons/outline.svg" alt="outline" width="50"> |
 | overclockers | <img src="../icons/overclockers.png" alt="overclockers" width="50"> |   |
 | overdrive |  |  <img src="../icons/overdrive.svg" alt="overdrive" width="50"> |
 | overdrop |  |  <img src="../icons/overdrop.svg" alt="overdrop" width="50"> |

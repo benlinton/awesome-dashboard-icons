@@ -51,7 +51,9 @@
 | gitea | <img src="../icons/gitea.png" alt="gitea" width="50"> |  <img src="../icons/gitea.svg" alt="gitea" width="50"> |
 | gitee | <img src="../icons/gitee.png" alt="gitee" width="50"> |  <img src="../icons/gitee.svg" alt="gitee" width="50"> |
 | github | <img src="../icons/github.png" alt="github" width="50"> |  <img src="../icons/github.svg" alt="github" width="50"> |
+| github-invertocat |  |  <img src="../icons/github-invertocat.svg" alt="github-invertocat" width="50"> |
 | github-light | <img src="../icons/github-light.png" alt="github-light" width="50"> |   |
+| github-octocat |  |  <img src="../icons/github-octocat.svg" alt="github-octocat" width="50"> |
 | gitkraken |  |  <img src="../icons/gitkraken.svg" alt="gitkraken" width="50"> |
 | gitlab | <img src="../icons/gitlab.png" alt="gitlab" width="50"> |  <img src="../icons/gitlab.svg" alt="gitlab" width="50"> |
 | gitsign | <img src="../icons/gitsign.png" alt="gitsign" width="50"> |  <img src="../icons/gitsign.svg" alt="gitsign" width="50"> |
@@ -68,15 +70,20 @@
 | glpi | <img src="../icons/glpi.png" alt="glpi" width="50"> |   |
 | gluetun | <img src="../icons/gluetun.png" alt="gluetun" width="50"> |  <img src="../icons/gluetun.svg" alt="gluetun" width="50"> |
 | gmail | <img src="../icons/gmail.png" alt="gmail" width="50"> |  <img src="../icons/gmail.svg" alt="gmail" width="50"> |
+| gnome |  |  <img src="../icons/gnome.svg" alt="gnome" width="50"> |
+| gnu |  |  <img src="../icons/gnu.svg" alt="gnu" width="50"> |
+| gnupg |  |  <img src="../icons/gnupg.svg" alt="gnupg" width="50"> |
 | go | <img src="../icons/go.png" alt="go" width="50"> |  <img src="../icons/go.svg" alt="go" width="50"> |
+| go-blue |  |  <img src="../icons/go-blue.svg" alt="go-blue" width="50"> |
 | go-launcher |  |  <img src="../icons/go-launcher.svg" alt="go-launcher" width="50"> |
+| go-light |  |  <img src="../icons/go-light.svg" alt="go-light" width="50"> |
 | go2rtc | <img src="../icons/go2rtc.png" alt="go2rtc" width="50"> |   |
 | go2rtc-alt | <img src="../icons/go2rtc-alt.png" alt="go2rtc-alt" width="50"> |   |
 | goaccess | <img src="../icons/goaccess.png" alt="goaccess" width="50"> |   |
 | gobenefits |  |  <img src="../icons/gobenefits.svg" alt="gobenefits" width="50"> |
 | godaddy | <img src="../icons/godaddy.png" alt="godaddy" width="50"> |  <img src="../icons/godaddy.svg" alt="godaddy" width="50"> |
 | godaddy-alt | <img src="../icons/godaddy-alt.png" alt="godaddy-alt" width="50"> |  <img src="../icons/godaddy-alt.svg" alt="godaddy-alt" width="50"> |
-| gogs | <img src="../icons/gogs.png" alt="gogs" width="50"> |   |
+| gogs | <img src="../icons/gogs.png" alt="gogs" width="50"> |  <img src="../icons/gogs.svg" alt="gogs" width="50"> |
 | goibibo |  |  <img src="../icons/goibibo.svg" alt="goibibo" width="50"> |
 | gojek |  |  <img src="../icons/gojek.svg" alt="gojek" width="50"> |
 | goldendict |  |  <img src="../icons/goldendict.svg" alt="goldendict" width="50"> |
@@ -105,6 +112,7 @@
 | google-drive | <img src="../icons/google-drive.png" alt="google-drive" width="50"> |  <img src="../icons/google-drive.svg" alt="google-drive" width="50"> |
 | google-earth | <img src="../icons/google-earth.png" alt="google-earth" width="50"> |  <img src="../icons/google-earth.svg" alt="google-earth" width="50"> |
 | google-fi | <img src="../icons/google-fi.png" alt="google-fi" width="50"> |  <img src="../icons/google-fi.svg" alt="google-fi" width="50"> |
+| google-firebase |  |  <img src="../icons/google-firebase.svg" alt="google-firebase" width="50"> |
 | google-fit | <img src="../icons/google-fit.png" alt="google-fit" width="50"> |  <img src="../icons/google-fit.svg" alt="google-fit" width="50"> |
 | google-fonts | <img src="../icons/google-fonts.png" alt="google-fonts" width="50"> |  <img src="../icons/google-fonts.svg" alt="google-fonts" width="50"> |
 | google-forms | <img src="../icons/google-forms.png" alt="google-forms" width="50"> |  <img src="../icons/google-forms.svg" alt="google-forms" width="50"> |
@@ -136,6 +144,7 @@
 | google-voice | <img src="../icons/google-voice.png" alt="google-voice" width="50"> |  <img src="../icons/google-voice.svg" alt="google-voice" width="50"> |
 | google-wallet | <img src="../icons/google-wallet.png" alt="google-wallet" width="50"> |  <img src="../icons/google-wallet.svg" alt="google-wallet" width="50"> |
 | google-wifi | <img src="../icons/google-wifi.png" alt="google-wifi" width="50"> |  <img src="../icons/google-wifi.svg" alt="google-wifi" width="50"> |
+| googlemail |  |  <img src="../icons/googlemail.svg" alt="googlemail" width="50"> |
 | gopro-quik |  |  <img src="../icons/gopro-quik.svg" alt="gopro-quik" width="50"> |
 | gosuslugi |  |  <img src="../icons/gosuslugi.svg" alt="gosuslugi" width="50"> |
 | gotify | <img src="../icons/gotify.png" alt="gotify" width="50"> |  <img src="../icons/gotify.svg" alt="gotify" width="50"> |
@@ -146,9 +155,11 @@
 | gpt4free | <img src="../icons/gpt4free.png" alt="gpt4free" width="50"> |  <img src="../icons/gpt4free.svg" alt="gpt4free" width="50"> |
 | grab |  |  <img src="../icons/grab.svg" alt="grab" width="50"> |
 | grafana | <img src="../icons/grafana.png" alt="grafana" width="50"> |  <img src="../icons/grafana.svg" alt="grafana" width="50"> |
+| grafana-loki |  |  <img src="../icons/grafana-loki.svg" alt="grafana-loki" width="50"> |
 | grammarly |  |  <img src="../icons/grammarly.svg" alt="grammarly" width="50"> |
 | gramps | <img src="../icons/gramps.png" alt="gramps" width="50"> |  <img src="../icons/gramps.svg" alt="gramps" width="50"> |
 | grandstream | <img src="../icons/grandstream.png" alt="grandstream" width="50"> |  <img src="../icons/grandstream.svg" alt="grandstream" width="50"> |
+| graphene-os |  |  <img src="../icons/graphene-os.svg" alt="graphene-os" width="50"> |
 | graphie |  |  <img src="../icons/graphie.svg" alt="graphie" width="50"> |
 | grav | <img src="../icons/grav.png" alt="grav" width="50"> |  <img src="../icons/grav.svg" alt="grav" width="50"> |
 | grav-light | <img src="../icons/grav-light.png" alt="grav-light" width="50"> |   |
@@ -157,6 +168,7 @@
 | green-banana-music |  |  <img src="../icons/green-banana-music.svg" alt="green-banana-music" width="50"> |
 | green-bitcoin-wallet |  |  <img src="../icons/green-bitcoin-wallet.svg" alt="green-bitcoin-wallet" width="50"> |
 | greenbone | <img src="../icons/greenbone.png" alt="greenbone" width="50"> |  <img src="../icons/greenbone.svg" alt="greenbone" width="50"> |
+| greenbone-openvas |  |  <img src="../icons/greenbone-openvas.svg" alt="greenbone-openvas" width="50"> |
 | greentooth |  |  <img src="../icons/greentooth.svg" alt="greentooth" width="50"> |
 | grist | <img src="../icons/grist.png" alt="grist" width="50"> |  <img src="../icons/grist.svg" alt="grist" width="50"> |
 | grocy | <img src="../icons/grocy.png" alt="grocy" width="50"> |  <img src="../icons/grocy.svg" alt="grocy" width="50"> |

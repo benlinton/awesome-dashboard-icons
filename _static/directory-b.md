@@ -26,6 +26,8 @@
 | barcodebuddy | <img src="../icons/barcodebuddy.png" alt="barcodebuddy" width="50"> |   |
 | barinsta |  |  <img src="../icons/barinsta.svg" alt="barinsta" width="50"> |
 | baserow | <img src="../icons/baserow.png" alt="baserow" width="50"> |  <img src="../icons/baserow.svg" alt="baserow" width="50"> |
+| bash |  |  <img src="../icons/bash.svg" alt="bash" width="50"> |
+| bash-dark |  |  <img src="../icons/bash-dark.svg" alt="bash-dark" width="50"> |
 | basic-fit |  |  <img src="../icons/basic-fit.svg" alt="basic-fit" width="50"> |
 | basilisk | <img src="../icons/basilisk.png" alt="basilisk" width="50"> |   |
 | bastillion | <img src="../icons/bastillion.png" alt="bastillion" width="50"> |   |
@@ -47,6 +49,7 @@
 | beets | <img src="../icons/beets.png" alt="beets" width="50"> |   |
 | befree |  |  <img src="../icons/befree.svg" alt="befree" width="50"> |
 | benotes | <img src="../icons/benotes.png" alt="benotes" width="50"> |   |
+| beszel |  |  <img src="../icons/beszel.svg" alt="beszel" width="50"> |
 | betanin | <img src="../icons/betanin.png" alt="betanin" width="50"> |   |
 | bewegungsmelder |  |  <img src="../icons/bewegungsmelder.svg" alt="bewegungsmelder" width="50"> |
 | bh-photo |  |  <img src="../icons/bh-photo.svg" alt="bh-photo" width="50"> |
@@ -87,6 +90,7 @@
 | bluecoins |  |  <img src="../icons/bluecoins.svg" alt="bluecoins" width="50"> |
 | bluejeans |  |  <img src="../icons/bluejeans.svg" alt="bluejeans" width="50"> |
 | bluemail |  |  <img src="../icons/bluemail.svg" alt="bluemail" width="50"> |
+| bluesky |  |  <img src="../icons/bluesky.svg" alt="bluesky" width="50"> |
 | bluetooth | <img src="../icons/bluetooth.png" alt="bluetooth" width="50"> |  <img src="../icons/bluetooth.svg" alt="bluetooth" width="50"> |
 | bluewallet | <img src="../icons/bluewallet.png" alt="bluewallet" width="50"> |   |
 | bmz-convert-it |  |  <img src="../icons/bmz-convert-it.svg" alt="bmz-convert-it" width="50"> |
@@ -137,6 +141,7 @@
 | budibase | <img src="../icons/budibase.png" alt="budibase" width="50"> |   |
 | budibase-light | <img src="../icons/budibase-light.png" alt="budibase-light" width="50"> |   |
 | buffalo | <img src="../icons/buffalo.png" alt="buffalo" width="50"> |   |
+| bulma |  |  <img src="../icons/bulma.svg" alt="bulma" width="50"> |
 | bumble |  |  <img src="../icons/bumble.svg" alt="bumble" width="50"> |
 | bundled-notes |  |  <img src="../icons/bundled-notes.svg" alt="bundled-notes" width="50"> |
 | bunkerweb | <img src="../icons/bunkerweb.png" alt="bunkerweb" width="50"> |  <img src="../icons/bunkerweb.svg" alt="bunkerweb" width="50"> |

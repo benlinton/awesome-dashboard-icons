@@ -17,6 +17,8 @@
 | hard-forum | <img src="../icons/hard-forum.png" alt="hard-forum" width="50"> |   |
 | harvester | <img src="../icons/harvester.png" alt="harvester" width="50"> |  <img src="../icons/harvester.svg" alt="harvester" width="50"> |
 | hashdroid |  |  <img src="../icons/hashdroid.svg" alt="hashdroid" width="50"> |
+| hashicorp |  |  <img src="../icons/hashicorp.svg" alt="hashicorp" width="50"> |
+| hashicorp-dark |  |  <img src="../icons/hashicorp-dark.svg" alt="hashicorp-dark" width="50"> |
 | hastypaste | <img src="../icons/hastypaste.png" alt="hastypaste" width="50"> |  <img src="../icons/hastypaste.svg" alt="hastypaste" width="50"> |
 | hasura | <img src="../icons/hasura.png" alt="hasura" width="50"> |  <img src="../icons/hasura.svg" alt="hasura" width="50"> |
 | hatsh | <img src="../icons/hatsh.png" alt="hatsh" width="50"> |  <img src="../icons/hatsh.svg" alt="hatsh" width="50"> |
@@ -26,6 +28,7 @@
 | hd-videobox |  |  <img src="../icons/hd-videobox.svg" alt="hd-videobox" width="50"> |
 | hdhomerun | <img src="../icons/hdhomerun.png" alt="hdhomerun" width="50"> |   |
 | headphones | <img src="../icons/headphones.png" alt="headphones" width="50"> |   |
+| headscale |  |  <img src="../icons/headscale.svg" alt="headscale" width="50"> |
 | headspace |  |  <img src="../icons/headspace.svg" alt="headspace" width="50"> |
 | healow |  |  <img src="../icons/healow.svg" alt="healow" width="50"> |
 | healthchecks | <img src="../icons/healthchecks.png" alt="healthchecks" width="50"> |  <img src="../icons/healthchecks.svg" alt="healthchecks" width="50"> |
@@ -41,6 +44,7 @@
 | hepsiburada |  |  <img src="../icons/hepsiburada.svg" alt="hepsiburada" width="50"> |
 | here-ar |  |  <img src="../icons/here-ar.svg" alt="here-ar" width="50"> |
 | here-wego |  |  <img src="../icons/here-wego.svg" alt="here-wego" width="50"> |
+| heroku |  |  <img src="../icons/heroku.svg" alt="heroku" width="50"> |
 | hetzner | <img src="../icons/hetzner.png" alt="hetzner" width="50"> |  <img src="../icons/hetzner.svg" alt="hetzner" width="50"> |
 | hexo | <img src="../icons/hexo.png" alt="hexo" width="50"> |  <img src="../icons/hexo.svg" alt="hexo" width="50"> |
 | hh |  |  <img src="../icons/hh.svg" alt="hh" width="50"> |
@@ -69,6 +73,7 @@
 | home-workout |  |  <img src="../icons/home-workout.svg" alt="home-workout" width="50"> |
 | home-workouts-gym-pro |  |  <img src="../icons/home-workouts-gym-pro.svg" alt="home-workouts-gym-pro" width="50"> |
 | homebox | <img src="../icons/homebox.png" alt="homebox" width="50"> |  <img src="../icons/homebox.svg" alt="homebox" width="50"> |
+| homebrew |  |  <img src="../icons/homebrew.svg" alt="homebrew" width="50"> |
 | homebridge | <img src="../icons/homebridge.png" alt="homebridge" width="50"> |  <img src="../icons/homebridge.svg" alt="homebridge" width="50"> |
 | homepage | <img src="../icons/homepage.png" alt="homepage" width="50"> |   |
 | homer | <img src="../icons/homer.png" alt="homer" width="50"> |  <img src="../icons/homer.svg" alt="homer" width="50"> |
@@ -88,8 +93,11 @@
 | hound |  |  <img src="../icons/hound.svg" alt="hound" width="50"> |
 | houzz |  |  <img src="../icons/houzz.svg" alt="houzz" width="50"> |
 | hp | <img src="../icons/hp.png" alt="hp" width="50"> |  <img src="../icons/hp.svg" alt="hp" width="50"> |
+| hp-dark |  |  <img src="../icons/hp-dark.svg" alt="hp-dark" width="50"> |
+| hp-light |  |  <img src="../icons/hp-light.svg" alt="hp-light" width="50"> |
 | htc-videoplayer |  |  <img src="../icons/htc-videoplayer.svg" alt="htc-videoplayer" width="50"> |
 | html | <img src="../icons/html.png" alt="html" width="50"> |  <img src="../icons/html.svg" alt="html" width="50"> |
+| html5 |  |  <img src="../icons/html5.svg" alt="html5" width="50"> |
 | http-custom |  |  <img src="../icons/http-custom.svg" alt="http-custom" width="50"> |
 | huawei | <img src="../icons/huawei.png" alt="huawei" width="50"> |  <img src="../icons/huawei.svg" alt="huawei" width="50"> |
 | huawei-appgallery |  |  <img src="../icons/huawei-appgallery.svg" alt="huawei-appgallery" width="50"> |

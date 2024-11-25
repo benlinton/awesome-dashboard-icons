@@ -20,6 +20,8 @@
 | lark-player |  |  <img src="../icons/lark-player.svg" alt="lark-player" width="50"> |
 | lastfm |  |  <img src="../icons/lastfm.svg" alt="lastfm" width="50"> |
 | lastpass |  |  <img src="../icons/lastpass.svg" alt="lastpass" width="50"> |
+| latex |  |  <img src="../icons/latex.svg" alt="latex" width="50"> |
+| latex-logo |  |  <img src="../icons/latex-logo.svg" alt="latex-logo" width="50"> |
 | launchbox | <img src="../icons/launchbox.png" alt="launchbox" width="50"> |   |
 | lawnchair-launcher |  |  <img src="../icons/lawnchair-launcher.svg" alt="lawnchair-launcher" width="50"> |
 | lawnchair-settings |  |  <img src="../icons/lawnchair-settings.svg" alt="lawnchair-settings" width="50"> |
@@ -32,6 +34,7 @@
 | leanote | <img src="../icons/leanote.png" alt="leanote" width="50"> |  <img src="../icons/leanote.svg" alt="leanote" width="50"> |
 | leantime | <img src="../icons/leantime.png" alt="leantime" width="50"> |   |
 | learning |  |  <img src="../icons/learning.svg" alt="learning" width="50"> |
+| ledger |  |  <img src="../icons/ledger.svg" alt="ledger" width="50"> |
 | ledger-live |  |  <img src="../icons/ledger-live.svg" alt="ledger-live" width="50"> |
 | left-4-dead-2 | <img src="../icons/left-4-dead-2.png" alt="left-4-dead-2" width="50"> |   |
 | lemmur |  |  <img src="../icons/lemmur.svg" alt="lemmur" width="50"> |
@@ -39,6 +42,7 @@
 | lemmy-light | <img src="../icons/lemmy-light.png" alt="lemmy-light" width="50"> |   |
 | lemonldap-ng | <img src="../icons/lemonldap-ng.png" alt="lemonldap-ng" width="50"> |   |
 | lemonldapng | <img src="../icons/lemonldapng.png" alt="lemonldapng" width="50"> |   |
+| lenovo |  |  <img src="../icons/lenovo.svg" alt="lenovo" width="50"> |
 | lenskart |  |  <img src="../icons/lenskart.svg" alt="lenskart" width="50"> |
 | lenta |  |  <img src="../icons/lenta.svg" alt="lenta" width="50"> |
 | leroy-merlin |  |  <img src="../icons/leroy-merlin.svg" alt="leroy-merlin" width="50"> |
@@ -46,6 +50,9 @@
 | letual |  |  <img src="../icons/letual.svg" alt="letual" width="50"> |
 | lexis-audio-editor |  |  <img src="../icons/lexis-audio-editor.svg" alt="lexis-audio-editor" width="50"> |
 | libby |  |  <img src="../icons/libby.svg" alt="libby" width="50"> |
+| libera-chat |  |  <img src="../icons/libera-chat.svg" alt="libera-chat" width="50"> |
+| liberapay |  |  <img src="../icons/liberapay.svg" alt="liberapay" width="50"> |
+| liberapay-light |  |  <img src="../icons/liberapay-light.svg" alt="liberapay-light" width="50"> |
 | libreav |  |  <img src="../icons/libreav.svg" alt="libreav" width="50"> |
 | libreddit | <img src="../icons/libreddit.png" alt="libreddit" width="50"> |  <img src="../icons/libreddit.svg" alt="libreddit" width="50"> |
 | libremdb | <img src="../icons/libremdb.png" alt="libremdb" width="50"> |   |
@@ -78,6 +85,7 @@
 | linconnect |  |  <img src="../icons/linconnect.svg" alt="linconnect" width="50"> |
 | line |  |  <img src="../icons/line.svg" alt="line" width="50"> |
 | line-lite |  |  <img src="../icons/line-lite.svg" alt="line-lite" width="50"> |
+| lineageos |  |  <img src="../icons/lineageos.svg" alt="lineageos" width="50"> |
 | linex |  |  <img src="../icons/linex.svg" alt="linex" width="50"> |
 | linkace | <img src="../icons/linkace.png" alt="linkace" width="50"> |  <img src="../icons/linkace.svg" alt="linkace" width="50"> |
 | linkding | <img src="../icons/linkding.png" alt="linkding" width="50"> |  <img src="../icons/linkding.svg" alt="linkding" width="50"> |
@@ -88,6 +96,8 @@
 | linkwarden-light | <img src="../icons/linkwarden-light.png" alt="linkwarden-light" width="50"> |   |
 | linode | <img src="../icons/linode.png" alt="linode" width="50"> |  <img src="../icons/linode.svg" alt="linode" width="50"> |
 | linphone |  |  <img src="../icons/linphone.svg" alt="linphone" width="50"> |
+| linux |  |  <img src="../icons/linux.svg" alt="linux" width="50"> |
+| linux-foundation |  |  <img src="../icons/linux-foundation.svg" alt="linux-foundation" width="50"> |
 | linux-mint | <img src="../icons/linux-mint.png" alt="linux-mint" width="50"> |  <img src="../icons/linux-mint.svg" alt="linux-mint" width="50"> |
 | linuxserver-io | <img src="../icons/linuxserver-io.png" alt="linuxserver-io" width="50"> |  <img src="../icons/linuxserver-io.svg" alt="linuxserver-io" width="50"> |
 | liremdb |  |  <img src="../icons/liremdb.svg" alt="liremdb" width="50"> |
@@ -132,6 +142,9 @@
 | lux |  |  <img src="../icons/lux.svg" alt="lux" width="50"> |
 | lux-black |  |  <img src="../icons/lux-black.svg" alt="lux-black" width="50"> |
 | lux-dark |  |  <img src="../icons/lux-dark.svg" alt="lux-dark" width="50"> |
+| lxc |  |  <img src="../icons/lxc.svg" alt="lxc" width="50"> |
+| lxde |  |  <img src="../icons/lxde.svg" alt="lxde" width="50"> |
+| lxde-light |  |  <img src="../icons/lxde-light.svg" alt="lxde-light" width="50"> |
 | lychee | <img src="../icons/lychee.png" alt="lychee" width="50"> |   |
 | lyft |  |  <img src="../icons/lyft.svg" alt="lyft" width="50"> |
 | lynx | <img src="../icons/lynx.png" alt="lynx" width="50"> |  <img src="../icons/lynx.svg" alt="lynx" width="50"> |

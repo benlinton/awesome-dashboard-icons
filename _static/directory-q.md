@@ -8,6 +8,7 @@
 |-----------|-----|-----|
 | qbittorrent | <img src="../icons/qbittorrent.png" alt="qbittorrent" width="50"> |  <img src="../icons/qbittorrent.svg" alt="qbittorrent" width="50"> |
 | qdirstat | <img src="../icons/qdirstat.png" alt="qdirstat" width="50"> |  <img src="../icons/qdirstat.svg" alt="qdirstat" width="50"> |
+| qemu |  |  <img src="../icons/qemu.svg" alt="qemu" width="50"> |
 | qinglong | <img src="../icons/qinglong.png" alt="qinglong" width="50"> |  <img src="../icons/qinglong.svg" alt="qinglong" width="50"> |
 | qksms |  |  <img src="../icons/qksms.svg" alt="qksms" width="50"> |
 | qnap | <img src="../icons/qnap.png" alt="qnap" width="50"> |  <img src="../icons/qnap.svg" alt="qnap" width="50"> |

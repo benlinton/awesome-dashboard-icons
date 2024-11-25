@@ -52,6 +52,7 @@
 | telekom | <img src="../icons/telekom.png" alt="telekom" width="50"> |  <img src="../icons/telekom.svg" alt="telekom" width="50"> |
 | teleport | <img src="../icons/teleport.png" alt="teleport" width="50"> |  <img src="../icons/teleport.svg" alt="teleport" width="50"> |
 | telkomsel |  |  <img src="../icons/telkomsel.svg" alt="telkomsel" width="50"> |
+| tenable |  |  <img src="../icons/tenable.svg" alt="tenable" width="50"> |
 | tenda | <img src="../icons/tenda.png" alt="tenda" width="50"> |  <img src="../icons/tenda.svg" alt="tenda" width="50"> |
 | terabox |  |  <img src="../icons/terabox.svg" alt="terabox" width="50"> |
 | termbot |  |  <img src="../icons/termbot.svg" alt="termbot" width="50"> |
@@ -76,6 +77,7 @@
 | theia | <img src="../icons/theia.png" alt="theia" width="50"> |  <img src="../icons/theia.svg" alt="theia" width="50"> |
 | theia-light | <img src="../icons/theia-light.png" alt="theia-light" width="50"> |   |
 | thelounge | <img src="../icons/thelounge.png" alt="thelounge" width="50"> |  <img src="../icons/thelounge.svg" alt="thelounge" width="50"> |
+| thelounge-light |  |  <img src="../icons/thelounge-light.svg" alt="thelounge-light" width="50"> |
 | themepark | <img src="../icons/themepark.png" alt="themepark" width="50"> |   |
 | theodinproject | <img src="../icons/theodinproject.png" alt="theodinproject" width="50"> |  <img src="../icons/theodinproject.svg" alt="theodinproject" width="50"> |
 | thescore |  |  <img src="../icons/thescore.svg" alt="thescore" width="50"> |
@@ -101,8 +103,8 @@
 | tinder |  |  <img src="../icons/tinder.svg" alt="tinder" width="50"> |
 | tinkoff |  |  <img src="../icons/tinkoff.svg" alt="tinkoff" width="50"> |
 | tiny-fax |  |  <img src="../icons/tiny-fax.svg" alt="tiny-fax" width="50"> |
-| tinypilot | <img src="../icons/tinypilot.png" alt="tinypilot" width="50"> |   |
-| tinytinyrss | <img src="../icons/tinytinyrss.png" alt="tinytinyrss" width="50"> |   |
+| tiny-tiny-rss | <img src="../icons/tiny-tiny-rss.png" alt="tiny-tiny-rss" width="50"> |  <img src="../icons/tiny-tiny-rss.svg" alt="tiny-tiny-rss" width="50"> |
+| tinypilot | <img src="../icons/tinypilot.png" alt="tinypilot" width="50"> |  <img src="../icons/tinypilot.svg" alt="tinypilot" width="50"> |
 | tipi | <img src="../icons/tipi.png" alt="tipi" width="50"> |   |
 | titanium-backup |  |  <img src="../icons/titanium-backup.svg" alt="titanium-backup" width="50"> |
 | tix-id |  |  <img src="../icons/tix-id.svg" alt="tix-id" width="50"> |
@@ -113,9 +115,10 @@
 | tokocrypto |  |  <img src="../icons/tokocrypto.svg" alt="tokocrypto" width="50"> |
 | tokopedia |  |  <img src="../icons/tokopedia.svg" alt="tokopedia" width="50"> |
 | tolgee | <img src="../icons/tolgee.png" alt="tolgee" width="50"> |  <img src="../icons/tolgee.svg" alt="tolgee" width="50"> |
+| toml |  |  <img src="../icons/toml.svg" alt="toml" width="50"> |
 | tooljet | <img src="../icons/tooljet.png" alt="tooljet" width="50"> |  <img src="../icons/tooljet.svg" alt="tooljet" width="50"> |
-| tor | <img src="../icons/tor.png" alt="tor" width="50"> |   |
-| torbrowser |  |  <img src="../icons/torbrowser.svg" alt="torbrowser" width="50"> |
+| tor | <img src="../icons/tor.png" alt="tor" width="50"> |  <img src="../icons/tor.svg" alt="tor" width="50"> |
+| tor-project |  |  <img src="../icons/tor-project.svg" alt="tor-project" width="50"> |
 | torrent-video-player-tvp |  |  <img src="../icons/torrent-video-player-tvp.svg" alt="torrent-video-player-tvp" width="50"> |
 | torrserve |  |  <img src="../icons/torrserve.svg" alt="torrserve" width="50"> |
 | torrserver | <img src="../icons/torrserver.png" alt="torrserver" width="50"> |   |
@@ -123,7 +126,7 @@
 | totalplay |  |  <img src="../icons/totalplay.svg" alt="totalplay" width="50"> |
 | totalplay-control |  |  <img src="../icons/totalplay-control.svg" alt="totalplay-control" width="50"> |
 | touch-retouch |  |  <img src="../icons/touch-retouch.svg" alt="touch-retouch" width="50"> |
-| tp-link | <img src="../icons/tp-link.png" alt="tp-link" width="50"> |   |
+| tp-link | <img src="../icons/tp-link.png" alt="tp-link" width="50"> |  <img src="../icons/tp-link.svg" alt="tp-link" width="50"> |
 | tpplc |  |  <img src="../icons/tpplc.svg" alt="tpplc" width="50"> |
 | traccar | <img src="../icons/traccar.png" alt="traccar" width="50"> |  <img src="../icons/traccar.svg" alt="traccar" width="50"> |
 | track-and-graph |  |  <img src="../icons/track-and-graph.svg" alt="track-and-graph" width="50"> |
@@ -132,6 +135,7 @@
 | trackview |  |  <img src="../icons/trackview.svg" alt="trackview" width="50"> |
 | tradingview |  |  <img src="../icons/tradingview.svg" alt="tradingview" width="50"> |
 | traefik | <img src="../icons/traefik.png" alt="traefik" width="50"> |  <img src="../icons/traefik.svg" alt="traefik" width="50"> |
+| traefik-gopher |  |  <img src="../icons/traefik-gopher.svg" alt="traefik-gopher" width="50"> |
 | traefik-proxy | <img src="../icons/traefik-proxy.png" alt="traefik-proxy" width="50"> |  <img src="../icons/traefik-proxy.svg" alt="traefik-proxy" width="50"> |
 | traggo | <img src="../icons/traggo.png" alt="traggo" width="50"> |  <img src="../icons/traggo.svg" alt="traggo" width="50"> |
 | trakt | <img src="../icons/trakt.png" alt="trakt" width="50"> |  <img src="../icons/trakt.svg" alt="trakt" width="50"> |
@@ -139,11 +143,15 @@
 | transit |  |  <img src="../icons/transit.svg" alt="transit" width="50"> |
 | transmission | <img src="../icons/transmission.png" alt="transmission" width="50"> |  <img src="../icons/transmission.svg" alt="transmission" width="50"> |
 | trash-guides | <img src="../icons/trash-guides.png" alt="trash-guides" width="50"> |   |
+| travis-ci |  |  <img src="../icons/travis-ci.svg" alt="travis-ci" width="50"> |
 | trax-music-player |  |  <img src="../icons/trax-music-player.svg" alt="trax-music-player" width="50"> |
 | trello |  |  <img src="../icons/trello.svg" alt="trello" width="50"> |
 | trendyol |  |  <img src="../icons/trendyol.svg" alt="trendyol" width="50"> |
 | tresorit |  |  <img src="../icons/tresorit.svg" alt="tresorit" width="50"> |
+| trezor |  |  <img src="../icons/trezor.svg" alt="trezor" width="50"> |
+| trezor-white |  |  <img src="../icons/trezor-white.svg" alt="trezor-white" width="50"> |
 | trilium | <img src="../icons/trilium.png" alt="trilium" width="50"> |  <img src="../icons/trilium.svg" alt="trilium" width="50"> |
+| trillium |  |  <img src="../icons/trillium.svg" alt="trillium" width="50"> |
 | trinity |  |  <img src="../icons/trinity.svg" alt="trinity" width="50"> |
 | trivy | <img src="../icons/trivy.png" alt="trivy" width="50"> |   |
 | troddit | <img src="../icons/troddit.png" alt="troddit" width="50"> |   |
@@ -155,7 +163,7 @@
 | truenas | <img src="../icons/truenas.png" alt="truenas" width="50"> |  <img src="../icons/truenas.svg" alt="truenas" width="50"> |
 | truenas-core | <img src="../icons/truenas-core.png" alt="truenas-core" width="50"> |   |
 | truenas-enterprise | <img src="../icons/truenas-enterprise.png" alt="truenas-enterprise" width="50"> |   |
-| truenas-scale | <img src="../icons/truenas-scale.png" alt="truenas-scale" width="50"> |   |
+| truenas-scale | <img src="../icons/truenas-scale.png" alt="truenas-scale" width="50"> |  <img src="../icons/truenas-scale.svg" alt="truenas-scale" width="50"> |
 | trulia |  |  <img src="../icons/trulia.svg" alt="trulia" width="50"> |
 | tube-archivist | <img src="../icons/tube-archivist.png" alt="tube-archivist" width="50"> |   |
 | tube-archivist-light | <img src="../icons/tube-archivist-light.png" alt="tube-archivist-light" width="50"> |   |

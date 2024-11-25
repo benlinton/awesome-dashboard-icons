@@ -19,6 +19,8 @@
 | rallly | <img src="../icons/rallly.png" alt="rallly" width="50"> |  <img src="../icons/rallly.svg" alt="rallly" width="50"> |
 | rancher | <img src="../icons/rancher.png" alt="rancher" width="50"> |  <img src="../icons/rancher.svg" alt="rancher" width="50"> |
 | raneto | <img src="../icons/raneto.png" alt="raneto" width="50"> |   |
+| rapid7 |  |  <img src="../icons/rapid7.svg" alt="rapid7" width="50"> |
+| rapid7-light |  |  <img src="../icons/rapid7-light.svg" alt="rapid7-light" width="50"> |
 | rappi |  |  <img src="../icons/rappi.svg" alt="rappi" width="50"> |
 | rar |  |  <img src="../icons/rar.svg" alt="rar" width="50"> |
 | raritan | <img src="../icons/raritan.png" alt="raritan" width="50"> |   |
@@ -47,6 +49,8 @@
 | red-moon |  |  <img src="../icons/red-moon.svg" alt="red-moon" width="50"> |
 | reddit | <img src="../icons/reddit.png" alt="reddit" width="50"> |  <img src="../icons/reddit.svg" alt="reddit" width="50"> |
 | redfin |  |  <img src="../icons/redfin.svg" alt="redfin" width="50"> |
+| redhat |  |  <img src="../icons/redhat.svg" alt="redhat" width="50"> |
+| redhat-openshift |  |  <img src="../icons/redhat-openshift.svg" alt="redhat-openshift" width="50"> |
 | redis | <img src="../icons/redis.png" alt="redis" width="50"> |  <img src="../icons/redis.svg" alt="redis" width="50"> |
 | redream |  |  <img src="../icons/redream.svg" alt="redream" width="50"> |
 | reicast |  |  <img src="../icons/reicast.svg" alt="reicast" width="50"> |
@@ -62,6 +66,7 @@
 | remote-lg |  |  <img src="../icons/remote-lg.svg" alt="remote-lg" width="50"> |
 | remote-tv |  |  <img src="../icons/remote-tv.svg" alt="remote-tv" width="50"> |
 | remotely | <img src="../icons/remotely.png" alt="remotely" width="50"> |   |
+| reolink |  |  <img src="../icons/reolink.svg" alt="reolink" width="50"> |
 | repl-it |  |  <img src="../icons/repl-it.svg" alt="repl-it" width="50"> |
 | reportador-vlc |  |  <img src="../icons/reportador-vlc.svg" alt="reportador-vlc" width="50"> |
 | requestly | <img src="../icons/requestly.png" alt="requestly" width="50"> |  <img src="../icons/requestly.svg" alt="requestly" width="50"> |
@@ -85,6 +90,7 @@
 | ringid |  |  <img src="../icons/ringid.svg" alt="ringid" width="50"> |
 | riot | <img src="../icons/riot.png" alt="riot" width="50"> |  <img src="../icons/riot.svg" alt="riot" width="50"> |
 | ripple |  |  <img src="../icons/ripple.svg" alt="ripple" width="50"> |
+| riscv |  |  <img src="../icons/riscv.svg" alt="riscv" width="50"> |
 | risk-of-rain-2 | <img src="../icons/risk-of-rain-2.png" alt="risk-of-rain-2" width="50"> |   |
 | rive-gauche |  |  <img src="../icons/rive-gauche.svg" alt="rive-gauche" width="50"> |
 | robin |  |  <img src="../icons/robin.svg" alt="robin" width="50"> |
@@ -120,6 +126,7 @@
 | runonflux | <img src="../icons/runonflux.png" alt="runonflux" width="50"> |  <img src="../icons/runonflux.svg" alt="runonflux" width="50"> |
 | russian-post |  |  <img src="../icons/russian-post.svg" alt="russian-post" width="50"> |
 | rust | <img src="../icons/rust.png" alt="rust" width="50"> |  <img src="../icons/rust.svg" alt="rust" width="50"> |
+| rust-crab |  |  <img src="../icons/rust-crab.svg" alt="rust-crab" width="50"> |
 | rust-game |  |  <img src="../icons/rust-game.svg" alt="rust-game" width="50"> |
 | rustdesk | <img src="../icons/rustdesk.png" alt="rustdesk" width="50"> |  <img src="../icons/rustdesk.svg" alt="rustdesk" width="50"> |
 | rutaxi |  |  <img src="../icons/rutaxi.svg" alt="rutaxi" width="50"> |

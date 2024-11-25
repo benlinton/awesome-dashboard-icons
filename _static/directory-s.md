@@ -9,7 +9,7 @@
 | s8-edge-music-player |  |  <img src="../icons/s8-edge-music-player.svg" alt="s8-edge-music-player" width="50"> |
 | sabnzbd | <img src="../icons/sabnzbd.png" alt="sabnzbd" width="50"> |  <img src="../icons/sabnzbd.svg" alt="sabnzbd" width="50"> |
 | sabnzbd-alt | <img src="../icons/sabnzbd-alt.png" alt="sabnzbd-alt" width="50"> |  <img src="../icons/sabnzbd-alt.svg" alt="sabnzbd-alt" width="50"> |
-| safari | <img src="../icons/safari.png" alt="safari" width="50"> |   |
+| safari | <img src="../icons/safari.png" alt="safari" width="50"> |  <img src="../icons/safari.svg" alt="safari" width="50"> |
 | safari-ios | <img src="../icons/safari-ios.png" alt="safari-ios" width="50"> |  <img src="../icons/safari-ios.svg" alt="safari-ios" width="50"> |
 | safeincloud |  |  <img src="../icons/safeincloud.svg" alt="safeincloud" width="50"> |
 | sagemcom | <img src="../icons/sagemcom.png" alt="sagemcom" width="50"> |   |
@@ -40,16 +40,18 @@
 | sber-market |  |  <img src="../icons/sber-market.svg" alt="sber-market" width="50"> |
 | sberbank |  |  <img src="../icons/sberbank.svg" alt="sberbank" width="50"> |
 | sberbank-spasibo |  |  <img src="../icons/sberbank-spasibo.svg" alt="sberbank-spasibo" width="50"> |
+| scaleway |  |  <img src="../icons/scaleway.svg" alt="scaleway" width="50"> |
 | scanservjs | <img src="../icons/scanservjs.png" alt="scanservjs" width="50"> |   |
 | schneider | <img src="../icons/schneider.png" alt="schneider" width="50"> |   |
 | scrcpy |  |  <img src="../icons/scrcpy.svg" alt="scrcpy" width="50"> |
 | screenconnect | <img src="../icons/screenconnect.png" alt="screenconnect" width="50"> |  <img src="../icons/screenconnect.svg" alt="screenconnect" width="50"> |
 | scribd |  |  <img src="../icons/scribd.svg" alt="scribd" width="50"> |
 | scrutiny | <img src="../icons/scrutiny.png" alt="scrutiny" width="50"> |  <img src="../icons/scrutiny.svg" alt="scrutiny" width="50"> |
-| scrutiny-light | <img src="../icons/scrutiny-light.png" alt="scrutiny-light" width="50"> |   |
+| scrutiny-light | <img src="../icons/scrutiny-light.png" alt="scrutiny-light" width="50"> |  <img src="../icons/scrutiny-light.svg" alt="scrutiny-light" width="50"> |
 | scrypted | <img src="../icons/scrypted.png" alt="scrypted" width="50"> |   |
 | sd-maid |  |  <img src="../icons/sd-maid.svg" alt="sd-maid" width="50"> |
 | seafile | <img src="../icons/seafile.png" alt="seafile" width="50"> |  <img src="../icons/seafile.svg" alt="seafile" width="50"> |
+| seagate |  |  <img src="../icons/seagate.svg" alt="seagate" width="50"> |
 | searx | <img src="../icons/searx.png" alt="searx" width="50"> |  <img src="../icons/searx.svg" alt="searx" width="50"> |
 | searx-light | <img src="../icons/searx-light.png" alt="searx-light" width="50"> |   |
 | searxmetasearchengine | <img src="../icons/searxmetasearchengine.png" alt="searxmetasearchengine" width="50"> |   |
@@ -66,6 +68,8 @@
 | selinux |  |  <img src="../icons/selinux.svg" alt="selinux" width="50"> |
 | semaphor |  |  <img src="../icons/semaphor.svg" alt="semaphor" width="50"> |
 | semaphore | <img src="../icons/semaphore.png" alt="semaphore" width="50"> |  <img src="../icons/semaphore.svg" alt="semaphore" width="50"> |
+| semver |  |  <img src="../icons/semver.svg" alt="semver" width="50"> |
+| semver-light |  |  <img src="../icons/semver-light.svg" alt="semver-light" width="50"> |
 | send | <img src="../icons/send.png" alt="send" width="50"> |  <img src="../icons/send.svg" alt="send" width="50"> |
 | send-files-to-tv |  |  <img src="../icons/send-files-to-tv.svg" alt="send-files-to-tv" width="50"> |
 | sendinblue | <img src="../icons/sendinblue.png" alt="sendinblue" width="50"> |  <img src="../icons/sendinblue.svg" alt="sendinblue" width="50"> |
@@ -77,6 +81,7 @@
 | serpbear | <img src="../icons/serpbear.png" alt="serpbear" width="50"> |   |
 | servarr | <img src="../icons/servarr.png" alt="servarr" width="50"> |  <img src="../icons/servarr.svg" alt="servarr" width="50"> |
 | servarr-light | <img src="../icons/servarr-light.png" alt="servarr-light" width="50"> |   |
+| server-fault |  |  <img src="../icons/server-fault.svg" alt="server-fault" width="50"> |
 | serviio | <img src="../icons/serviio.png" alt="serviio" width="50"> |  <img src="../icons/serviio.svg" alt="serviio" width="50"> |
 | session | <img src="../icons/session.png" alt="session" width="50"> |  <img src="../icons/session.svg" alt="session" width="50"> |
 | sftpgo | <img src="../icons/sftpgo.png" alt="sftpgo" width="50"> |   |
@@ -135,6 +140,7 @@
 | slink | <img src="../icons/slink.png" alt="slink" width="50"> |   |
 | slink-light | <img src="../icons/slink-light.png" alt="slink-light" width="50"> |   |
 | slskd | <img src="../icons/slskd.png" alt="slskd" width="50"> |  <img src="../icons/slskd.svg" alt="slskd" width="50"> |
+| smallstep |  |  <img src="../icons/smallstep.svg" alt="smallstep" width="50"> |
 | smart-audiobook-player |  |  <img src="../icons/smart-audiobook-player.svg" alt="smart-audiobook-player" width="50"> |
 | smart-eq |  |  <img src="../icons/smart-eq.svg" alt="smart-eq" width="50"> |
 | smart-launcher |  |  <img src="../icons/smart-launcher.svg" alt="smart-launcher" width="50"> |
@@ -175,6 +181,7 @@
 | snoopsnitch |  |  <img src="../icons/snoopsnitch.svg" alt="snoopsnitch" width="50"> |
 | sodexo |  |  <img src="../icons/sodexo.svg" alt="sodexo" width="50"> |
 | sofascore |  |  <img src="../icons/sofascore.svg" alt="sofascore" width="50"> |
+| software-in-the-public-interest |  |  <img src="../icons/software-in-the-public-interest.svg" alt="software-in-the-public-interest" width="50"> |
 | software-update |  |  <img src="../icons/software-update.svg" alt="software-update" width="50"> |
 | sogo | <img src="../icons/sogo.png" alt="sogo" width="50"> |  <img src="../icons/sogo.svg" alt="sogo" width="50"> |
 | solar-system-scope |  |  <img src="../icons/solar-system-scope.svg" alt="solar-system-scope" width="50"> |
@@ -195,6 +202,8 @@
 | soundhound |  |  <img src="../icons/soundhound.svg" alt="soundhound" width="50"> |
 | soundwire |  |  <img src="../icons/soundwire.svg" alt="soundwire" width="50"> |
 | sourcegraph | <img src="../icons/sourcegraph.png" alt="sourcegraph" width="50"> |  <img src="../icons/sourcegraph.svg" alt="sourcegraph" width="50"> |
+| sourcehut |  |  <img src="../icons/sourcehut.svg" alt="sourcehut" width="50"> |
+| sourcehut-light |  |  <img src="../icons/sourcehut-light.svg" alt="sourcehut-light" width="50"> |
 | southern-cross |  |  <img src="../icons/southern-cross.svg" alt="southern-cross" width="50"> |
 | space-engineers | <img src="../icons/space-engineers.png" alt="space-engineers" width="50"> |   |
 | space-engineers-dark | <img src="../icons/space-engineers-dark.png" alt="space-engineers-dark" width="50"> |   |
@@ -225,6 +234,7 @@
 | sprout |  |  <img src="../icons/sprout.svg" alt="sprout" width="50"> |
 | spurs |  |  <img src="../icons/spurs.svg" alt="spurs" width="50"> |
 | sputnik-browser |  |  <img src="../icons/sputnik-browser.svg" alt="sputnik-browser" width="50"> |
+| sqlite |  |  <img src="../icons/sqlite.svg" alt="sqlite" width="50"> |
 | sqlitebrowser | <img src="../icons/sqlitebrowser.png" alt="sqlitebrowser" width="50"> |  <img src="../icons/sqlitebrowser.svg" alt="sqlitebrowser" width="50"> |
 | sqliteprime |  |  <img src="../icons/sqliteprime.svg" alt="sqliteprime" width="50"> |
 | squad | <img src="../icons/squad.png" alt="squad" width="50"> |   |
@@ -233,6 +243,8 @@
 | squeezebox-server | <img src="../icons/squeezebox-server.png" alt="squeezebox-server" width="50"> |   |
 | squidex | <img src="../icons/squidex.png" alt="squidex" width="50"> |  <img src="../icons/squidex.svg" alt="squidex" width="50"> |
 | sshwifty | <img src="../icons/sshwifty.png" alt="sshwifty" width="50"> |  <img src="../icons/sshwifty.svg" alt="sshwifty" width="50"> |
+| stack-exchange |  |  <img src="../icons/stack-exchange.svg" alt="stack-exchange" width="50"> |
+| stack-overflow |  |  <img src="../icons/stack-overflow.svg" alt="stack-overflow" width="50"> |
 | stalwart | <img src="../icons/stalwart.png" alt="stalwart" width="50"> |  <img src="../icons/stalwart.svg" alt="stalwart" width="50"> |
 | star-chart |  |  <img src="../icons/star-chart.svg" alt="star-chart" width="50"> |
 | star-walk-2 |  |  <img src="../icons/star-walk-2.svg" alt="star-walk-2" width="50"> |
@@ -241,11 +253,15 @@
 | startpage | <img src="../icons/startpage.png" alt="startpage" width="50"> |  <img src="../icons/startpage.svg" alt="startpage" width="50"> |
 | stash | <img src="../icons/stash.png" alt="stash" width="50"> |  <img src="../icons/stash.svg" alt="stash" width="50"> |
 | statefarm |  |  <img src="../icons/statefarm.svg" alt="statefarm" width="50"> |
+| static-web-server |  |  <img src="../icons/static-web-server.svg" alt="static-web-server" width="50"> |
+| static-web-server-white |  |  <img src="../icons/static-web-server-white.svg" alt="static-web-server-white" width="50"> |
 | statping | <img src="../icons/statping.png" alt="statping" width="50"> |   |
 | statping-ng | <img src="../icons/statping-ng.png" alt="statping-ng" width="50"> |   |
 | stb-proxy | <img src="../icons/stb-proxy.png" alt="stb-proxy" width="50"> |  <img src="../icons/stb-proxy.svg" alt="stb-proxy" width="50"> |
 | steam | <img src="../icons/steam.png" alt="steam" width="50"> |  <img src="../icons/steam.svg" alt="steam" width="50"> |
-| steamlink |  |  <img src="../icons/steamlink.svg" alt="steamlink" width="50"> |
+| steam-deck |  |  <img src="../icons/steam-deck.svg" alt="steam-deck" width="50"> |
+| steam-link |  |  <img src="../icons/steam-link.svg" alt="steam-link" width="50"> |
+| steamdb |  |  <img src="../icons/steamdb.svg" alt="steamdb" width="50"> |
 | stellarium |  |  <img src="../icons/stellarium.svg" alt="stellarium" width="50"> |
 | stellio-player |  |  <img src="../icons/stellio-player.svg" alt="stellio-player" width="50"> |
 | sticker-maker |  |  <img src="../icons/sticker-maker.svg" alt="sticker-maker" width="50"> |
@@ -260,6 +276,7 @@
 | stream-djit |  |  <img src="../icons/stream-djit.svg" alt="stream-djit" width="50"> |
 | streama | <img src="../icons/streama.png" alt="streama" width="50"> |   |
 | stremio | <img src="../icons/stremio.png" alt="stremio" width="50"> |  <img src="../icons/stremio.svg" alt="stremio" width="50"> |
+| stringis |  |  <img src="../icons/stringis.svg" alt="stringis" width="50"> |
 | stump | <img src="../icons/stump.png" alt="stump" width="50"> |  <img src="../icons/stump.svg" alt="stump" width="50"> |
 | stump-alt | <img src="../icons/stump-alt.png" alt="stump-alt" width="50"> |  <img src="../icons/stump-alt.svg" alt="stump-alt" width="50"> |
 | styx-browser |  |  <img src="../icons/styx-browser.svg" alt="styx-browser" width="50"> |
@@ -269,6 +286,7 @@
 | substreamer | <img src="../icons/substreamer.png" alt="substreamer" width="50"> |   |
 | sunshine | <img src="../icons/sunshine.png" alt="sunshine" width="50"> |  <img src="../icons/sunshine.svg" alt="sunshine" width="50"> |
 | sunvox |  |  <img src="../icons/sunvox.svg" alt="sunvox" width="50"> |
+| supabase |  |  <img src="../icons/supabase.svg" alt="supabase" width="50"> |
 | supergenpass |  |  <img src="../icons/supergenpass.svg" alt="supergenpass" width="50"> |
 | supermicro | <img src="../icons/supermicro.png" alt="supermicro" width="50"> |  <img src="../icons/supermicro.svg" alt="supermicro" width="50"> |
 | superproductivity |  |  <img src="../icons/superproductivity.svg" alt="superproductivity" width="50"> |
@@ -296,12 +314,15 @@
 | synology-chat | <img src="../icons/synology-chat.png" alt="synology-chat" width="50"> |   |
 | synology-cloud-sync | <img src="../icons/synology-cloud-sync.png" alt="synology-cloud-sync" width="50"> |   |
 | synology-contacts | <img src="../icons/synology-contacts.png" alt="synology-contacts" width="50"> |   |
+| synology-dark |  |  <img src="../icons/synology-dark.svg" alt="synology-dark" width="50"> |
+| synology-diskstationmanager |  |  <img src="../icons/synology-diskstationmanager.svg" alt="synology-diskstationmanager" width="50"> |
 | synology-document-viewer | <img src="../icons/synology-document-viewer.png" alt="synology-document-viewer" width="50"> |   |
 | synology-download-station | <img src="../icons/synology-download-station.png" alt="synology-download-station" width="50"> |   |
 | synology-drive | <img src="../icons/synology-drive.png" alt="synology-drive" width="50"> |   |
 | synology-drive-server | <img src="../icons/synology-drive-server.png" alt="synology-drive-server" width="50"> |   |
 | synology-dsm | <img src="../icons/synology-dsm.png" alt="synology-dsm" width="50"> |  <img src="../icons/synology-dsm.svg" alt="synology-dsm" width="50"> |
 | synology-file-station | <img src="../icons/synology-file-station.png" alt="synology-file-station" width="50"> |   |
+| synology-light |  |  <img src="../icons/synology-light.svg" alt="synology-light" width="50"> |
 | synology-mail-plus | <img src="../icons/synology-mail-plus.png" alt="synology-mail-plus" width="50"> |   |
 | synology-mail-station | <img src="../icons/synology-mail-station.png" alt="synology-mail-station" width="50"> |   |
 | synology-note-station | <img src="../icons/synology-note-station.png" alt="synology-note-station" width="50"> |   |
@@ -311,10 +332,13 @@
 | synology-photos | <img src="../icons/synology-photos.png" alt="synology-photos" width="50"> |   |
 | synology-surveillance-station | <img src="../icons/synology-surveillance-station.png" alt="synology-surveillance-station" width="50"> |   |
 | synology-text-editor | <img src="../icons/synology-text-editor.png" alt="synology-text-editor" width="50"> |   |
+| synology-two-color |  |  <img src="../icons/synology-two-color.svg" alt="synology-two-color" width="50"> |
 | synology-video-station | <img src="../icons/synology-video-station.png" alt="synology-video-station" width="50"> |   |
 | synology-webstation | <img src="../icons/synology-webstation.png" alt="synology-webstation" width="50"> |   |
 | syphon |  |  <img src="../icons/syphon.svg" alt="syphon" width="50"> |
 | sysreptor | <img src="../icons/sysreptor.png" alt="sysreptor" width="50"> |  <img src="../icons/sysreptor.svg" alt="sysreptor" width="50"> |
+| system76 |  |  <img src="../icons/system76.svg" alt="system76" width="50"> |
+| systemd |  |  <img src="../icons/systemd.svg" alt="systemd" width="50"> |
 
 
 [[HOME](..)][[#](directory.md)][[A](directory-a.md)][[B](directory-b.md)][[C](directory-c.md)][[D](directory-d.md)][[E](directory-e.md)][[F](directory-f.md)][[G](directory-g.md)][[H](directory-h.md)][[I](directory-i.md)][[J](directory-j.md)][[K](directory-k.md)][[L](directory-l.md)][[M](directory-m.md)][[N](directory-n.md)][[O](directory-o.md)][[P](directory-p.md)][[Q](directory-q.md)][[R](directory-r.md)][[S](directory-s.md)][[T](directory-t.md)][[U](directory-u.md)][[V](directory-v.md)][[W](directory-w.md)][[X](directory-x.md)][[Y](directory-y.md)][[Z](directory-z.md)]

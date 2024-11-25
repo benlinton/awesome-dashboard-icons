@@ -10,12 +10,13 @@
 | pacer |  |  <img src="../icons/pacer.svg" alt="pacer" width="50"> |
 | package-manager |  |  <img src="../icons/package-manager.svg" alt="package-manager" width="50"> |
 | packageradar |  |  <img src="../icons/packageradar.svg" alt="packageradar" width="50"> |
+| packer |  |  <img src="../icons/packer.svg" alt="packer" width="50"> |
 | pagerduty | <img src="../icons/pagerduty.png" alt="pagerduty" width="50"> |  <img src="../icons/pagerduty.svg" alt="pagerduty" width="50"> |
-| pairdrop | <img src="../icons/pairdrop.png" alt="pairdrop" width="50"> |   |
+| pairdrop | <img src="../icons/pairdrop.png" alt="pairdrop" width="50"> |  <img src="../icons/pairdrop.svg" alt="pairdrop" width="50"> |
 | palemoon | <img src="../icons/palemoon.png" alt="palemoon" width="50"> |  <img src="../icons/palemoon.svg" alt="palemoon" width="50"> |
 | palette |  |  <img src="../icons/palette.svg" alt="palette" width="50"> |
 | palo-alto | <img src="../icons/palo-alto.png" alt="palo-alto" width="50"> |  <img src="../icons/palo-alto.svg" alt="palo-alto" width="50"> |
-| paloaltonetworks | <img src="../icons/paloaltonetworks.png" alt="paloaltonetworks" width="50"> |   |
+| palo-alto-networks | <img src="../icons/palo-alto-networks.png" alt="palo-alto-networks" width="50"> |  <img src="../icons/palo-alto-networks.svg" alt="palo-alto-networks" width="50"> |
 | palworld | <img src="../icons/palworld.png" alt="palworld" width="50"> |   |
 | pandora |  |  <img src="../icons/pandora.svg" alt="pandora" width="50"> |
 | paperdraw |  |  <img src="../icons/paperdraw.svg" alt="paperdraw" width="50"> |
@@ -69,10 +70,12 @@
 | perceptron |  |  <img src="../icons/perceptron.svg" alt="perceptron" width="50"> |
 | perfect-viewer |  |  <img src="../icons/perfect-viewer.svg" alt="perfect-viewer" width="50"> |
 | period-calendar |  |  <img src="../icons/period-calendar.svg" alt="period-calendar" width="50"> |
+| perl |  |  <img src="../icons/perl.svg" alt="perl" width="50"> |
 | perlite | <img src="../icons/perlite.png" alt="perlite" width="50"> |  <img src="../icons/perlite.svg" alt="perlite" width="50"> |
 | petio | <img src="../icons/petio.png" alt="petio" width="50"> |   |
 | pfrf |  |  <img src="../icons/pfrf.svg" alt="pfrf" width="50"> |
 | pfsense | <img src="../icons/pfsense.png" alt="pfsense" width="50"> |  <img src="../icons/pfsense.svg" alt="pfsense" width="50"> |
+| pfsense-dark |  |  <img src="../icons/pfsense-dark.svg" alt="pfsense-dark" width="50"> |
 | pgadmin | <img src="../icons/pgadmin.png" alt="pgadmin" width="50"> |  <img src="../icons/pgadmin.svg" alt="pgadmin" width="50"> |
 | pgpauth |  |  <img src="../icons/pgpauth.svg" alt="pgpauth" width="50"> |
 | pgpclipper |  |  <img src="../icons/pgpclipper.svg" alt="pgpclipper" width="50"> |
@@ -116,7 +119,7 @@
 | picturethis |  |  <img src="../icons/picturethis.svg" alt="picturethis" width="50"> |
 | pigallery2 | <img src="../icons/pigallery2.png" alt="pigallery2" width="50"> |  <img src="../icons/pigallery2.svg" alt="pigallery2" width="50"> |
 | pigallery2-light | <img src="../icons/pigallery2-light.png" alt="pigallery2-light" width="50"> |   |
-| pihole | <img src="../icons/pihole.png" alt="pihole" width="50"> |   |
+| pihole | <img src="../icons/pihole.png" alt="pihole" width="50"> |  <img src="../icons/pihole.svg" alt="pihole" width="50"> |
 | pijaret |  |  <img src="../icons/pijaret.svg" alt="pijaret" width="50"> |
 | pikabu |  |  <img src="../icons/pikabu.svg" alt="pikabu" width="50"> |
 | pikvm | <img src="../icons/pikvm.png" alt="pikvm" width="50"> |  <img src="../icons/pikvm.svg" alt="pikvm" width="50"> |
@@ -140,6 +143,7 @@
 | pixelknot |  |  <img src="../icons/pixelknot.svg" alt="pixelknot" width="50"> |
 | pixellab |  |  <img src="../icons/pixellab.svg" alt="pixellab" width="50"> |
 | pixiv |  |  <img src="../icons/pixiv.svg" alt="pixiv" width="50"> |
+| plane |  |  <img src="../icons/plane.svg" alt="plane" width="50"> |
 | planka | <img src="../icons/planka.png" alt="planka" width="50"> |  <img src="../icons/planka.svg" alt="planka" width="50"> |
 | planner-5d |  |  <img src="../icons/planner-5d.svg" alt="planner-5d" width="50"> |
 | plant-it | <img src="../icons/plant-it.png" alt="plant-it" width="50"> |   |
@@ -175,9 +179,11 @@
 | poco-launcher |  |  <img src="../icons/poco-launcher.svg" alt="poco-launcher" width="50"> |
 | podcast-addict |  |  <img src="../icons/podcast-addict.svg" alt="podcast-addict" width="50"> |
 | podcast-go |  |  <img src="../icons/podcast-go.svg" alt="podcast-go" width="50"> |
+| podcast-index |  |  <img src="../icons/podcast-index.svg" alt="podcast-index" width="50"> |
 | podcast-republic |  |  <img src="../icons/podcast-republic.svg" alt="podcast-republic" width="50"> |
 | podgrab | <img src="../icons/podgrab.png" alt="podgrab" width="50"> |   |
 | podify | <img src="../icons/podify.png" alt="podify" width="50"> |  <img src="../icons/podify.svg" alt="podify" width="50"> |
+| podman |  |  <img src="../icons/podman.svg" alt="podman" width="50"> |
 | podnapisi | <img src="../icons/podnapisi.png" alt="podnapisi" width="50"> |   |
 | point-blur |  |  <img src="../icons/point-blur.svg" alt="point-blur" width="50"> |
 | pokemon |  |  <img src="../icons/pokemon.svg" alt="pokemon" width="50"> |
@@ -190,6 +196,7 @@
 | pomelo-file-explorer |  |  <img src="../icons/pomelo-file-explorer.svg" alt="pomelo-file-explorer" width="50"> |
 | pomodoneapp |  |  <img src="../icons/pomodoneapp.svg" alt="pomodoneapp" width="50"> |
 | popcorn-time |  |  <img src="../icons/popcorn-time.svg" alt="popcorn-time" width="50"> |
+| popos |  |  <img src="../icons/popos.svg" alt="popos" width="50"> |
 | poppin |  |  <img src="../icons/poppin.svg" alt="poppin" width="50"> |
 | porkbun | <img src="../icons/porkbun.png" alt="porkbun" width="50"> |   |
 | portainer | <img src="../icons/portainer.png" alt="portainer" width="50"> |  <img src="../icons/portainer.svg" alt="portainer" width="50"> |
@@ -234,6 +241,7 @@
 | projectsend | <img src="../icons/projectsend.png" alt="projectsend" width="50"> |  <img src="../icons/projectsend.svg" alt="projectsend" width="50"> |
 | prometheus | <img src="../icons/prometheus.png" alt="prometheus" width="50"> |  <img src="../icons/prometheus.svg" alt="prometheus" width="50"> |
 | prosto-radio |  |  <img src="../icons/prosto-radio.svg" alt="prosto-radio" width="50"> |
+| proton |  |  <img src="../icons/proton.svg" alt="proton" width="50"> |
 | proton-calendar | <img src="../icons/proton-calendar.png" alt="proton-calendar" width="50"> |  <img src="../icons/proton-calendar.svg" alt="proton-calendar" width="50"> |
 | proton-drive | <img src="../icons/proton-drive.png" alt="proton-drive" width="50"> |  <img src="../icons/proton-drive.svg" alt="proton-drive" width="50"> |
 | proton-mail | <img src="../icons/proton-mail.png" alt="proton-mail" width="50"> |  <img src="../icons/proton-mail.svg" alt="proton-mail" width="50"> |
@@ -261,6 +269,7 @@
 | pulse-music |  |  <img src="../icons/pulse-music.svg" alt="pulse-music" width="50"> |
 | pulse-sms |  |  <img src="../icons/pulse-sms.svg" alt="pulse-sms" width="50"> |
 | pulseui |  |  <img src="../icons/pulseui.svg" alt="pulseui" width="50"> |
+| pulumi |  |  <img src="../icons/pulumi.svg" alt="pulumi" width="50"> |
 | pure-tuber |  |  <img src="../icons/pure-tuber.svg" alt="pure-tuber" width="50"> |
 | purelymail | <img src="../icons/purelymail.png" alt="purelymail" width="50"> |  <img src="../icons/purelymail.svg" alt="purelymail" width="50"> |
 | purewriter |  |  <img src="../icons/purewriter.svg" alt="purewriter" width="50"> |
@@ -276,6 +285,7 @@
 | pyaterochka |  |  <img src="../icons/pyaterochka.svg" alt="pyaterochka" width="50"> |
 | pydio | <img src="../icons/pydio.png" alt="pydio" width="50"> |  <img src="../icons/pydio.svg" alt="pydio" width="50"> |
 | pyload | <img src="../icons/pyload.png" alt="pyload" width="50"> |  <img src="../icons/pyload.svg" alt="pyload" width="50"> |
+| pypi |  |  <img src="../icons/pypi.svg" alt="pypi" width="50"> |
 | pyrope-browser |  |  <img src="../icons/pyrope-browser.svg" alt="pyrope-browser" width="50"> |
 | python | <img src="../icons/python.png" alt="python" width="50"> |  <img src="../icons/python.svg" alt="python" width="50"> |
 

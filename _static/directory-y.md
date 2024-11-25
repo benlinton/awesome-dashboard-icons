@@ -13,7 +13,9 @@
 | yahoo-fantasy |  |  <img src="../icons/yahoo-fantasy.svg" alt="yahoo-fantasy" width="50"> |
 | yahoo-finance |  |  <img src="../icons/yahoo-finance.svg" alt="yahoo-finance" width="50"> |
 | yahoo-mail | <img src="../icons/yahoo-mail.png" alt="yahoo-mail" width="50"> |   |
+| yaml |  |  <img src="../icons/yaml.svg" alt="yaml" width="50"> |
 | yandex | <img src="../icons/yandex.png" alt="yandex" width="50"> |  <img src="../icons/yandex.svg" alt="yandex" width="50"> |
+| yarn |  |  <img src="../icons/yarn.svg" alt="yarn" width="50"> |
 | yarn-social | <img src="../icons/yarn-social.png" alt="yarn-social" width="50"> |   |
 | ycombinator | <img src="../icons/ycombinator.png" alt="ycombinator" width="50"> |  <img src="../icons/ycombinator.svg" alt="ycombinator" width="50"> |
 | yelp |  |  <img src="../icons/yelp.svg" alt="yelp" width="50"> |

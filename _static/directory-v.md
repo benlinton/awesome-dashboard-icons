@@ -7,8 +7,10 @@
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
 | v-rising | <img src="../icons/v-rising.png" alt="v-rising" width="50"> |   |
+| vagrant |  |  <img src="../icons/vagrant.svg" alt="vagrant" width="50"> |
 | valetudo | <img src="../icons/valetudo.png" alt="valetudo" width="50"> |  <img src="../icons/valetudo.svg" alt="valetudo" width="50"> |
 | valheim | <img src="../icons/valheim.png" alt="valheim" width="50"> |   |
+| valkey |  |  <img src="../icons/valkey.svg" alt="valkey" width="50"> |
 | vanced-manager |  |  <img src="../icons/vanced-manager.svg" alt="vanced-manager" width="50"> |
 | vault | <img src="../icons/vault.png" alt="vault" width="50"> |  <img src="../icons/vault.svg" alt="vault" width="50"> |
 | vault-light | <img src="../icons/vault-light.png" alt="vault-light" width="50"> |   |
@@ -26,6 +28,8 @@
 | vi | <img src="../icons/vi.png" alt="vi" width="50"> |  <img src="../icons/vi.svg" alt="vi" width="50"> |
 | via-browser |  |  <img src="../icons/via-browser.svg" alt="via-browser" width="50"> |
 | viber |  |  <img src="../icons/viber.svg" alt="viber" width="50"> |
+| victoriametrics |  |  <img src="../icons/victoriametrics.svg" alt="victoriametrics" width="50"> |
+| victoriametrics-light |  |  <img src="../icons/victoriametrics-light.svg" alt="victoriametrics-light" width="50"> |
 | video-player-all-format |  |  <img src="../icons/video-player-all-format.svg" alt="video-player-all-format" width="50"> |
 | video-player-audio-player |  |  <img src="../icons/video-player-audio-player.svg" alt="video-player-audio-player" width="50"> |
 | video-player-perfect-hd |  |  <img src="../icons/video-player-perfect-hd.svg" alt="video-player-perfect-hd" width="50"> |
@@ -65,9 +69,12 @@
 | vscode | <img src="../icons/vscode.png" alt="vscode" width="50"> |  <img src="../icons/vscode.svg" alt="vscode" width="50"> |
 | vseinstrumenti |  |  <img src="../icons/vseinstrumenti.svg" alt="vseinstrumenti" width="50"> |
 | vsemayki |  |  <img src="../icons/vsemayki.svg" alt="vsemayki" width="50"> |
+| vulkan |  |  <img src="../icons/vulkan.svg" alt="vulkan" width="50"> |
 | vultr | <img src="../icons/vultr.png" alt="vultr" width="50"> |  <img src="../icons/vultr.svg" alt="vultr" width="50"> |
+| vultr-light |  |  <img src="../icons/vultr-light.svg" alt="vultr-light" width="50"> |
 | vuplus | <img src="../icons/vuplus.png" alt="vuplus" width="50"> |   |
 | vuze |  |  <img src="../icons/vuze.svg" alt="vuze" width="50"> |
+| vyos |  |  <img src="../icons/vyos.svg" alt="vyos" width="50"> |
 
 
 [[HOME](..)][[#](directory.md)][[A](directory-a.md)][[B](directory-b.md)][[C](directory-c.md)][[D](directory-d.md)][[E](directory-e.md)][[F](directory-f.md)][[G](directory-g.md)][[H](directory-h.md)][[I](directory-i.md)][[J](directory-j.md)][[K](directory-k.md)][[L](directory-l.md)][[M](directory-m.md)][[N](directory-n.md)][[O](directory-o.md)][[P](directory-p.md)][[Q](directory-q.md)][[R](directory-r.md)][[S](directory-s.md)][[T](directory-t.md)][[U](directory-u.md)][[V](directory-v.md)][[W](directory-w.md)][[X](directory-x.md)][[Y](directory-y.md)][[Z](directory-z.md)]

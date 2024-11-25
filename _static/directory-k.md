@@ -7,11 +7,15 @@
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
 | k-9-posta |  |  <img src="../icons/k-9-posta.svg" alt="k-9-posta" width="50"> |
+| k0s |  |  <img src="../icons/k0s.svg" alt="k0s" width="50"> |
+| k3-os |  |  <img src="../icons/k3-os.svg" alt="k3-os" width="50"> |
+| k3s |  |  <img src="../icons/k3s.svg" alt="k3s" width="50"> |
 | kagi | <img src="../icons/kagi.png" alt="kagi" width="50"> |  <img src="../icons/kagi.svg" alt="kagi" width="50"> |
 | kaizoku | <img src="../icons/kaizoku.png" alt="kaizoku" width="50"> |   |
 | kakaostory |  |  <img src="../icons/kakaostory.svg" alt="kakaostory" width="50"> |
 | kakaotalk |  |  <img src="../icons/kakaotalk.svg" alt="kakaotalk" width="50"> |
 | kalgebra |  |  <img src="../icons/kalgebra.svg" alt="kalgebra" width="50"> |
+| kali-linux |  |  <img src="../icons/kali-linux.svg" alt="kali-linux" width="50"> |
 | kamatera | <img src="../icons/kamatera.png" alt="kamatera" width="50"> |  <img src="../icons/kamatera.svg" alt="kamatera" width="50"> |
 | kanboard | <img src="../icons/kanboard.png" alt="kanboard" width="50"> |  <img src="../icons/kanboard.svg" alt="kanboard" width="50"> |
 | kapacitor | <img src="../icons/kapacitor.png" alt="kapacitor" width="50"> |   |
@@ -26,7 +30,9 @@
 | kavita | <img src="../icons/kavita.png" alt="kavita" width="50"> |  <img src="../icons/kavita.svg" alt="kavita" width="50"> |
 | kbin | <img src="../icons/kbin.png" alt="kbin" width="50"> |  <img src="../icons/kbin.svg" alt="kbin" width="50"> |
 | kbin-light | <img src="../icons/kbin-light.png" alt="kbin-light" width="50"> |   |
-| kdeconnect |  |  <img src="../icons/kdeconnect.svg" alt="kdeconnect" width="50"> |
+| kde |  |  <img src="../icons/kde.svg" alt="kde" width="50"> |
+| kde-connect |  |  <img src="../icons/kde-connect.svg" alt="kde-connect" width="50"> |
+| kde-plasma |  |  <img src="../icons/kde-plasma.svg" alt="kde-plasma" width="50"> |
 | kdv |  |  <img src="../icons/kdv.svg" alt="kdv" width="50"> |
 | keenetic | <img src="../icons/keenetic.png" alt="keenetic" width="50"> |  <img src="../icons/keenetic.svg" alt="keenetic" width="50"> |
 | keenetic-new | <img src="../icons/keenetic-new.png" alt="keenetic-new" width="50"> |  <img src="../icons/keenetic-new.svg" alt="keenetic-new" width="50"> |
@@ -34,6 +40,7 @@
 | keepass2android |  |  <img src="../icons/keepass2android.svg" alt="keepass2android" width="50"> |
 | keepass2android-offline |  |  <img src="../icons/keepass2android-offline.svg" alt="keepass2android-offline" width="50"> |
 | keepassdroid |  |  <img src="../icons/keepassdroid.svg" alt="keepassdroid" width="50"> |
+| keepassxc |  |  <img src="../icons/keepassxc.svg" alt="keepassxc" width="50"> |
 | keila | <img src="../icons/keila.png" alt="keila" width="50"> |  <img src="../icons/keila.svg" alt="keila" width="50"> |
 | kepler-music-player |  |  <img src="../icons/kepler-music-player.svg" alt="kepler-music-player" width="50"> |
 | kerberos | <img src="../icons/kerberos.png" alt="kerberos" width="50"> |  <img src="../icons/kerberos.svg" alt="kerberos" width="50"> |

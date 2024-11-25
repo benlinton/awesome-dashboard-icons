@@ -7,7 +7,8 @@
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
 | f-droid | <img src="../icons/f-droid.png" alt="f-droid" width="50"> |  <img src="../icons/f-droid.svg" alt="f-droid" width="50"> |
-| f5-networks | <img src="../icons/f5-networks.png" alt="f5-networks" width="50"> |   |
+| f-sharp |  |  <img src="../icons/f-sharp.svg" alt="f-sharp" width="50"> |
+| f5-networks | <img src="../icons/f5-networks.png" alt="f5-networks" width="50"> |  <img src="../icons/f5-networks.svg" alt="f5-networks" width="50"> |
 | fabulous |  |  <img src="../icons/fabulous.svg" alt="fabulous" width="50"> |
 | facebook | <img src="../icons/facebook.png" alt="facebook" width="50"> |  <img src="../icons/facebook.svg" alt="facebook" width="50"> |
 | facebook-lite |  |  <img src="../icons/facebook-lite.svg" alt="facebook-lite" width="50"> |
@@ -74,6 +75,7 @@
 | fios-light | <img src="../icons/fios-light.png" alt="fios-light" width="50"> |   |
 | firebase | <img src="../icons/firebase.png" alt="firebase" width="50"> |  <img src="../icons/firebase.svg" alt="firebase" width="50"> |
 | firefly | <img src="../icons/firefly.png" alt="firefly" width="50"> |  <img src="../icons/firefly.svg" alt="firefly" width="50"> |
+| firefly-iii |  |  <img src="../icons/firefly-iii.svg" alt="firefly-iii" width="50"> |
 | firefox | <img src="../icons/firefox.png" alt="firefox" width="50"> |  <img src="../icons/firefox.svg" alt="firefox" width="50"> |
 | firefox-beta | <img src="../icons/firefox-beta.png" alt="firefox-beta" width="50"> |  <img src="../icons/firefox-beta.svg" alt="firefox-beta" width="50"> |
 | firefox-developer-edition | <img src="../icons/firefox-developer-edition.png" alt="firefox-developer-edition" width="50"> |  <img src="../icons/firefox-developer-edition.svg" alt="firefox-developer-edition" width="50"> |
@@ -96,7 +98,10 @@
 | flarum | <img src="../icons/flarum.png" alt="flarum" width="50"> |  <img src="../icons/flarum.svg" alt="flarum" width="50"> |
 | flat-notes | <img src="../icons/flat-notes.png" alt="flat-notes" width="50"> |   |
 | flathub | <img src="../icons/flathub.png" alt="flathub" width="50"> |  <img src="../icons/flathub.svg" alt="flathub" width="50"> |
+| flatnotes |  |  <img src="../icons/flatnotes.svg" alt="flatnotes" width="50"> |
 | flatpak | <img src="../icons/flatpak.png" alt="flatpak" width="50"> |  <img src="../icons/flatpak.svg" alt="flatpak" width="50"> |
+| flatpak-dark |  |  <img src="../icons/flatpak-dark.svg" alt="flatpak-dark" width="50"> |
+| flatpak-light |  |  <img src="../icons/flatpak-light.svg" alt="flatpak-light" width="50"> |
 | fleksy |  |  <img src="../icons/fleksy.svg" alt="fleksy" width="50"> |
 | flexget | <img src="../icons/flexget.png" alt="flexget" width="50"> |   |
 | flick-launcher |  |  <img src="../icons/flick-launcher.svg" alt="flick-launcher" width="50"> |
@@ -155,11 +160,14 @@
 | foxfi |  |  <img src="../icons/foxfi.svg" alt="foxfi" width="50"> |
 | foxit-mobile |  |  <img src="../icons/foxit-mobile.svg" alt="foxit-mobile" width="50"> |
 | foxit-pdfscanner |  |  <img src="../icons/foxit-pdfscanner.svg" alt="foxit-pdfscanner" width="50"> |
+| framework |  |  <img src="../icons/framework.svg" alt="framework" width="50"> |
 | franz | <img src="../icons/franz.png" alt="franz" width="50"> |  <img src="../icons/franz.svg" alt="franz" width="50"> |
 | free-download-manager |  |  <img src="../icons/free-download-manager.svg" alt="free-download-manager" width="50"> |
+| free-software-foundation |  |  <img src="../icons/free-software-foundation.svg" alt="free-software-foundation" width="50"> |
 | freebox-delta | <img src="../icons/freebox-delta.png" alt="freebox-delta" width="50"> |   |
 | freebox-pop | <img src="../icons/freebox-pop.png" alt="freebox-pop" width="50"> |   |
 | freebox-revolution | <img src="../icons/freebox-revolution.png" alt="freebox-revolution" width="50"> |   |
+| freebsd |  |  <img src="../icons/freebsd.svg" alt="freebsd" width="50"> |
 | freeciv |  |  <img src="../icons/freeciv.svg" alt="freeciv" width="50"> |
 | freedombox | <img src="../icons/freedombox.png" alt="freedombox" width="50"> |  <img src="../icons/freedombox.svg" alt="freedombox" width="50"> |
 | freeipa | <img src="../icons/freeipa.png" alt="freeipa" width="50"> |  <img src="../icons/freeipa.svg" alt="freeipa" width="50"> |

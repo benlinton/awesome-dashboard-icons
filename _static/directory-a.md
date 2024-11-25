@@ -21,9 +21,12 @@
 | action-launcher |  |  <img src="../icons/action-launcher.svg" alt="action-launcher" width="50"> |
 | actiondirector |  |  <img src="../icons/actiondirector.svg" alt="actiondirector" width="50"> |
 | activity-launcher |  |  <img src="../icons/activity-launcher.svg" alt="activity-launcher" width="50"> |
+| activitypub |  |  <img src="../icons/activitypub.svg" alt="activitypub" width="50"> |
 | activitywatch |  |  <img src="../icons/activitywatch.svg" alt="activitywatch" width="50"> |
 | actual | <img src="../icons/actual.png" alt="actual" width="50"> |   |
+| actual-budget |  |  <img src="../icons/actual-budget.svg" alt="actual-budget" width="50"> |
 | ad-director |  |  <img src="../icons/ad-director.svg" alt="ad-director" width="50"> |
+| ada-fruit |  |  <img src="../icons/ada-fruit.svg" alt="ada-fruit" width="50"> |
 | adaway |  |  <img src="../icons/adaway.svg" alt="adaway" width="50"> |
 | adblock | <img src="../icons/adblock.png" alt="adblock" width="50"> |  <img src="../icons/adblock.svg" alt="adblock" width="50"> |
 | adblock-browser |  |  <img src="../icons/adblock-browser.svg" alt="adblock-browser" width="50"> |
@@ -34,6 +37,7 @@
 | adidas-running |  |  <img src="../icons/adidas-running.svg" alt="adidas-running" width="50"> |
 | adm | <img src="../icons/adm.png" alt="adm" width="50"> |  <img src="../icons/adm.svg" alt="adm" width="50"> |
 | adminer | <img src="../icons/adminer.png" alt="adminer" width="50"> |  <img src="../icons/adminer.svg" alt="adminer" width="50"> |
+| adminerevo |  |  <img src="../icons/adminerevo.svg" alt="adminerevo" width="50"> |
 | adobe-illustrator-draw |  |  <img src="../icons/adobe-illustrator-draw.svg" alt="adobe-illustrator-draw" width="50"> |
 | adobe-lightroom |  |  <img src="../icons/adobe-lightroom.svg" alt="adobe-lightroom" width="50"> |
 | adobe-photoshop |  |  <img src="../icons/adobe-photoshop.svg" alt="adobe-photoshop" width="50"> |
@@ -79,6 +83,7 @@
 | allstate |  |  <img src="../icons/allstate.svg" alt="allstate" width="50"> |
 | alltube | <img src="../icons/alltube.png" alt="alltube" width="50"> |   |
 | alma | <img src="../icons/alma.png" alt="alma" width="50"> |  <img src="../icons/alma.svg" alt="alma" width="50"> |
+| almalinux |  |  <img src="../icons/almalinux.svg" alt="almalinux" width="50"> |
 | alpine | <img src="../icons/alpine.png" alt="alpine" width="50"> |  <img src="../icons/alpine.svg" alt="alpine" width="50"> |
 | amazon | <img src="../icons/amazon.png" alt="amazon" width="50"> |  <img src="../icons/amazon.svg" alt="amazon" width="50"> |
 | amazon-drive |  |  <img src="../icons/amazon-drive.svg" alt="amazon-drive" width="50"> |
@@ -93,6 +98,7 @@
 | amcrest-cloud | <img src="../icons/amcrest-cloud.png" alt="amcrest-cloud" width="50"> |   |
 | amd | <img src="../icons/amd.png" alt="amd" width="50"> |  <img src="../icons/amd.svg" alt="amd" width="50"> |
 | amd-light | <img src="../icons/amd-light.png" alt="amd-light" width="50"> |  <img src="../icons/amd-light.svg" alt="amd-light" width="50"> |
+| amd-wide |  |  <img src="../icons/amd-wide.svg" alt="amd-wide" width="50"> |
 | ameixa |  |  <img src="../icons/ameixa.svg" alt="ameixa" width="50"> |
 | ameixa-monochrome |  |  <img src="../icons/ameixa-monochrome.svg" alt="ameixa-monochrome" width="50"> |
 | ami | <img src="../icons/ami.png" alt="ami" width="50"> |   |
@@ -118,8 +124,12 @@
 | anlinux |  |  <img src="../icons/anlinux.svg" alt="anlinux" width="50"> |
 | anonaddy | <img src="../icons/anonaddy.png" alt="anonaddy" width="50"> |   |
 | another-widget |  |  <img src="../icons/another-widget.svg" alt="another-widget" width="50"> |
-| ansible | <img src="../icons/ansible.png" alt="ansible" width="50"> |  <img src="../icons/ansible.svg" alt="ansible" width="50"> |
+| ansible |  |  <img src="../icons/ansible.svg" alt="ansible" width="50"> |
+| ansible-outline |  |  <img src="../icons/ansible-outline.svg" alt="ansible-outline" width="50"> |
+| ansible-red | <img src="../icons/ansible-red.png" alt="ansible-red" width="50"> |  <img src="../icons/ansible-red.svg" alt="ansible-red" width="50"> |
+| ansible-teal |  |  <img src="../icons/ansible-teal.svg" alt="ansible-teal" width="50"> |
 | antennapod |  |  <img src="../icons/antennapod.svg" alt="antennapod" width="50"> |
+| antennas |  |  <img src="../icons/antennas.svg" alt="antennas" width="50"> |
 | any-do |  |  <img src="../icons/any-do.svg" alt="any-do" width="50"> |
 | anydesk |  |  <img src="../icons/anydesk.svg" alt="anydesk" width="50"> |
 | anysoftkeyboard-canary |  |  <img src="../icons/anysoftkeyboard-canary.svg" alt="anysoftkeyboard-canary" width="50"> |
@@ -130,6 +140,10 @@
 | apache-cassandra | <img src="../icons/apache-cassandra.png" alt="apache-cassandra" width="50"> |  <img src="../icons/apache-cassandra.svg" alt="apache-cassandra" width="50"> |
 | apache-cloudstack | <img src="../icons/apache-cloudstack.png" alt="apache-cloudstack" width="50"> |   |
 | apache-druid | <img src="../icons/apache-druid.png" alt="apache-druid" width="50"> |  <img src="../icons/apache-druid.svg" alt="apache-druid" width="50"> |
+| apache-guacamole |  |  <img src="../icons/apache-guacamole.svg" alt="apache-guacamole" width="50"> |
+| apache-httpd |  |  <img src="../icons/apache-httpd.svg" alt="apache-httpd" width="50"> |
+| apache-kafka |  |  <img src="../icons/apache-kafka.svg" alt="apache-kafka" width="50"> |
+| apache-open-office |  |  <img src="../icons/apache-open-office.svg" alt="apache-open-office" width="50"> |
 | apache-openoffice | <img src="../icons/apache-openoffice.png" alt="apache-openoffice" width="50"> |  <img src="../icons/apache-openoffice.svg" alt="apache-openoffice" width="50"> |
 | apache-solr | <img src="../icons/apache-solr.png" alt="apache-solr" width="50"> |  <img src="../icons/apache-solr.svg" alt="apache-solr" width="50"> |
 | apache-subversion | <img src="../icons/apache-subversion.png" alt="apache-subversion" width="50"> |  <img src="../icons/apache-subversion.svg" alt="apache-subversion" width="50"> |
@@ -140,8 +154,10 @@
 | app-store | <img src="../icons/app-store.png" alt="app-store" width="50"> |  <img src="../icons/app-store.svg" alt="app-store" width="50"> |
 | app-watcher |  |  <img src="../icons/app-watcher.svg" alt="app-watcher" width="50"> |
 | appdaemon | <img src="../icons/appdaemon.png" alt="appdaemon" width="50"> |   |
+| appimage |  |  <img src="../icons/appimage.svg" alt="appimage" width="50"> |
 | apple | <img src="../icons/apple.png" alt="apple" width="50"> |  <img src="../icons/apple.svg" alt="apple" width="50"> |
-| apple-alt | <img src="../icons/apple-alt.png" alt="apple-alt" width="50"> |  <img src="../icons/apple-alt.svg" alt="apple-alt" width="50"> |
+| apple-black |  |  <img src="../icons/apple-black.svg" alt="apple-black" width="50"> |
+| apple-rainbow | <img src="../icons/apple-rainbow.png" alt="apple-rainbow" width="50"> |  <img src="../icons/apple-rainbow.svg" alt="apple-rainbow" width="50"> |
 | apprise | <img src="../icons/apprise.png" alt="apprise" width="50"> |   |
 | appsddoz-video-player |  |  <img src="../icons/appsddoz-video-player.svg" alt="appsddoz-video-player" width="50"> |
 | apteka-ru |  |  <img src="../icons/apteka-ru.svg" alt="apteka-ru" width="50"> |
@@ -150,7 +166,9 @@
 | apus-launcher |  |  <img src="../icons/apus-launcher.svg" alt="apus-launcher" width="50"> |
 | apus-launcher-pro |  |  <img src="../icons/apus-launcher-pro.svg" alt="apus-launcher-pro" width="50"> |
 | ar-zone |  |  <img src="../icons/ar-zone.svg" alt="ar-zone" width="50"> |
+| arc |  |  <img src="../icons/arc.svg" alt="arc" width="50"> |
 | arch | <img src="../icons/arch.png" alt="arch" width="50"> |  <img src="../icons/arch.svg" alt="arch" width="50"> |
+| arch-linux |  |  <img src="../icons/arch-linux.svg" alt="arch-linux" width="50"> |
 | archisteamfarm | <img src="../icons/archisteamfarm.png" alt="archisteamfarm" width="50"> |   |
 | archivebox | <img src="../icons/archivebox.png" alt="archivebox" width="50"> |   |
 | archiveteamwarrior | <img src="../icons/archiveteamwarrior.png" alt="archiveteamwarrior" width="50"> |   |
@@ -216,7 +234,7 @@
 | aurora-store |  |  <img src="../icons/aurora-store.svg" alt="aurora-store" width="50"> |
 | authelia | <img src="../icons/authelia.png" alt="authelia" width="50"> |  <img src="../icons/authelia.svg" alt="authelia" width="50"> |
 | authenticator |  |  <img src="../icons/authenticator.svg" alt="authenticator" width="50"> |
-| authentik | <img src="../icons/authentik.png" alt="authentik" width="50"> |   |
+| authentik | <img src="../icons/authentik.png" alt="authentik" width="50"> |  <img src="../icons/authentik.svg" alt="authentik" width="50"> |
 | authentik-light | <img src="../icons/authentik-light.png" alt="authentik-light" width="50"> |   |
 | authorizer |  |  <img src="../icons/authorizer.svg" alt="authorizer" width="50"> |
 | authy |  |  <img src="../icons/authy.svg" alt="authy" width="50"> |

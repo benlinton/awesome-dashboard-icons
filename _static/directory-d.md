@@ -63,6 +63,7 @@
 | digid |  |  <img src="../icons/digid.svg" alt="digid" width="50"> |
 | digilocker |  |  <img src="../icons/digilocker.svg" alt="digilocker" width="50"> |
 | digital-ocean | <img src="../icons/digital-ocean.png" alt="digital-ocean" width="50"> |  <img src="../icons/digital-ocean.svg" alt="digital-ocean" width="50"> |
+| digital-ocean-alt |  |  <img src="../icons/digital-ocean-alt.svg" alt="digital-ocean-alt" width="50"> |
 | dijital-operator |  |  <img src="../icons/dijital-operator.svg" alt="dijital-operator" width="50"> |
 | dillinger | <img src="../icons/dillinger.png" alt="dillinger" width="50"> |   |
 | dim | <img src="../icons/dim.png" alt="dim" width="50"> |   |
@@ -90,8 +91,9 @@
 | docker-gc | <img src="../icons/docker-gc.png" alt="docker-gc" width="50"> |   |
 | docker-mailserver | <img src="../icons/docker-mailserver.png" alt="docker-mailserver" width="50"> |  <img src="../icons/docker-mailserver.svg" alt="docker-mailserver" width="50"> |
 | docker-moby | <img src="../icons/docker-moby.png" alt="docker-moby" width="50"> |  <img src="../icons/docker-moby.svg" alt="docker-moby" width="50"> |
-| dockge | <img src="../icons/dockge.png" alt="dockge" width="50"> |   |
+| dockge | <img src="../icons/dockge.png" alt="dockge" width="50"> |  <img src="../icons/dockge.svg" alt="dockge" width="50"> |
 | dockge-light | <img src="../icons/dockge-light.png" alt="dockge-light" width="50"> |  <img src="../icons/dockge-light.svg" alt="dockge-light" width="50"> |
+| docking-station |  |  <img src="../icons/docking-station.svg" alt="docking-station" width="50"> |
 | dockstarter | <img src="../icons/dockstarter.png" alt="dockstarter" width="50"> |   |
 | docs-to-go |  |  <img src="../icons/docs-to-go.svg" alt="docs-to-go" width="50"> |
 | docs-viewer |  |  <img src="../icons/docs-viewer.svg" alt="docs-viewer" width="50"> |
@@ -116,6 +118,7 @@
 | dosbox |  |  <img src="../icons/dosbox.svg" alt="dosbox" width="50"> |
 | dota |  |  <img src="../icons/dota.svg" alt="dota" width="50"> |
 | dota-2 |  |  <img src="../icons/dota-2.svg" alt="dota-2" width="50"> |
+| dotnet |  |  <img src="../icons/dotnet.svg" alt="dotnet" width="50"> |
 | dotpict |  |  <img src="../icons/dotpict.svg" alt="dotpict" width="50"> |
 | double-take | <img src="../icons/double-take.png" alt="double-take" width="50"> |   |
 | double-twist-player |  |  <img src="../icons/double-twist-player.svg" alt="double-twist-player" width="50"> |
@@ -123,6 +126,7 @@
 | dovecot | <img src="../icons/dovecot.png" alt="dovecot" width="50"> |  <img src="../icons/dovecot.svg" alt="dovecot" width="50"> |
 | dozzle | <img src="../icons/dozzle.png" alt="dozzle" width="50"> |  <img src="../icons/dozzle.svg" alt="dozzle" width="50"> |
 | dpd |  |  <img src="../icons/dpd.svg" alt="dpd" width="50"> |
+| dragonflybsd |  |  <img src="../icons/dragonflybsd.svg" alt="dragonflybsd" width="50"> |
 | draw | <img src="../icons/draw.png" alt="draw" width="50"> |   |
 | draytek | <img src="../icons/draytek.png" alt="draytek" width="50"> |  <img src="../icons/draytek.svg" alt="draytek" width="50"> |
 | dreams-player |  |  <img src="../icons/dreams-player.svg" alt="dreams-player" width="50"> |
@@ -130,19 +134,21 @@
 | driver-license |  |  <img src="../icons/driver-license.svg" alt="driver-license" width="50"> |
 | droid-ify |  |  <img src="../icons/droid-ify.svg" alt="droid-ify" width="50"> |
 | droidcam |  |  <img src="../icons/droidcam.svg" alt="droidcam" width="50"> |
-| drone | <img src="../icons/drone.png" alt="drone" width="50"> |   |
+| drone-ci | <img src="../icons/drone-ci.png" alt="drone-ci" width="50"> |  <img src="../icons/drone-ci.svg" alt="drone-ci" width="50"> |
 | dropbox |  |  <img src="../icons/dropbox.svg" alt="dropbox" width="50"> |
 | droppy | <img src="../icons/droppy.png" alt="droppy" width="50"> |  <img src="../icons/droppy.svg" alt="droppy" width="50"> |
 | drum-pads-24 |  |  <img src="../icons/drum-pads-24.svg" alt="drum-pads-24" width="50"> |
 | drumpad |  |  <img src="../icons/drumpad.svg" alt="drumpad" width="50"> |
 | drums |  |  <img src="../icons/drums.svg" alt="drums" width="50"> |
+| drupal |  |  <img src="../icons/drupal.svg" alt="drupal" width="50"> |
+| drupal-druplicon |  |  <img src="../icons/drupal-druplicon.svg" alt="drupal-druplicon" width="50"> |
 | drupe |  |  <img src="../icons/drupe.svg" alt="drupe" width="50"> |
 | drweb |  |  <img src="../icons/drweb.svg" alt="drweb" width="50"> |
 | drweb-mcc |  |  <img src="../icons/drweb-mcc.svg" alt="drweb-mcc" width="50"> |
 | dub-music-player |  |  <img src="../icons/dub-music-player.svg" alt="dub-music-player" width="50"> |
 | dub-studio-eq |  |  <img src="../icons/dub-studio-eq.svg" alt="dub-studio-eq" width="50"> |
 | duck-duck-go |  |  <img src="../icons/duck-duck-go.svg" alt="duck-duck-go" width="50"> |
-| duckdns | <img src="../icons/duckdns.png" alt="duckdns" width="50"> |   |
+| duckdns | <img src="../icons/duckdns.png" alt="duckdns" width="50"> |  <img src="../icons/duckdns.svg" alt="duckdns" width="50"> |
 | duckduckgo | <img src="../icons/duckduckgo.png" alt="duckduckgo" width="50"> |  <img src="../icons/duckduckgo.svg" alt="duckduckgo" width="50"> |
 | dukto |  |  <img src="../icons/dukto.svg" alt="dukto" width="50"> |
 | duo | <img src="../icons/duo.png" alt="duo" width="50"> |  <img src="../icons/duo.svg" alt="duo" width="50"> |

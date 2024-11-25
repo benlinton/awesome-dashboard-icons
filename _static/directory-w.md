@@ -25,17 +25,21 @@
 | watchyourlan | <img src="../icons/watchyourlan.png" alt="watchyourlan" width="50"> |   |
 | water-time |  |  <img src="../icons/water-time.svg" alt="water-time" width="50"> |
 | wavemarket |  |  <img src="../icons/wavemarket.svg" alt="wavemarket" width="50"> |
+| waypoint |  |  <img src="../icons/waypoint.svg" alt="waypoint" width="50"> |
 | waze | <img src="../icons/waze.png" alt="waze" width="50"> |  <img src="../icons/waze.svg" alt="waze" width="50"> |
 | wazuh | <img src="../icons/wazuh.png" alt="wazuh" width="50"> |  <img src="../icons/wazuh.svg" alt="wazuh" width="50"> |
+| wazuh-logo |  |  <img src="../icons/wazuh-logo.svg" alt="wazuh-logo" width="50"> |
 | wazuh-opaque | <img src="../icons/wazuh-opaque.png" alt="wazuh-opaque" width="50"> |  <img src="../icons/wazuh-opaque.svg" alt="wazuh-opaque" width="50"> |
 | wbo | <img src="../icons/wbo.png" alt="wbo" width="50"> |   |
 | weather-underground |  |  <img src="../icons/weather-underground.svg" alt="weather-underground" width="50"> |
+| weaveworks |  |  <img src="../icons/weaveworks.svg" alt="weaveworks" width="50"> |
 | web-check | <img src="../icons/web-check.png" alt="web-check" width="50"> |  <img src="../icons/web-check.svg" alt="web-check" width="50"> |
 | web-check-light | <img src="../icons/web-check-light.png" alt="web-check-light" width="50"> |  <img src="../icons/web-check-light.svg" alt="web-check-light" width="50"> |
 | web-video-caster |  |  <img src="../icons/web-video-caster.svg" alt="web-video-caster" width="50"> |
 | web-whisper | <img src="../icons/web-whisper.png" alt="web-whisper" width="50"> |   |
 | webdav | <img src="../icons/webdav.png" alt="webdav" width="50"> |   |
 | webex-meet |  |  <img src="../icons/webex-meet.svg" alt="webex-meet" width="50"> |
+| webgpu |  |  <img src="../icons/webgpu.svg" alt="webgpu" width="50"> |
 | webhook | <img src="../icons/webhook.png" alt="webhook" width="50"> |  <img src="../icons/webhook.svg" alt="webhook" width="50"> |
 | webhookd | <img src="../icons/webhookd.png" alt="webhookd" width="50"> |  <img src="../icons/webhookd.svg" alt="webhookd" width="50"> |
 | webkit | <img src="../icons/webkit.png" alt="webkit" width="50"> |  <img src="../icons/webkit.svg" alt="webkit" width="50"> |
@@ -50,7 +54,8 @@
 | webtrees | <img src="../icons/webtrees.png" alt="webtrees" width="50"> |   |
 | wechat |  |  <img src="../icons/wechat.svg" alt="wechat" width="50"> |
 | wekan | <img src="../icons/wekan.png" alt="wekan" width="50"> |  <img src="../icons/wekan.svg" alt="wekan" width="50"> |
-| westernunion |  |  <img src="../icons/westernunion.svg" alt="westernunion" width="50"> |
+| western-digital |  |  <img src="../icons/western-digital.svg" alt="western-digital" width="50"> |
+| western-union |  |  <img src="../icons/western-union.svg" alt="western-union" width="50"> |
 | wetter-online |  |  <img src="../icons/wetter-online.svg" alt="wetter-online" width="50"> |
 | wetty | <img src="../icons/wetty.png" alt="wetty" width="50"> |   |
 | wetv |  |  <img src="../icons/wetv.svg" alt="wetv" width="50"> |
@@ -78,16 +83,16 @@
 | wifianalyzer |  |  <img src="../icons/wifianalyzer.svg" alt="wifianalyzer" width="50"> |
 | wifiman | <img src="../icons/wifiman.png" alt="wifiman" width="50"> |  <img src="../icons/wifiman.svg" alt="wifiman" width="50"> |
 | wiki-text | <img src="../icons/wiki-text.png" alt="wiki-text" width="50"> |   |
-| wikijs | <img src="../icons/wikijs.png" alt="wikijs" width="50"> |   |
+| wikijs | <img src="../icons/wikijs.png" alt="wikijs" width="50"> |  <img src="../icons/wikijs.svg" alt="wikijs" width="50"> |
 | wikijs-full | <img src="../icons/wikijs-full.png" alt="wikijs-full" width="50"> |  <img src="../icons/wikijs-full.svg" alt="wikijs-full" width="50"> |
 | wikijs-text |  |  <img src="../icons/wikijs-text.svg" alt="wikijs-text" width="50"> |
 | wikipedia |  |  <img src="../icons/wikipedia.svg" alt="wikipedia" width="50"> |
 | wildberries |  |  <img src="../icons/wildberries.svg" alt="wildberries" width="50"> |
 | windmill | <img src="../icons/windmill.png" alt="windmill" width="50"> |  <img src="../icons/windmill.svg" alt="windmill" width="50"> |
 | windows-10 | <img src="../icons/windows-10.png" alt="windows-10" width="50"> |  <img src="../icons/windows-10.svg" alt="windows-10" width="50"> |
-| windows-11 | <img src="../icons/windows-11.png" alt="windows-11" width="50"> |   |
+| windows-11 | <img src="../icons/windows-11.png" alt="windows-11" width="50"> |  <img src="../icons/windows-11.svg" alt="windows-11" width="50"> |
 | windows-7 | <img src="../icons/windows-7.png" alt="windows-7" width="50"> |   |
-| windows-8 | <img src="../icons/windows-8.png" alt="windows-8" width="50"> |   |
+| windows-8 | <img src="../icons/windows-8.png" alt="windows-8" width="50"> |  <img src="../icons/windows-8.svg" alt="windows-8" width="50"> |
 | windows-95 | <img src="../icons/windows-95.png" alt="windows-95" width="50"> |  <img src="../icons/windows-95.svg" alt="windows-95" width="50"> |
 | windows-98 | <img src="../icons/windows-98.png" alt="windows-98" width="50"> |  <img src="../icons/windows-98.svg" alt="windows-98" width="50"> |
 | windows-98-alt | <img src="../icons/windows-98-alt.png" alt="windows-98-alt" width="50"> |   |
@@ -95,13 +100,12 @@
 | windows-nt | <img src="../icons/windows-nt.png" alt="windows-nt" width="50"> |   |
 | windows-vista | <img src="../icons/windows-vista.png" alt="windows-vista" width="50"> |   |
 | windows-xp | <img src="../icons/windows-xp.png" alt="windows-xp" width="50"> |   |
-| windows10 | <img src="../icons/windows10.png" alt="windows10" width="50"> |   |
 | windscribe |  |  <img src="../icons/windscribe.svg" alt="windscribe" width="50"> |
 | wire |  |  <img src="../icons/wire.svg" alt="wire" width="50"> |
 | wireguard | <img src="../icons/wireguard.png" alt="wireguard" width="50"> |  <img src="../icons/wireguard.svg" alt="wireguard" width="50"> |
 | wireshark | <img src="../icons/wireshark.png" alt="wireshark" width="50"> |   |
 | wish |  |  <img src="../icons/wish.svg" alt="wish" width="50"> |
-| wizarr | <img src="../icons/wizarr.png" alt="wizarr" width="50"> |   |
+| wizarr | <img src="../icons/wizarr.png" alt="wizarr" width="50"> |  <img src="../icons/wizarr.svg" alt="wizarr" width="50"> |
 | wlanscanner |  |  <img src="../icons/wlanscanner.svg" alt="wlanscanner" width="50"> |
 | wled | <img src="../icons/wled.png" alt="wled" width="50"> |   |
 | wolfi | <img src="../icons/wolfi.png" alt="wolfi" width="50"> |  <img src="../icons/wolfi.svg" alt="wolfi" width="50"> |
@@ -111,6 +115,7 @@
 | wondershare-player |  |  <img src="../icons/wondershare-player.svg" alt="wondershare-player" width="50"> |
 | woodpecker-ci | <img src="../icons/woodpecker-ci.png" alt="woodpecker-ci" width="50"> |  <img src="../icons/woodpecker-ci.svg" alt="woodpecker-ci" width="50"> |
 | woodpecker-ci-light | <img src="../icons/woodpecker-ci-light.png" alt="woodpecker-ci-light" width="50"> |   |
+| woodpeckerci-full |  |  <img src="../icons/woodpeckerci-full.svg" alt="woodpeckerci-full" width="50"> |
 | wordpress | <img src="../icons/wordpress.png" alt="wordpress" width="50"> |  <img src="../icons/wordpress.svg" alt="wordpress" width="50"> |
 | wordpress-light | <img src="../icons/wordpress-light.png" alt="wordpress-light" width="50"> |   |
 | wordreference |  |  <img src="../icons/wordreference.svg" alt="wordreference" width="50"> |

@@ -38,6 +38,7 @@
 | mame4droid |  |  <img src="../icons/mame4droid.svg" alt="mame4droid" width="50"> |
 | managemyhealth |  |  <img src="../icons/managemyhealth.svg" alt="managemyhealth" width="50"> |
 | mango | <img src="../icons/mango.png" alt="mango" width="50"> |   |
+| manjaro |  |  <img src="../icons/manjaro.svg" alt="manjaro" width="50"> |
 | manjaro-linux | <img src="../icons/manjaro-linux.png" alt="manjaro-linux" width="50"> |  <img src="../icons/manjaro-linux.svg" alt="manjaro-linux" width="50"> |
 | mantisbt | <img src="../icons/mantisbt.png" alt="mantisbt" width="50"> |   |
 | manyfold | <img src="../icons/manyfold.png" alt="manyfold" width="50"> |  <img src="../icons/manyfold.svg" alt="manyfold" width="50"> |
@@ -49,6 +50,8 @@
 | marble-behaim |  |  <img src="../icons/marble-behaim.svg" alt="marble-behaim" width="50"> |
 | marginalia | <img src="../icons/marginalia.png" alt="marginalia" width="50"> |   |
 | mariadb | <img src="../icons/mariadb.png" alt="mariadb" width="50"> |  <img src="../icons/mariadb.svg" alt="mariadb" width="50"> |
+| markdown |  |  <img src="../icons/markdown.svg" alt="markdown" width="50"> |
+| markdown-dark |  |  <img src="../icons/markdown-dark.svg" alt="markdown-dark" width="50"> |
 | markor |  |  <img src="../icons/markor.svg" alt="markor" width="50"> |
 | marktplaats |  |  <img src="../icons/marktplaats.svg" alt="marktplaats" width="50"> |
 | marvel-comics |  |  <img src="../icons/marvel-comics.svg" alt="marvel-comics" width="50"> |
@@ -61,11 +64,15 @@
 | matrix-light | <img src="../icons/matrix-light.png" alt="matrix-light" width="50"> |   |
 | matrix-synapse | <img src="../icons/matrix-synapse.png" alt="matrix-synapse" width="50"> |  <img src="../icons/matrix-synapse.svg" alt="matrix-synapse" width="50"> |
 | matrix-synapse-light | <img src="../icons/matrix-synapse-light.png" alt="matrix-synapse-light" width="50"> |   |
+| matrix-wide |  |  <img src="../icons/matrix-wide.svg" alt="matrix-wide" width="50"> |
+| matrix-wide-light |  |  <img src="../icons/matrix-wide-light.svg" alt="matrix-wide-light" width="50"> |
 | mattermost | <img src="../icons/mattermost.png" alt="mattermost" width="50"> |  <img src="../icons/mattermost.svg" alt="mattermost" width="50"> |
 | mattermost-classic |  |  <img src="../icons/mattermost-classic.svg" alt="mattermost-classic" width="50"> |
+| mattermost-dark |  |  <img src="../icons/mattermost-dark.svg" alt="mattermost-dark" width="50"> |
 | mautic | <img src="../icons/mautic.png" alt="mautic" width="50"> |  <img src="../icons/mautic.svg" alt="mautic" width="50"> |
 | mautic-light | <img src="../icons/mautic-light.png" alt="mautic-light" width="50"> |   |
 | maxima |  |  <img src="../icons/maxima.svg" alt="maxima" width="50"> |
+| maxmind |  |  <img src="../icons/maxmind.svg" alt="maxmind" width="50"> |
 | maxthon-browser |  |  <img src="../icons/maxthon-browser.svg" alt="maxthon-browser" width="50"> |
 | mayan-edms | <img src="../icons/mayan-edms.png" alt="mayan-edms" width="50"> |   |
 | mayan-light | <img src="../icons/mayan-light.png" alt="mayan-light" width="50"> |   |
@@ -86,6 +93,7 @@
 | mega-nz | <img src="../icons/mega-nz.png" alt="mega-nz" width="50"> |  <img src="../icons/mega-nz.svg" alt="mega-nz" width="50"> |
 | megabonus |  |  <img src="../icons/megabonus.svg" alt="megabonus" width="50"> |
 | megafon |  |  <img src="../icons/megafon.svg" alt="megafon" width="50"> |
+| memcached |  |  <img src="../icons/memcached.svg" alt="memcached" width="50"> |
 | meme-generator |  |  <img src="../icons/meme-generator.svg" alt="meme-generator" width="50"> |
 | memos | <img src="../icons/memos.png" alt="memos" width="50"> |   |
 | mempool | <img src="../icons/mempool.png" alt="mempool" width="50"> |   |
@@ -94,6 +102,7 @@
 | meraki | <img src="../icons/meraki.png" alt="meraki" width="50"> |  <img src="../icons/meraki.svg" alt="meraki" width="50"> |
 | mercado-libre |  |  <img src="../icons/mercado-libre.svg" alt="mercado-libre" width="50"> |
 | mercado-pago |  |  <img src="../icons/mercado-pago.svg" alt="mercado-pago" width="50"> |
+| mercurial |  |  <img src="../icons/mercurial.svg" alt="mercurial" width="50"> |
 | mercury-browser |  |  <img src="../icons/mercury-browser.svg" alt="mercury-browser" width="50"> |
 | mercusys | <img src="../icons/mercusys.png" alt="mercusys" width="50"> |  <img src="../icons/mercusys.svg" alt="mercusys" width="50"> |
 | merriam-webster-dictionary |  |  <img src="../icons/merriam-webster-dictionary.svg" alt="merriam-webster-dictionary" width="50"> |
@@ -134,6 +143,7 @@
 | microsoft-onenote |  |  <img src="../icons/microsoft-onenote.svg" alt="microsoft-onenote" width="50"> |
 | microsoft-outlook |  |  <img src="../icons/microsoft-outlook.svg" alt="microsoft-outlook" width="50"> |
 | microsoft-powerpoint |  |  <img src="../icons/microsoft-powerpoint.svg" alt="microsoft-powerpoint" width="50"> |
+| microsoft-powershell |  |  <img src="../icons/microsoft-powershell.svg" alt="microsoft-powershell" width="50"> |
 | microsoft-rdc |  |  <img src="../icons/microsoft-rdc.svg" alt="microsoft-rdc" width="50"> |
 | microsoft-sharepoint | <img src="../icons/microsoft-sharepoint.png" alt="microsoft-sharepoint" width="50"> |  <img src="../icons/microsoft-sharepoint.svg" alt="microsoft-sharepoint" width="50"> |
 | microsoft-sql-server | <img src="../icons/microsoft-sql-server.png" alt="microsoft-sql-server" width="50"> |  <img src="../icons/microsoft-sql-server.svg" alt="microsoft-sql-server" width="50"> |
@@ -157,6 +167,7 @@
 | minha-escola-sp |  |  <img src="../icons/minha-escola-sp.svg" alt="minha-escola-sp" width="50"> |
 | miniflux | <img src="../icons/miniflux.png" alt="miniflux" width="50"> |  <img src="../icons/miniflux.svg" alt="miniflux" width="50"> |
 | miniflux-light | <img src="../icons/miniflux-light.png" alt="miniflux-light" width="50"> |   |
+| minikube |  |  <img src="../icons/minikube.svg" alt="minikube" width="50"> |
 | minimizer-for-youtube |  |  <img src="../icons/minimizer-for-youtube.svg" alt="minimizer-for-youtube" width="50"> |
 | minimserver | <img src="../icons/minimserver.png" alt="minimserver" width="50"> |   |
 | minio | <img src="../icons/minio.png" alt="minio" width="50"> |  <img src="../icons/minio.svg" alt="minio" width="50"> |
@@ -214,6 +225,7 @@
 | motioneye | <img src="../icons/motioneye.png" alt="motioneye" width="50"> |  <img src="../icons/motioneye.svg" alt="motioneye" width="50"> |
 | motp |  |  <img src="../icons/motp.svg" alt="motp" width="50"> |
 | movie-hd |  |  <img src="../icons/movie-hd.svg" alt="movie-hd" width="50"> |
+| mozilla |  |  <img src="../icons/mozilla.svg" alt="mozilla" width="50"> |
 | mp3-player-white |  |  <img src="../icons/mp3-player-white.svg" alt="mp3-player-white" width="50"> |
 | mpd |  |  <img src="../icons/mpd.svg" alt="mpd" width="50"> |
 | mpdroid |  |  <img src="../icons/mpdroid.svg" alt="mpdroid" width="50"> |
@@ -230,6 +242,7 @@
 | mullvad-vpn |  |  <img src="../icons/mullvad-vpn.svg" alt="mullvad-vpn" width="50"> |
 | multi-scrobbler | <img src="../icons/multi-scrobbler.png" alt="multi-scrobbler" width="50"> |  <img src="../icons/multi-scrobbler.svg" alt="multi-scrobbler" width="50"> |
 | mumble | <img src="../icons/mumble.png" alt="mumble" width="50"> |  <img src="../icons/mumble.svg" alt="mumble" width="50"> |
+| munin |  |  <img src="../icons/munin.svg" alt="munin" width="50"> |
 | musescore |  |  <img src="../icons/musescore.svg" alt="musescore" width="50"> |
 | mushrooms-app |  |  <img src="../icons/mushrooms-app.svg" alt="mushrooms-app" width="50"> |
 | music-folder-player |  |  <img src="../icons/music-folder-player.svg" alt="music-folder-player" width="50"> |

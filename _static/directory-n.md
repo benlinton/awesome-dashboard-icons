@@ -47,6 +47,8 @@
 | netgear-orbi | <img src="../icons/netgear-orbi.png" alt="netgear-orbi" width="50"> |   |
 | netguard |  |  <img src="../icons/netguard.svg" alt="netguard" width="50"> |
 | netlify | <img src="../icons/netlify.png" alt="netlify" width="50"> |  <img src="../icons/netlify.svg" alt="netlify" width="50"> |
+| netlify-dark |  |  <img src="../icons/netlify-dark.svg" alt="netlify-dark" width="50"> |
+| netlify-light |  |  <img src="../icons/netlify-light.svg" alt="netlify-light" width="50"> |
 | netmaker | <img src="../icons/netmaker.png" alt="netmaker" width="50"> |   |
 | netsurf | <img src="../icons/netsurf.png" alt="netsurf" width="50"> |  <img src="../icons/netsurf.svg" alt="netsurf" width="50"> |
 | network-analyzer |  |  <img src="../icons/network-analyzer.svg" alt="network-analyzer" width="50"> |
@@ -79,6 +81,7 @@
 | nextcloud-tasks | <img src="../icons/nextcloud-tasks.png" alt="nextcloud-tasks" width="50"> |  <img src="../icons/nextcloud-tasks.svg" alt="nextcloud-tasks" width="50"> |
 | nextcloud-timemanager | <img src="../icons/nextcloud-timemanager.png" alt="nextcloud-timemanager" width="50"> |  <img src="../icons/nextcloud-timemanager.svg" alt="nextcloud-timemanager" width="50"> |
 | nextdns | <img src="../icons/nextdns.png" alt="nextdns" width="50"> |  <img src="../icons/nextdns.svg" alt="nextdns" width="50"> |
+| nexterm |  |  <img src="../icons/nexterm.svg" alt="nexterm" width="50"> |
 | nextjs | <img src="../icons/nextjs.png" alt="nextjs" width="50"> |  <img src="../icons/nextjs.svg" alt="nextjs" width="50"> |
 | nextpvr | <img src="../icons/nextpvr.png" alt="nextpvr" width="50"> |   |
 | nginx | <img src="../icons/nginx.png" alt="nginx" width="50"> |  <img src="../icons/nginx.svg" alt="nginx" width="50"> |
@@ -94,13 +97,15 @@
 | nimo-tv |  |  <img src="../icons/nimo-tv.svg" alt="nimo-tv" width="50"> |
 | nitroshare |  |  <img src="../icons/nitroshare.svg" alt="nitroshare" width="50"> |
 | nitter | <img src="../icons/nitter.png" alt="nitter" width="50"> |  <img src="../icons/nitter.svg" alt="nitter" width="50"> |
+| nixos |  |  <img src="../icons/nixos.svg" alt="nixos" width="50"> |
+| nlnet-foundation |  |  <img src="../icons/nlnet-foundation.svg" alt="nlnet-foundation" width="50"> |
+| nlnet-labs |  |  <img src="../icons/nlnet-labs.svg" alt="nlnet-labs" width="50"> |
 | nocobase | <img src="../icons/nocobase.png" alt="nocobase" width="50"> |   |
 | nocobase-light | <img src="../icons/nocobase-light.png" alt="nocobase-light" width="50"> |   |
 | nocodb | <img src="../icons/nocodb.png" alt="nocodb" width="50"> |   |
 | node-red | <img src="../icons/node-red.png" alt="node-red" width="50"> |  <img src="../icons/node-red.svg" alt="node-red" width="50"> |
 | nodejs | <img src="../icons/nodejs.png" alt="nodejs" width="50"> |  <img src="../icons/nodejs.svg" alt="nodejs" width="50"> |
 | nodejs-alt | <img src="../icons/nodejs-alt.png" alt="nodejs-alt" width="50"> |  <img src="../icons/nodejs-alt.svg" alt="nodejs-alt" width="50"> |
-| nodered | <img src="../icons/nodered.png" alt="nodered" width="50"> |   |
 | nomachine |  |  <img src="../icons/nomachine.svg" alt="nomachine" width="50"> |
 | nomad | <img src="../icons/nomad.png" alt="nomad" width="50"> |  <img src="../icons/nomad.svg" alt="nomad" width="50"> |
 | nomie | <img src="../icons/nomie.png" alt="nomie" width="50"> |  <img src="../icons/nomie.svg" alt="nomie" width="50"> |
@@ -125,6 +130,7 @@
 | nowshowing | <img src="../icons/nowshowing.png" alt="nowshowing" width="50"> |   |
 | noxcleaner |  |  <img src="../icons/noxcleaner.svg" alt="noxcleaner" width="50"> |
 | nozbe |  |  <img src="../icons/nozbe.svg" alt="nozbe" width="50"> |
+| npm |  |  <img src="../icons/npm.svg" alt="npm" width="50"> |
 | nrg-player |  |  <img src="../icons/nrg-player.svg" alt="nrg-player" width="50"> |
 | ntfy | <img src="../icons/ntfy.png" alt="ntfy" width="50"> |  <img src="../icons/ntfy.svg" alt="ntfy" width="50"> |
 | ntfy-light | <img src="../icons/ntfy-light.png" alt="ntfy-light" width="50"> |   |
@@ -134,7 +140,8 @@
 | num |  |  <img src="../icons/num.svg" alt="num" width="50"> |
 | nut | <img src="../icons/nut.png" alt="nut" width="50"> |  <img src="../icons/nut.svg" alt="nut" width="50"> |
 | nutstore |  |  <img src="../icons/nutstore.svg" alt="nutstore" width="50"> |
-| nvidia | <img src="../icons/nvidia.png" alt="nvidia" width="50"> |   |
+| nvidia | <img src="../icons/nvidia.png" alt="nvidia" width="50"> |  <img src="../icons/nvidia.svg" alt="nvidia" width="50"> |
+| nvidia-logo |  |  <img src="../icons/nvidia-logo.svg" alt="nvidia-logo" width="50"> |
 | nxfilter | <img src="../icons/nxfilter.png" alt="nxfilter" width="50"> |   |
 | nxlog | <img src="../icons/nxlog.png" alt="nxlog" width="50"> |   |
 | nytimes |  |  <img src="../icons/nytimes.svg" alt="nytimes" width="50"> |

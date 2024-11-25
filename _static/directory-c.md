@@ -36,6 +36,8 @@
 | camera-zoom-fx |  |  <img src="../icons/camera-zoom-fx.svg" alt="camera-zoom-fx" width="50"> |
 | canon-cw |  |  <img src="../icons/canon-cw.svg" alt="canon-cw" width="50"> |
 | canonical | <img src="../icons/canonical.png" alt="canonical" width="50"> |  <img src="../icons/canonical.svg" alt="canonical" width="50"> |
+| canonical-snapcraft |  |  <img src="../icons/canonical-snapcraft.svg" alt="canonical-snapcraft" width="50"> |
+| canonical-ubuntu |  |  <img src="../icons/canonical-ubuntu.svg" alt="canonical-ubuntu" width="50"> |
 | canva |  |  <img src="../icons/canva.svg" alt="canva" width="50"> |
 | capcut |  |  <img src="../icons/capcut.svg" alt="capcut" width="50"> |
 | cardigann | <img src="../icons/cardigann.png" alt="cardigann" width="50"> |   |
@@ -95,6 +97,7 @@
 | cilium | <img src="../icons/cilium.png" alt="cilium" width="50"> |  <img src="../icons/cilium.svg" alt="cilium" width="50"> |
 | cinny | <img src="../icons/cinny.png" alt="cinny" width="50"> |  <img src="../icons/cinny.svg" alt="cinny" width="50"> |
 | cinny-light | <img src="../icons/cinny-light.png" alt="cinny-light" width="50"> |   |
+| circleci |  |  <img src="../icons/circleci.svg" alt="circleci" width="50"> |
 | cisco | <img src="../icons/cisco.png" alt="cisco" width="50"> |  <img src="../icons/cisco.svg" alt="cisco" width="50"> |
 | cisco-anyconnect |  |  <img src="../icons/cisco-anyconnect.svg" alt="cisco-anyconnect" width="50"> |
 | citibanamex |  |  <img src="../icons/citibanamex.svg" alt="citibanamex" width="50"> |
@@ -113,6 +116,7 @@
 | clocksync |  |  <img src="../icons/clocksync.svg" alt="clocksync" width="50"> |
 | closed-captioning | <img src="../icons/closed-captioning.png" alt="closed-captioning" width="50"> |  <img src="../icons/closed-captioning.svg" alt="closed-captioning" width="50"> |
 | closed-captioning-light | <img src="../icons/closed-captioning-light.png" alt="closed-captioning-light" width="50"> |   |
+| cloud-native-computing-foundation |  |  <img src="../icons/cloud-native-computing-foundation.svg" alt="cloud-native-computing-foundation" width="50"> |
 | cloud-player-doubletwist |  |  <img src="../icons/cloud-player-doubletwist.svg" alt="cloud-player-doubletwist" width="50"> |
 | cloud66 | <img src="../icons/cloud66.png" alt="cloud66" width="50"> |  <img src="../icons/cloud66.svg" alt="cloud66" width="50"> |
 | cloud9 | <img src="../icons/cloud9.png" alt="cloud9" width="50"> |  <img src="../icons/cloud9.svg" alt="cloud9" width="50"> |
@@ -128,7 +132,7 @@
 | clue |  |  <img src="../icons/clue.svg" alt="clue" width="50"> |
 | cm-browser |  |  <img src="../icons/cm-browser.svg" alt="cm-browser" width="50"> |
 | cnn |  |  <img src="../icons/cnn.svg" alt="cnn" width="50"> |
-| cockpit | <img src="../icons/cockpit.png" alt="cockpit" width="50"> |   |
+| cockpit | <img src="../icons/cockpit.png" alt="cockpit" width="50"> |  <img src="../icons/cockpit.svg" alt="cockpit" width="50"> |
 | cockpit-cms | <img src="../icons/cockpit-cms.png" alt="cockpit-cms" width="50"> |  <img src="../icons/cockpit-cms.svg" alt="cockpit-cms" width="50"> |
 | cockpit-cms-light | <img src="../icons/cockpit-cms-light.png" alt="cockpit-cms-light" width="50"> |   |
 | code | <img src="../icons/code.png" alt="code" width="50"> |  <img src="../icons/code.svg" alt="code" width="50"> |
@@ -149,6 +153,7 @@
 | comixology |  |  <img src="../icons/comixology.svg" alt="comixology" width="50"> |
 | commafeed | <img src="../icons/commafeed.png" alt="commafeed" width="50"> |  <img src="../icons/commafeed.svg" alt="commafeed" width="50"> |
 | compass |  |  <img src="../icons/compass.svg" alt="compass" width="50"> |
+| composer |  |  <img src="../icons/composer.svg" alt="composer" width="50"> |
 | conan-exiles | <img src="../icons/conan-exiles.png" alt="conan-exiles" width="50"> |   |
 | concourse | <img src="../icons/concourse.png" alt="concourse" width="50"> |  <img src="../icons/concourse.svg" alt="concourse" width="50"> |
 | connectips |  |  <img src="../icons/connectips.svg" alt="connectips" width="50"> |
@@ -199,6 +204,7 @@
 | csharp | <img src="../icons/csharp.png" alt="csharp" width="50"> |  <img src="../icons/csharp.svg" alt="csharp" width="50"> |
 | csploit |  |  <img src="../icons/csploit.svg" alt="csploit" width="50"> |
 | css | <img src="../icons/css.png" alt="css" width="50"> |  <img src="../icons/css.svg" alt="css" width="50"> |
+| css3 |  |  <img src="../icons/css3.svg" alt="css3" width="50"> |
 | ctemplar |  |  <img src="../icons/ctemplar.svg" alt="ctemplar" width="50"> |
 | cube-black |  |  <img src="../icons/cube-black.svg" alt="cube-black" width="50"> |
 | cube-blueberry |  |  <img src="../icons/cube-blueberry.svg" alt="cube-blueberry" width="50"> |
@@ -206,6 +212,7 @@
 | cups | <img src="../icons/cups.png" alt="cups" width="50"> |  <img src="../icons/cups.svg" alt="cups" width="50"> |
 | cups-light | <img src="../icons/cups-light.png" alt="cups-light" width="50"> |   |
 | cura | <img src="../icons/cura.png" alt="cura" width="50"> |  <img src="../icons/cura.svg" alt="cura" width="50"> |
+| curl |  |  <img src="../icons/curl.svg" alt="curl" width="50"> |
 | cute-cut |  |  <img src="../icons/cute-cut.svg" alt="cute-cut" width="50"> |
 | cx-file-explorer |  |  <img src="../icons/cx-file-explorer.svg" alt="cx-file-explorer" width="50"> |
 | cyberchef | <img src="../icons/cyberchef.png" alt="cyberchef" width="50"> |  <img src="../icons/cyberchef.svg" alt="cyberchef" width="50"> |

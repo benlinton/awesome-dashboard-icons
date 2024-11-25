@@ -32,6 +32,8 @@
 | jetaudio |  |  <img src="../icons/jetaudio.svg" alt="jetaudio" width="50"> |
 | jetbrains-fleet | <img src="../icons/jetbrains-fleet.png" alt="jetbrains-fleet" width="50"> |   |
 | jetbrains-youtrack | <img src="../icons/jetbrains-youtrack.png" alt="jetbrains-youtrack" width="50"> |  <img src="../icons/jetbrains-youtrack.svg" alt="jetbrains-youtrack" width="50"> |
+| jfrog |  |  <img src="../icons/jfrog.svg" alt="jfrog" width="50"> |
+| jfrog-artifactory |  |  <img src="../icons/jfrog-artifactory.svg" alt="jfrog-artifactory" width="50"> |
 | jio | <img src="../icons/jio.png" alt="jio" width="50"> |  <img src="../icons/jio.svg" alt="jio" width="50"> |
 | jira | <img src="../icons/jira.png" alt="jira" width="50"> |  <img src="../icons/jira.svg" alt="jira" width="50"> |
 | jitsi | <img src="../icons/jitsi.png" alt="jitsi" width="50"> |  <img src="../icons/jitsi.svg" alt="jitsi" width="50"> |
@@ -47,6 +49,7 @@
 | joylada |  |  <img src="../icons/joylada.svg" alt="joylada" width="50"> |
 | jrdcom-file-manager |  |  <img src="../icons/jrdcom-file-manager.svg" alt="jrdcom-file-manager" width="50"> |
 | jrtstudio-music |  |  <img src="../icons/jrtstudio-music.svg" alt="jrtstudio-music" width="50"> |
+| json |  |  <img src="../icons/json.svg" alt="json" width="50"> |
 | juicessh |  |  <img src="../icons/juicessh.svg" alt="juicessh" width="50"> |
 | julia | <img src="../icons/julia.png" alt="julia" width="50"> |  <img src="../icons/julia.svg" alt="julia" width="50"> |
 | jupyter | <img src="../icons/jupyter.png" alt="jupyter" width="50"> |  <img src="../icons/jupyter.svg" alt="jupyter" width="50"> |

@@ -21,7 +21,7 @@
 | ebay | <img src="../icons/ebay.png" alt="ebay" width="50"> |  <img src="../icons/ebay.svg" alt="ebay" width="50"> |
 | eblocker | <img src="../icons/eblocker.png" alt="eblocker" width="50"> |  <img src="../icons/eblocker.svg" alt="eblocker" width="50"> |
 | eboox |  |  <img src="../icons/eboox.svg" alt="eboox" width="50"> |
-| eclipse-mosquitto | <img src="../icons/eclipse-mosquitto.png" alt="eclipse-mosquitto" width="50"> |   |
+| eclipse-mosquitto | <img src="../icons/eclipse-mosquitto.png" alt="eclipse-mosquitto" width="50"> |  <img src="../icons/eclipse-mosquitto.svg" alt="eclipse-mosquitto" width="50"> |
 | ecobee |  |  <img src="../icons/ecobee.svg" alt="ecobee" width="50"> |
 | edge | <img src="../icons/edge.png" alt="edge" width="50"> |  <img src="../icons/edge.svg" alt="edge" width="50"> |
 | edge-dev | <img src="../icons/edge-dev.png" alt="edge-dev" width="50"> |  <img src="../icons/edge-dev.svg" alt="edge-dev" width="50"> |
@@ -38,8 +38,10 @@
 | eldorado |  |  <img src="../icons/eldorado.svg" alt="eldorado" width="50"> |
 | electron | <img src="../icons/electron.png" alt="electron" width="50"> |  <img src="../icons/electron.svg" alt="electron" width="50"> |
 | electron-cash |  |  <img src="../icons/electron-cash.svg" alt="electron-cash" width="50"> |
+| electronic-frontier-foundation |  |  <img src="../icons/electronic-frontier-foundation.svg" alt="electronic-frontier-foundation" width="50"> |
 | electrum |  |  <img src="../icons/electrum.svg" alt="electrum" width="50"> |
 | element | <img src="../icons/element.png" alt="element" width="50"> |  <img src="../icons/element.svg" alt="element" width="50"> |
+| elementary-os |  |  <img src="../icons/elementary-os.svg" alt="elementary-os" width="50"> |
 | elisa |  |  <img src="../icons/elisa.svg" alt="elisa" width="50"> |
 | ellen-mp3-player |  |  <img src="../icons/ellen-mp3-player.svg" alt="ellen-mp3-player" width="50"> |
 | elta |  |  <img src="../icons/elta.svg" alt="elta" width="50"> |

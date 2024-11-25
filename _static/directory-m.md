@@ -38,8 +38,7 @@
 | mame4droid |  |  <img src="../icons/mame4droid.svg" alt="mame4droid" width="50"> |
 | managemyhealth |  |  <img src="../icons/managemyhealth.svg" alt="managemyhealth" width="50"> |
 | mango | <img src="../icons/mango.png" alt="mango" width="50"> |   |
-| manjaro |  |  <img src="../icons/manjaro.svg" alt="manjaro" width="50"> |
-| manjaro-linux | <img src="../icons/manjaro-linux.png" alt="manjaro-linux" width="50"> |  <img src="../icons/manjaro-linux.svg" alt="manjaro-linux" width="50"> |
+| manjaro | <img src="../icons/manjaro.png" alt="manjaro" width="50"> |  <img src="../icons/manjaro.svg" alt="manjaro" width="50"> |
 | mantisbt | <img src="../icons/mantisbt.png" alt="mantisbt" width="50"> |   |
 | manyfold | <img src="../icons/manyfold.png" alt="manyfold" width="50"> |  <img src="../icons/manyfold.svg" alt="manyfold" width="50"> |
 | maple |  |  <img src="../icons/maple.svg" alt="maple" width="50"> |
@@ -51,7 +50,7 @@
 | marginalia | <img src="../icons/marginalia.png" alt="marginalia" width="50"> |   |
 | mariadb | <img src="../icons/mariadb.png" alt="mariadb" width="50"> |  <img src="../icons/mariadb.svg" alt="mariadb" width="50"> |
 | markdown |  |  <img src="../icons/markdown.svg" alt="markdown" width="50"> |
-| markdown-dark |  |  <img src="../icons/markdown-dark.svg" alt="markdown-dark" width="50"> |
+| markdown-outline |  |  <img src="../icons/markdown-outline.svg" alt="markdown-outline" width="50"> |
 | markor |  |  <img src="../icons/markor.svg" alt="markor" width="50"> |
 | marktplaats |  |  <img src="../icons/marktplaats.svg" alt="marktplaats" width="50"> |
 | marvel-comics |  |  <img src="../icons/marvel-comics.svg" alt="marvel-comics" width="50"> |
@@ -69,8 +68,7 @@
 | mattermost | <img src="../icons/mattermost.png" alt="mattermost" width="50"> |  <img src="../icons/mattermost.svg" alt="mattermost" width="50"> |
 | mattermost-classic |  |  <img src="../icons/mattermost-classic.svg" alt="mattermost-classic" width="50"> |
 | mattermost-dark |  |  <img src="../icons/mattermost-dark.svg" alt="mattermost-dark" width="50"> |
-| mautic | <img src="../icons/mautic.png" alt="mautic" width="50"> |   |
-| mautic-light | <img src="../icons/mautic-light.png" alt="mautic-light" width="50"> |  <img src="../icons/mautic-light.svg" alt="mautic-light" width="50"> |
+| mautic | <img src="../icons/mautic.png" alt="mautic" width="50"> |  <img src="../icons/mautic.svg" alt="mautic" width="50"> |
 | maxima |  |  <img src="../icons/maxima.svg" alt="maxima" width="50"> |
 | maxmind-logo |  |  <img src="../icons/maxmind-logo.svg" alt="maxmind-logo" width="50"> |
 | maxthon-browser |  |  <img src="../icons/maxthon-browser.svg" alt="maxthon-browser" width="50"> |

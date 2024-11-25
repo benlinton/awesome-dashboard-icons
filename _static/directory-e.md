@@ -25,8 +25,8 @@
 | ecobee |  |  <img src="../icons/ecobee.svg" alt="ecobee" width="50"> |
 | edge | <img src="../icons/edge.png" alt="edge" width="50"> |  <img src="../icons/edge.svg" alt="edge" width="50"> |
 | edge-dev | <img src="../icons/edge-dev.png" alt="edge-dev" width="50"> |  <img src="../icons/edge-dev.svg" alt="edge-dev" width="50"> |
-| edgeos | <img src="../icons/edgeos.png" alt="edgeos" width="50"> |   |
-| edgeos-light | <img src="../icons/edgeos-light.png" alt="edgeos-light" width="50"> |   |
+| edgeos-logo | <img src="../icons/edgeos-logo.png" alt="edgeos-logo" width="50"> |   |
+| edgeos-logo-light | <img src="../icons/edgeos-logo-light.png" alt="edgeos-logo-light" width="50"> |   |
 | edmodo |  |  <img src="../icons/edmodo.svg" alt="edmodo" width="50"> |
 | edx |  |  <img src="../icons/edx.svg" alt="edx" width="50"> |
 | ego-cepte |  |  <img src="../icons/ego-cepte.svg" alt="ego-cepte" width="50"> |

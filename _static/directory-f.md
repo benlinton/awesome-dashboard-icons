@@ -19,12 +19,12 @@
 | factorio | <img src="../icons/factorio.png" alt="factorio" width="50"> |   |
 | factorio-logo | <img src="../icons/factorio-logo.png" alt="factorio-logo" width="50"> |   |
 | fairemail |  |  <img src="../icons/fairemail.svg" alt="fairemail" width="50"> |
-| falcon-christmas | <img src="../icons/falcon-christmas.png" alt="falcon-christmas" width="50"> |   |
+| falcon-christmas-logo | <img src="../icons/falcon-christmas-logo.png" alt="falcon-christmas-logo" width="50"> |   |
 | far-manager |  |  <img src="../icons/far-manager.svg" alt="far-manager" width="50"> |
 | farming-simulator | <img src="../icons/farming-simulator.png" alt="farming-simulator" width="50"> |   |
 | fast |  |  <img src="../icons/fast.svg" alt="fast" width="50"> |
-| fast-com | <img src="../icons/fast-com.png" alt="fast-com" width="50"> |  <img src="../icons/fast-com.svg" alt="fast-com" width="50"> |
-| fast-com-light | <img src="../icons/fast-com-light.png" alt="fast-com-light" width="50"> |   |
+| fast-logo | <img src="../icons/fast-logo.png" alt="fast-logo" width="50"> |  <img src="../icons/fast-logo.svg" alt="fast-logo" width="50"> |
+| fast-logo-light | <img src="../icons/fast-logo-light.png" alt="fast-logo-light" width="50"> |   |
 | fasten | <img src="../icons/fasten.png" alt="fasten" width="50"> |   |
 | fastest-mini-browser |  |  <img src="../icons/fastest-mini-browser.svg" alt="fastest-mini-browser" width="50"> |
 | fasthub |  |  <img src="../icons/fasthub.svg" alt="fasthub" width="50"> |
@@ -71,8 +71,8 @@
 | findroid | <img src="../icons/findroid.png" alt="findroid" width="50"> |  <img src="../icons/findroid.svg" alt="findroid" width="50"> |
 | findroid-dark | <img src="../icons/findroid-dark.png" alt="findroid-dark" width="50"> |  <img src="../icons/findroid-dark.svg" alt="findroid-dark" width="50"> |
 | findroid-light | <img src="../icons/findroid-light.png" alt="findroid-light" width="50"> |  <img src="../icons/findroid-light.svg" alt="findroid-light" width="50"> |
-| fios | <img src="../icons/fios.png" alt="fios" width="50"> |  <img src="../icons/fios.svg" alt="fios" width="50"> |
-| fios-light | <img src="../icons/fios-light.png" alt="fios-light" width="50"> |   |
+| fios-logo | <img src="../icons/fios-logo.png" alt="fios-logo" width="50"> |  <img src="../icons/fios-logo.svg" alt="fios-logo" width="50"> |
+| fios-logo-light | <img src="../icons/fios-logo-light.png" alt="fios-logo-light" width="50"> |   |
 | firebase | <img src="../icons/firebase.png" alt="firebase" width="50"> |  <img src="../icons/firebase.svg" alt="firebase" width="50"> |
 | firefly | <img src="../icons/firefly.png" alt="firefly" width="50"> |  <img src="../icons/firefly.svg" alt="firefly" width="50"> |
 | firefly-iii |  |  <img src="../icons/firefly-iii.svg" alt="firefly-iii" width="50"> |

@@ -179,7 +179,7 @@
 | guacamole | <img src="../icons/guacamole.png" alt="guacamole" width="50"> |  <img src="../icons/guacamole.svg" alt="guacamole" width="50"> |
 | guacamole-light | <img src="../icons/guacamole-light.png" alt="guacamole-light" width="50"> |   |
 | guardian |  |  <img src="../icons/guardian.svg" alt="guardian" width="50"> |
-| guest-suitecase | <img src="../icons/guest-suitecase.png" alt="guest-suitecase" width="50"> |   |
+| guest | <img src="../icons/guest.png" alt="guest" width="50"> |   |
 | guilded |  |  <img src="../icons/guilded.svg" alt="guilded" width="50"> |
 | guitartuna |  |  <img src="../icons/guitartuna.svg" alt="guitartuna" width="50"> |
 

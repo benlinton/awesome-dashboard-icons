@@ -16,8 +16,8 @@
 | acestream |  |  <img src="../icons/acestream.svg" alt="acestream" width="50"> |
 | acode |  |  <img src="../icons/acode.svg" alt="acode" width="50"> |
 | acorns |  |  <img src="../icons/acorns.svg" alt="acorns" width="50"> |
-| act | <img src="../icons/act.png" alt="act" width="50"> |  <img src="../icons/act.svg" alt="act" width="50"> |
 | act-fibernet |  |  <img src="../icons/act-fibernet.svg" alt="act-fibernet" width="50"> |
+| act-logo | <img src="../icons/act-logo.png" alt="act-logo" width="50"> |  <img src="../icons/act-logo.svg" alt="act-logo" width="50"> |
 | action-launcher |  |  <img src="../icons/action-launcher.svg" alt="action-launcher" width="50"> |
 | actiondirector |  |  <img src="../icons/actiondirector.svg" alt="actiondirector" width="50"> |
 | activity-launcher |  |  <img src="../icons/activity-launcher.svg" alt="activity-launcher" width="50"> |

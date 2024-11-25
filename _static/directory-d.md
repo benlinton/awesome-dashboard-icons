@@ -6,8 +6,8 @@
 
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
-| d-link | <img src="../icons/d-link.png" alt="d-link" width="50"> |  <img src="../icons/d-link.svg" alt="d-link" width="50"> |
-| d-link-wifi | <img src="../icons/d-link-wifi.png" alt="d-link-wifi" width="50"> |   |
+| d-link | <img src="../icons/d-link.png" alt="d-link" width="50"> |   |
+| d-link-logo | <img src="../icons/d-link-logo.png" alt="d-link-logo" width="50"> |  <img src="../icons/d-link-logo.svg" alt="d-link-logo" width="50"> |
 | d-notes |  |  <img src="../icons/d-notes.svg" alt="d-notes" width="50"> |
 | d00r |  |  <img src="../icons/d00r.svg" alt="d00r" width="50"> |
 | dahua | <img src="../icons/dahua.png" alt="dahua" width="50"> |   |

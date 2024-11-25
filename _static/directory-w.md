@@ -45,8 +45,8 @@
 | webkit | <img src="../icons/webkit.png" alt="webkit" width="50"> |  <img src="../icons/webkit.svg" alt="webkit" width="50"> |
 | webmin | <img src="../icons/webmin.png" alt="webmin" width="50"> |  <img src="../icons/webmin.svg" alt="webmin" width="50"> |
 | webmoney |  |  <img src="../icons/webmoney.svg" alt="webmoney" width="50"> |
-| webssh |  |   |
-| webssh-light |  |   |
+| webssh | <img src="../icons/webssh.png" alt="webssh" width="50"> |   |
+| webssh-light | <img src="../icons/webssh-light.png" alt="webssh-light" width="50"> |   |
 | webtools | <img src="../icons/webtools.png" alt="webtools" width="50"> |   |
 | webtoon |  |  <img src="../icons/webtoon.svg" alt="webtoon" width="50"> |
 | webtop | <img src="../icons/webtop.png" alt="webtop" width="50"> |   |

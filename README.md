@@ -9,7 +9,7 @@ The **largest collection** of icons for dashboards like:
 
 ## ✨ Browse the icons
 
-Browse the **3379 icons**.
+Browse the **3380 icons**.
 
 - [Icon Directory](browse/directory-a.md) - Names with each image filetype (_easier to search_)
 - [Icon Gallery](browse/gallery-a.md) - Mashup of images only (_faster visual scanning_)

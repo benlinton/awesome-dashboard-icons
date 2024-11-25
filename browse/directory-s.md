@@ -225,6 +225,7 @@
 | sputnik-browser |  |  <img src="../icons/sputnik-browser.svg" alt="sputnik-browser" width="50"> |
 | sqlitebrowser | <img src="../icons/sqlitebrowser.png" alt="sqlitebrowser" width="50"> |  <img src="../icons/sqlitebrowser.svg" alt="sqlitebrowser" width="50"> |
 | sqliteprime |  |  <img src="../icons/sqliteprime.svg" alt="sqliteprime" width="50"> |
+| squad | <img src="../icons/squad.png" alt="squad" width="50"> |   |
 | square-home-launcher |  |  <img src="../icons/square-home-launcher.svg" alt="square-home-launcher" width="50"> |
 | square-home-settings |  |  <img src="../icons/square-home-settings.svg" alt="square-home-settings" width="50"> |
 | squeezebox-server | <img src="../icons/squeezebox-server.png" alt="squeezebox-server" width="50"> |   |

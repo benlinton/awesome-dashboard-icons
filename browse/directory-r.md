@@ -85,6 +85,7 @@
 | ringid |  |  <img src="../icons/ringid.svg" alt="ringid" width="50"> |
 | riot | <img src="../icons/riot.png" alt="riot" width="50"> |  <img src="../icons/riot.svg" alt="riot" width="50"> |
 | ripple |  |  <img src="../icons/ripple.svg" alt="ripple" width="50"> |
+| risk-of-rain-2 | <img src="../icons/risk-of-rain-2.png" alt="risk-of-rain-2" width="50"> |   |
 | rive-gauche |  |  <img src="../icons/rive-gauche.svg" alt="rive-gauche" width="50"> |
 | robin |  |  <img src="../icons/robin.svg" alt="robin" width="50"> |
 | robinhood |  |  <img src="../icons/robinhood.svg" alt="robinhood" width="50"> |

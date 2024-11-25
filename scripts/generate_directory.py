@@ -41,9 +41,9 @@ def unique_names(dir, page_id):
 
 def page_path(page_id):
     if page_id == "#":
-        return 'browse/directory.md'
+        return '_static/directory.md'
     else:
-        return f'browse/directory-{page_id.lower()}.md'
+        return f'_static/directory-{page_id.lower()}.md'
     
 def page_name(page_id):
     if page_id == "#":

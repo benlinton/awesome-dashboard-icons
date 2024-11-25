@@ -11,8 +11,8 @@ The **largest collection** of icons for dashboards like:
 
 Browse the **3386 icons**.
 
-- [Icon Directory](browse/directory-a.md) - Names with each image filetype (_easier to search_)
-- [Icon Gallery](browse/gallery-a.md) - Mashup of images only (_faster visual scanning_)
+- [Icon Directory](_static/directory-a.md) - Names with each image filetype (_easier to search_)
+- [Icon Gallery](_static/gallery-a.md) - Mashup of images only (_faster visual scanning_)
 
 
 ## 🚀 After updating icons

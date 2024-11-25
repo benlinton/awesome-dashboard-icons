@@ -26,9 +26,9 @@ def gallery(dir, page_id, file_ext):
 
 def page_path(page_id):
     if page_id == "#":
-        return 'browse/gallery.md'
+        return '_static/gallery.md'
     else:
-        return f'browse/gallery-{page_id.lower()}.md'
+        return f'_static/gallery-{page_id.lower()}.md'
 
 def page_name(page_id):
     if page_id == "#":

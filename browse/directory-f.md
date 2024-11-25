@@ -20,6 +20,7 @@
 | fairemail |  |  <img src="../icons/fairemail.svg" alt="fairemail" width="50"> |
 | falcon-christmas | <img src="../icons/falcon-christmas.png" alt="falcon-christmas" width="50"> |   |
 | far-manager |  |  <img src="../icons/far-manager.svg" alt="far-manager" width="50"> |
+| farming-simulator | <img src="../icons/farming-simulator.png" alt="farming-simulator" width="50"> |   |
 | fast |  |  <img src="../icons/fast.svg" alt="fast" width="50"> |
 | fast-com | <img src="../icons/fast-com.png" alt="fast-com" width="50"> |  <img src="../icons/fast-com.svg" alt="fast-com" width="50"> |
 | fast-com-light | <img src="../icons/fast-com-light.png" alt="fast-com-light" width="50"> |   |

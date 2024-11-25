@@ -6,6 +6,7 @@
 
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
+| v-rising | <img src="../icons/v-rising.png" alt="v-rising" width="50"> |   |
 | valetudo | <img src="../icons/valetudo.png" alt="valetudo" width="50"> |  <img src="../icons/valetudo.svg" alt="valetudo" width="50"> |
 | valheim | <img src="../icons/valheim.png" alt="valheim" width="50"> |   |
 | vanced-manager |  |  <img src="../icons/vanced-manager.svg" alt="vanced-manager" width="50"> |

@@ -34,6 +34,7 @@
 | tautulli | <img src="../icons/tautulli.png" alt="tautulli" width="50"> |  <img src="../icons/tautulli.svg" alt="tautulli" width="50"> |
 | td-ameritrade |  |  <img src="../icons/td-ameritrade.svg" alt="td-ameritrade" width="50"> |
 | tdarr | <img src="../icons/tdarr.png" alt="tdarr" width="50"> |   |
+| team-fortress-2 | <img src="../icons/team-fortress-2.png" alt="team-fortress-2" width="50"> |   |
 | teamcity | <img src="../icons/teamcity.png" alt="teamcity" width="50"> |  <img src="../icons/teamcity.svg" alt="teamcity" width="50"> |
 | teamspeak | <img src="../icons/teamspeak.png" alt="teamspeak" width="50"> |  <img src="../icons/teamspeak.svg" alt="teamspeak" width="50"> |
 | teamspeak3 |  |  <img src="../icons/teamspeak3.svg" alt="teamspeak3" width="50"> |

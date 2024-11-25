@@ -28,6 +28,7 @@
 | datovka |  |  <img src="../icons/datovka.svg" alt="datovka" width="50"> |
 | davis | <img src="../icons/davis.png" alt="davis" width="50"> |   |
 | davx-5 |  |  <img src="../icons/davx-5.svg" alt="davx-5" width="50"> |
+| day-z | <img src="../icons/day-z.png" alt="day-z" width="50"> |   |
 | dc-os | <img src="../icons/dc-os.png" alt="dc-os" width="50"> |  <img src="../icons/dc-os.svg" alt="dc-os" width="50"> |
 | dd-wrt | <img src="../icons/dd-wrt.png" alt="dd-wrt" width="50"> |   |
 | dd-wrt-light | <img src="../icons/dd-wrt-light.png" alt="dd-wrt-light" width="50"> |   |
@@ -108,6 +109,7 @@
 | dolphin-zero-browser |  |  <img src="../icons/dolphin-zero-browser.svg" alt="dolphin-zero-browser" width="50"> |
 | domainmod | <img src="../icons/domainmod.png" alt="domainmod" width="50"> |   |
 | domoticz | <img src="../icons/domoticz.png" alt="domoticz" width="50"> |   |
+| dont-starve-together | <img src="../icons/dont-starve-together.png" alt="dont-starve-together" width="50"> |   |
 | dontkillmyapp |  |  <img src="../icons/dontkillmyapp.svg" alt="dontkillmyapp" width="50"> |
 | doodle |  |  <img src="../icons/doodle.svg" alt="doodle" width="50"> |
 | dopplertask | <img src="../icons/dopplertask.png" alt="dopplertask" width="50"> |   |

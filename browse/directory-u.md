@@ -43,6 +43,7 @@
 | unraid-alt | <img src="../icons/unraid-alt.png" alt="unraid-alt" width="50"> |  <img src="../icons/unraid-alt.svg" alt="unraid-alt" width="50"> |
 | untangle | <img src="../icons/untangle.png" alt="untangle" width="50"> |  <img src="../icons/untangle.svg" alt="untangle" width="50"> |
 | untappd |  |  <img src="../icons/untappd.svg" alt="untappd" width="50"> |
+| unturned | <img src="../icons/unturned.png" alt="unturned" width="50"> |   |
 | unusual-wallpapers |  |  <img src="../icons/unusual-wallpapers.svg" alt="unusual-wallpapers" width="50"> |
 | updog | <img src="../icons/updog.png" alt="updog" width="50"> |   |
 | uplive |  |  <img src="../icons/uplive.svg" alt="uplive" width="50"> |

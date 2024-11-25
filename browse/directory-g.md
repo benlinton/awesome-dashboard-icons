@@ -13,6 +13,7 @@
 | gameyfin | <img src="../icons/gameyfin.png" alt="gameyfin" width="50"> |   |
 | gameyfin-light | <img src="../icons/gameyfin-light.png" alt="gameyfin-light" width="50"> |   |
 | gaps | <img src="../icons/gaps.png" alt="gaps" width="50"> |   |
+| garrys-mod | <img src="../icons/garrys-mod.png" alt="garrys-mod" width="50"> |   |
 | gaseous | <img src="../icons/gaseous.png" alt="gaseous" width="50"> |   |
 | gatsby | <img src="../icons/gatsby.png" alt="gatsby" width="50"> |  <img src="../icons/gatsby.svg" alt="gatsby" width="50"> |
 | gatus | <img src="../icons/gatus.png" alt="gatus" width="50"> |  <img src="../icons/gatus.svg" alt="gatus" width="50"> |

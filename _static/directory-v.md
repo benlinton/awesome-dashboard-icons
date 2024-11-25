@@ -69,7 +69,7 @@
 | vscode | <img src="../icons/vscode.png" alt="vscode" width="50"> |  <img src="../icons/vscode.svg" alt="vscode" width="50"> |
 | vseinstrumenti |  |  <img src="../icons/vseinstrumenti.svg" alt="vseinstrumenti" width="50"> |
 | vsemayki |  |  <img src="../icons/vsemayki.svg" alt="vsemayki" width="50"> |
-| vulkan |  |  <img src="../icons/vulkan.svg" alt="vulkan" width="50"> |
+| vulkan-logo |  |  <img src="../icons/vulkan-logo.svg" alt="vulkan-logo" width="50"> |
 | vultr | <img src="../icons/vultr.png" alt="vultr" width="50"> |  <img src="../icons/vultr.svg" alt="vultr" width="50"> |
 | vultr-light |  |  <img src="../icons/vultr-light.svg" alt="vultr-light" width="50"> |
 | vuplus | <img src="../icons/vuplus.png" alt="vuplus" width="50"> |   |

@@ -106,8 +106,8 @@
 | wizarr | <img src="../icons/wizarr.png" alt="wizarr" width="50"> |  <img src="../icons/wizarr.svg" alt="wizarr" width="50"> |
 | wlanscanner |  |  <img src="../icons/wlanscanner.svg" alt="wlanscanner" width="50"> |
 | wled | <img src="../icons/wled.png" alt="wled" width="50"> |   |
-| wolfi | <img src="../icons/wolfi.png" alt="wolfi" width="50"> |  <img src="../icons/wolfi.svg" alt="wolfi" width="50"> |
-| wolfi-light | <img src="../icons/wolfi-light.png" alt="wolfi-light" width="50"> |   |
+| wolfi-logo | <img src="../icons/wolfi-logo.png" alt="wolfi-logo" width="50"> |  <img src="../icons/wolfi-logo.svg" alt="wolfi-logo" width="50"> |
+| wolfi-logo-light | <img src="../icons/wolfi-logo-light.png" alt="wolfi-logo-light" width="50"> |   |
 | wolfram-alpha |  |  <img src="../icons/wolfram-alpha.svg" alt="wolfram-alpha" width="50"> |
 | wombo-dream |  |  <img src="../icons/wombo-dream.svg" alt="wombo-dream" width="50"> |
 | wondershare-player |  |  <img src="../icons/wondershare-player.svg" alt="wondershare-player" width="50"> |

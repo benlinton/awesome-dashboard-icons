@@ -18,7 +18,7 @@
 | easy-gate-light | <img src="../icons/easy-gate-light.png" alt="easy-gate-light" width="50"> |   |
 | easy-photoprint-editor |  |  <img src="../icons/easy-photoprint-editor.svg" alt="easy-photoprint-editor" width="50"> |
 | easy-voice-recorder |  |  <img src="../icons/easy-voice-recorder.svg" alt="easy-voice-recorder" width="50"> |
-| ebay | <img src="../icons/ebay.png" alt="ebay" width="50"> |  <img src="../icons/ebay.svg" alt="ebay" width="50"> |
+| ebay-logo | <img src="../icons/ebay-logo.png" alt="ebay-logo" width="50"> |  <img src="../icons/ebay-logo.svg" alt="ebay-logo" width="50"> |
 | eblocker | <img src="../icons/eblocker.png" alt="eblocker" width="50"> |  <img src="../icons/eblocker.svg" alt="eblocker" width="50"> |
 | eboox |  |  <img src="../icons/eboox.svg" alt="eboox" width="50"> |
 | eclipse-mosquitto | <img src="../icons/eclipse-mosquitto.png" alt="eclipse-mosquitto" width="50"> |  <img src="../icons/eclipse-mosquitto.svg" alt="eclipse-mosquitto" width="50"> |
@@ -66,8 +66,8 @@
 | equalizer-music-player-booster |  |  <img src="../icons/equalizer-music-player-booster.svg" alt="equalizer-music-player-booster" width="50"> |
 | ereader-prestigio |  |  <img src="../icons/ereader-prestigio.svg" alt="ereader-prestigio" width="50"> |
 | ersatztv | <img src="../icons/ersatztv.png" alt="ersatztv" width="50"> |   |
-| erste | <img src="../icons/erste.png" alt="erste" width="50"> |  <img src="../icons/erste.svg" alt="erste" width="50"> |
 | erste-george | <img src="../icons/erste-george.png" alt="erste-george" width="50"> |  <img src="../icons/erste-george.svg" alt="erste-george" width="50"> |
+| erste-logo | <img src="../icons/erste-logo.png" alt="erste-logo" width="50"> |  <img src="../icons/erste-logo.svg" alt="erste-logo" width="50"> |
 | es-file-explorer |  |  <img src="../icons/es-file-explorer.svg" alt="es-file-explorer" width="50"> |
 | esewa |  |  <img src="../icons/esewa.svg" alt="esewa" width="50"> |
 | esphome | <img src="../icons/esphome.png" alt="esphome" width="50"> |  <img src="../icons/esphome.svg" alt="esphome" width="50"> |

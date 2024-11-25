@@ -17,7 +17,7 @@
 | facer |  |  <img src="../icons/facer.svg" alt="facer" width="50"> |
 | faceunlock |  |  <img src="../icons/faceunlock.svg" alt="faceunlock" width="50"> |
 | factorio | <img src="../icons/factorio.png" alt="factorio" width="50"> |   |
-| factorio-alt | <img src="../icons/factorio-alt.png" alt="factorio-alt" width="50"> |   |
+| factorio-logo | <img src="../icons/factorio-logo.png" alt="factorio-logo" width="50"> |   |
 | fairemail |  |  <img src="../icons/fairemail.svg" alt="fairemail" width="50"> |
 | falcon-christmas | <img src="../icons/falcon-christmas.png" alt="falcon-christmas" width="50"> |   |
 | far-manager |  |  <img src="../icons/far-manager.svg" alt="far-manager" width="50"> |
@@ -99,9 +99,9 @@
 | flat-notes | <img src="../icons/flat-notes.png" alt="flat-notes" width="50"> |   |
 | flathub | <img src="../icons/flathub.png" alt="flathub" width="50"> |  <img src="../icons/flathub.svg" alt="flathub" width="50"> |
 | flatnotes |  |  <img src="../icons/flatnotes.svg" alt="flatnotes" width="50"> |
-| flatpak | <img src="../icons/flatpak.png" alt="flatpak" width="50"> |  <img src="../icons/flatpak.svg" alt="flatpak" width="50"> |
-| flatpak-dark |  |  <img src="../icons/flatpak-dark.svg" alt="flatpak-dark" width="50"> |
+| flatpak |  |  <img src="../icons/flatpak.svg" alt="flatpak" width="50"> |
 | flatpak-light |  |  <img src="../icons/flatpak-light.svg" alt="flatpak-light" width="50"> |
+| flatpak-logo | <img src="../icons/flatpak-logo.png" alt="flatpak-logo" width="50"> |  <img src="../icons/flatpak-logo.svg" alt="flatpak-logo" width="50"> |
 | fleksy |  |  <img src="../icons/fleksy.svg" alt="fleksy" width="50"> |
 | flexget | <img src="../icons/flexget.png" alt="flexget" width="50"> |   |
 | flick-launcher |  |  <img src="../icons/flick-launcher.svg" alt="flick-launcher" width="50"> |

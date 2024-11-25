@@ -121,11 +121,11 @@
 | locker |  |  <img src="../icons/locker.svg" alt="locker" width="50"> |
 | lockwise |  |  <img src="../icons/lockwise.svg" alt="lockwise" width="50"> |
 | logisim |  |  <img src="../icons/logisim.svg" alt="logisim" width="50"> |
-| logitech | <img src="../icons/logitech.png" alt="logitech" width="50"> |  <img src="../icons/logitech.svg" alt="logitech" width="50"> |
 | logitech-gaming | <img src="../icons/logitech-gaming.png" alt="logitech-gaming" width="50"> |  <img src="../icons/logitech-gaming.svg" alt="logitech-gaming" width="50"> |
-| logitech-legacy | <img src="../icons/logitech-legacy.png" alt="logitech-legacy" width="50"> |  <img src="../icons/logitech-legacy.svg" alt="logitech-legacy" width="50"> |
-| logitech-legacy-light | <img src="../icons/logitech-legacy-light.png" alt="logitech-legacy-light" width="50"> |   |
-| logitech-light | <img src="../icons/logitech-light.png" alt="logitech-light" width="50"> |   |
+| logitech-logo | <img src="../icons/logitech-logo.png" alt="logitech-logo" width="50"> |  <img src="../icons/logitech-logo.svg" alt="logitech-logo" width="50"> |
+| logitech-logo-legacy | <img src="../icons/logitech-logo-legacy.png" alt="logitech-logo-legacy" width="50"> |  <img src="../icons/logitech-logo-legacy.svg" alt="logitech-logo-legacy" width="50"> |
+| logitech-logo-legacy-light | <img src="../icons/logitech-logo-legacy-light.png" alt="logitech-logo-legacy-light" width="50"> |   |
+| logitech-logo-light | <img src="../icons/logitech-logo-light.png" alt="logitech-logo-light" width="50"> |   |
 | logstash | <img src="../icons/logstash.png" alt="logstash" width="50"> |  <img src="../icons/logstash.svg" alt="logstash" width="50"> |
 | loki | <img src="../icons/loki.png" alt="loki" width="50"> |   |
 | longhorn | <img src="../icons/longhorn.png" alt="longhorn" width="50"> |  <img src="../icons/longhorn.svg" alt="longhorn" width="50"> |

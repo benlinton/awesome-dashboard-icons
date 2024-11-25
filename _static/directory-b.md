@@ -11,7 +11,7 @@
 | babycenter |  |  <img src="../icons/babycenter.svg" alt="babycenter" width="50"> |
 | backblaze | <img src="../icons/backblaze.png" alt="backblaze" width="50"> |  <img src="../icons/backblaze.svg" alt="backblaze" width="50"> |
 | background-eraser |  |  <img src="../icons/background-eraser.svg" alt="background-eraser" width="50"> |
-| bacula | <img src="../icons/bacula.png" alt="bacula" width="50"> |   |
+| bacula-logo | <img src="../icons/bacula-logo.png" alt="bacula-logo" width="50"> |   |
 | badge | <img src="../icons/badge.png" alt="badge" width="50"> |   |
 | badoo |  |  <img src="../icons/badoo.svg" alt="badoo" width="50"> |
 | baidu-map |  |  <img src="../icons/baidu-map.svg" alt="baidu-map" width="50"> |
@@ -135,7 +135,7 @@
 | budget-zero | <img src="../icons/budget-zero.png" alt="budget-zero" width="50"> |   |
 | budibase | <img src="../icons/budibase.png" alt="budibase" width="50"> |   |
 | budibase-light | <img src="../icons/budibase-light.png" alt="budibase-light" width="50"> |   |
-| buffalo | <img src="../icons/buffalo.png" alt="buffalo" width="50"> |   |
+| buffalo-logo | <img src="../icons/buffalo-logo.png" alt="buffalo-logo" width="50"> |   |
 | bulma |  |  <img src="../icons/bulma.svg" alt="bulma" width="50"> |
 | bumble |  |  <img src="../icons/bumble.svg" alt="bumble" width="50"> |
 | bundled-notes |  |  <img src="../icons/bundled-notes.svg" alt="bundled-notes" width="50"> |

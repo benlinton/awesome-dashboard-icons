@@ -11,8 +11,8 @@
 | i2pd | <img src="../icons/i2pd.png" alt="i2pd" width="50"> |  <img src="../icons/i2pd.svg" alt="i2pd" width="50"> |
 | ibispaint-x |  |  <img src="../icons/ibispaint-x.svg" alt="ibispaint-x" width="50"> |
 | ibkr-mobile |  |  <img src="../icons/ibkr-mobile.svg" alt="ibkr-mobile" width="50"> |
-| ibm |  |  <img src="../icons/ibm.svg" alt="ibm" width="50"> |
-| ibm-dark |  |  <img src="../icons/ibm-dark.svg" alt="ibm-dark" width="50"> |
+| ibm-logo |  |  <img src="../icons/ibm-logo.svg" alt="ibm-logo" width="50"> |
+| ibm-logo-dark |  |  <img src="../icons/ibm-logo-dark.svg" alt="ibm-logo-dark" width="50"> |
 | ibm-rebus |  |  <img src="../icons/ibm-rebus.svg" alt="ibm-rebus" width="50"> |
 | ibm-rebus-dark |  |  <img src="../icons/ibm-rebus-dark.svg" alt="ibm-rebus-dark" width="50"> |
 | icarros |  |  <img src="../icons/icarros.svg" alt="icarros" width="50"> |

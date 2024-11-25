@@ -148,7 +148,7 @@
 | apache-solr | <img src="../icons/apache-solr.png" alt="apache-solr" width="50"> |  <img src="../icons/apache-solr.svg" alt="apache-solr" width="50"> |
 | apache-subversion | <img src="../icons/apache-subversion.png" alt="apache-subversion" width="50"> |  <img src="../icons/apache-subversion.svg" alt="apache-subversion" width="50"> |
 | apache-tomcat | <img src="../icons/apache-tomcat.png" alt="apache-tomcat" width="50"> |  <img src="../icons/apache-tomcat.svg" alt="apache-tomcat" width="50"> |
-| apc | <img src="../icons/apc.png" alt="apc" width="50"> |  <img src="../icons/apc.svg" alt="apc" width="50"> |
+| apc-logo | <img src="../icons/apc-logo.png" alt="apc-logo" width="50"> |  <img src="../icons/apc-logo.svg" alt="apc-logo" width="50"> |
 | apex-launcher |  |  <img src="../icons/apex-launcher.svg" alt="apex-launcher" width="50"> |
 | apiscp | <img src="../icons/apiscp.png" alt="apiscp" width="50"> |  <img src="../icons/apiscp.svg" alt="apiscp" width="50"> |
 | app-store | <img src="../icons/app-store.png" alt="app-store" width="50"> |  <img src="../icons/app-store.svg" alt="app-store" width="50"> |
@@ -191,7 +191,7 @@
 | aruba | <img src="../icons/aruba.png" alt="aruba" width="50"> |  <img src="../icons/aruba.svg" alt="aruba" width="50"> |
 | asana | <img src="../icons/asana.png" alt="asana" width="50"> |  <img src="../icons/asana.svg" alt="asana" width="50"> |
 | asciinema | <img src="../icons/asciinema.png" alt="asciinema" width="50"> |  <img src="../icons/asciinema.svg" alt="asciinema" width="50"> |
-| asrockrackipmi | <img src="../icons/asrockrackipmi.png" alt="asrockrackipmi" width="50"> |   |
+| asrock-rack-ipmi-logo | <img src="../icons/asrock-rack-ipmi-logo.png" alt="asrock-rack-ipmi-logo" width="50"> |   |
 | assetgrid | <img src="../icons/assetgrid.png" alt="assetgrid" width="50"> |   |
 | assetto-corsa | <img src="../icons/assetto-corsa.png" alt="assetto-corsa" width="50"> |   |
 | asterisk | <img src="../icons/asterisk.png" alt="asterisk" width="50"> |   |
@@ -199,9 +199,9 @@
 | astral-light | <img src="../icons/astral-light.png" alt="astral-light" width="50"> |   |
 | astro |  |  <img src="../icons/astro.svg" alt="astro" width="50"> |
 | astroneer | <img src="../icons/astroneer.png" alt="astroneer" width="50"> |   |
-| asus | <img src="../icons/asus.png" alt="asus" width="50"> |  <img src="../icons/asus.svg" alt="asus" width="50"> |
 | asus-browser |  |  <img src="../icons/asus-browser.svg" alt="asus-browser" width="50"> |
-| asus-light | <img src="../icons/asus-light.png" alt="asus-light" width="50"> |   |
+| asus-logo | <img src="../icons/asus-logo.png" alt="asus-logo" width="50"> |  <img src="../icons/asus-logo.svg" alt="asus-logo" width="50"> |
+| asus-logo-light | <img src="../icons/asus-logo-light.png" alt="asus-logo-light" width="50"> |   |
 | asus-rog | <img src="../icons/asus-rog.png" alt="asus-rog" width="50"> |  <img src="../icons/asus-rog.svg" alt="asus-rog" width="50"> |
 | asus-router | <img src="../icons/asus-router.png" alt="asus-router" width="50"> |  <img src="../icons/asus-router.svg" alt="asus-router" width="50"> |
 | asustor | <img src="../icons/asustor.png" alt="asustor" width="50"> |  <img src="../icons/asustor.svg" alt="asustor" width="50"> |

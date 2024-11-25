@@ -33,6 +33,7 @@
 | leantime | <img src="../icons/leantime.png" alt="leantime" width="50"> |   |
 | learning |  |  <img src="../icons/learning.svg" alt="learning" width="50"> |
 | ledger-live |  |  <img src="../icons/ledger-live.svg" alt="ledger-live" width="50"> |
+| left-4-dead-2 | <img src="../icons/left-4-dead-2.png" alt="left-4-dead-2" width="50"> |   |
 | lemmur |  |  <img src="../icons/lemmur.svg" alt="lemmur" width="50"> |
 | lemmy | <img src="../icons/lemmy.png" alt="lemmy" width="50"> |  <img src="../icons/lemmy.svg" alt="lemmy" width="50"> |
 | lemmy-light | <img src="../icons/lemmy-light.png" alt="lemmy-light" width="50"> |   |

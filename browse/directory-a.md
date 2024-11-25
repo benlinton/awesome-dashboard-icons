@@ -175,6 +175,7 @@
 | asciinema | <img src="../icons/asciinema.png" alt="asciinema" width="50"> |  <img src="../icons/asciinema.svg" alt="asciinema" width="50"> |
 | asrockrackipmi | <img src="../icons/asrockrackipmi.png" alt="asrockrackipmi" width="50"> |   |
 | assetgrid | <img src="../icons/assetgrid.png" alt="assetgrid" width="50"> |   |
+| assetto-corsa | <img src="../icons/assetto-corsa.png" alt="assetto-corsa" width="50"> |   |
 | asterisk | <img src="../icons/asterisk.png" alt="asterisk" width="50"> |   |
 | astral | <img src="../icons/astral.png" alt="astral" width="50"> |  <img src="../icons/astral.svg" alt="astral" width="50"> |
 | astral-light | <img src="../icons/astral-light.png" alt="astral-light" width="50"> |   |

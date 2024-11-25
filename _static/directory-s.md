@@ -79,8 +79,8 @@
 | seq | <img src="../icons/seq.png" alt="seq" width="50"> |   |
 | seriesguide |  |  <img src="../icons/seriesguide.svg" alt="seriesguide" width="50"> |
 | serpbear | <img src="../icons/serpbear.png" alt="serpbear" width="50"> |   |
-| servarr | <img src="../icons/servarr.png" alt="servarr" width="50"> |  <img src="../icons/servarr.svg" alt="servarr" width="50"> |
-| servarr-light | <img src="../icons/servarr-light.png" alt="servarr-light" width="50"> |   |
+| servarr | <img src="../icons/servarr.png" alt="servarr" width="50"> |   |
+| servarr-light |  |  <img src="../icons/servarr-light.svg" alt="servarr-light" width="50"> |
 | server-fault |  |  <img src="../icons/server-fault.svg" alt="server-fault" width="50"> |
 | serviio | <img src="../icons/serviio.png" alt="serviio" width="50"> |  <img src="../icons/serviio.svg" alt="serviio" width="50"> |
 | session | <img src="../icons/session.png" alt="session" width="50"> |  <img src="../icons/session.svg" alt="session" width="50"> |

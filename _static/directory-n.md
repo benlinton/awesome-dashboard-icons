@@ -32,6 +32,7 @@
 | neonlink | <img src="../icons/neonlink.png" alt="neonlink" width="50"> |  <img src="../icons/neonlink.svg" alt="neonlink" width="50"> |
 | nepal-telecom |  |  <img src="../icons/nepal-telecom.svg" alt="nepal-telecom" width="50"> |
 | nessus | <img src="../icons/nessus.png" alt="nessus" width="50"> |   |
+| nest | <img src="../icons/nest.png" alt="nest" width="50"> |   |
 | netalertx | <img src="../icons/netalertx.png" alt="netalertx" width="50"> |   |
 | netapp | <img src="../icons/netapp.png" alt="netapp" width="50"> |  <img src="../icons/netapp.svg" alt="netapp" width="50"> |
 | netapp-light | <img src="../icons/netapp-light.png" alt="netapp-light" width="50"> |  <img src="../icons/netapp-light.svg" alt="netapp-light" width="50"> |

@@ -20,7 +20,7 @@ Includes **3578 icons** and growing.
 
 [Icon Directory](_static/directory-a.md) lists icon names with each image filetype - for **faster searching**.
 
-[<img src="_static/example-directory.png" alt="Example Directory" width="300px">](_static/directory-a.md)
+[<img src="_static/example-directory.png" alt="Example Directory">](_static/directory-a.md)
 
 
 ## 🚀 After updating icons

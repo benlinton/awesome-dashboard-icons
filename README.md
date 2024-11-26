@@ -6,15 +6,22 @@ The **largest collection** of icons for dashboards like:
 - [Homarr](https://homarr.dev/)
 - [Dashy](https://dashy.to/)
 
+Includes **3578 icons** and growing.
 
-## ✨ Browse the icons
 
-Browse the **3578 icons**.
+## 🔎 Search the Directory
 
-- [Icon Directory](_static/directory-a.md) - Names with each image filetype (_easier to search_)
-- [Icon Gallery](_static/gallery-a.md) - Mashup of images only (_faster visual scanning_)
+[Icon Directory](_static/directory-a.md) lists icon names with each image filetype - **easier to search**.
 
-[![Example Icons](_static/example.png)](_static/gallery-a.md)
+[![Example Directory](_static/example-directory.png)](_static/directory-a.md)
+
+
+## ✨ Browse the Gallery
+
+[Icon Gallery](_static/gallery-a.md) displays a mashup of icon images only - **faster visual scanning**.
+
+[![Example Gallery](_static/example-gallery.png)](_static/gallery-a.md)
+
 
 ## 🚀 After updating icons
 

@@ -184,8 +184,8 @@
 | crayon |  |  <img src="../icons/crayon.svg" alt="crayon" width="50"> |
 | crazydomains | <img src="../icons/crazydomains.png" alt="crazydomains" width="50"> |   |
 | credit-karma |  |  <img src="../icons/credit-karma.svg" alt="credit-karma" width="50"> |
-| cribl | <img src="../icons/cribl.png" alt="cribl" width="50"> |   |
-| cribl-light | <img src="../icons/cribl-light.png" alt="cribl-light" width="50"> |   |
+| cribl-logo | <img src="../icons/cribl-logo.png" alt="cribl-logo" width="50"> |   |
+| cribl-logo-light | <img src="../icons/cribl-logo-light.png" alt="cribl-logo-light" width="50"> |   |
 | cricbuzz |  |  <img src="../icons/cricbuzz.svg" alt="cricbuzz" width="50"> |
 | cricheroes |  |  <img src="../icons/cricheroes.svg" alt="cricheroes" width="50"> |
 | cricket-exchange |  |  <img src="../icons/cricket-exchange.svg" alt="cricket-exchange" width="50"> |

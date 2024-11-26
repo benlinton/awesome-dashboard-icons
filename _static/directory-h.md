@@ -55,7 +55,7 @@
 | hi-wallpaper |  |  <img src="../icons/hi-wallpaper.svg" alt="hi-wallpaper" width="50"> |
 | hidemy-name |  |  <img src="../icons/hidemy-name.svg" alt="hidemy-name" width="50"> |
 | hifiberry | <img src="../icons/hifiberry.png" alt="hifiberry" width="50"> |  <img src="../icons/hifiberry.svg" alt="hifiberry" width="50"> |
-| hikvision | <img src="../icons/hikvision.png" alt="hikvision" width="50"> |  <img src="../icons/hikvision.svg" alt="hikvision" width="50"> |
+| hikvision-logo | <img src="../icons/hikvision-logo.png" alt="hikvision-logo" width="50"> |  <img src="../icons/hikvision-logo.svg" alt="hikvision-logo" width="50"> |
 | hilook-logo | <img src="../icons/hilook-logo.png" alt="hilook-logo" width="50"> |  <img src="../icons/hilook-logo.svg" alt="hilook-logo" width="50"> |
 | hios-launcher |  |  <img src="../icons/hios-launcher.svg" alt="hios-launcher" width="50"> |
 | hipchat |  |  <img src="../icons/hipchat.svg" alt="hipchat" width="50"> |

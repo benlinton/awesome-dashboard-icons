@@ -86,7 +86,7 @@
 | koreader |  |  <img src="../icons/koreader.svg" alt="koreader" width="50"> |
 | koshelek |  |  <img src="../icons/koshelek.svg" alt="koshelek" width="50"> |
 | kotlin | <img src="../icons/kotlin.png" alt="kotlin" width="50"> |  <img src="../icons/kotlin.svg" alt="kotlin" width="50"> |
-| kpn | <img src="../icons/kpn.png" alt="kpn" width="50"> |  <img src="../icons/kpn.svg" alt="kpn" width="50"> |
+| kpn-logo | <img src="../icons/kpn-logo.png" alt="kpn-logo" width="50"> |  <img src="../icons/kpn-logo.svg" alt="kpn-logo" width="50"> |
 | kptncook |  |  <img src="../icons/kptncook.svg" alt="kptncook" width="50"> |
 | kraken |  |  <img src="../icons/kraken.svg" alt="kraken" width="50"> |
 | kraken-pro |  |  <img src="../icons/kraken-pro.svg" alt="kraken-pro" width="50"> |

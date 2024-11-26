@@ -167,7 +167,7 @@
 | coreos | <img src="../icons/coreos.png" alt="coreos" width="50"> |  <img src="../icons/coreos.svg" alt="coreos" width="50"> |
 | corona-warn |  |  <img src="../icons/corona-warn.svg" alt="corona-warn" width="50"> |
 | cosign | <img src="../icons/cosign.png" alt="cosign" width="50"> |  <img src="../icons/cosign.svg" alt="cosign" width="50"> |
-| costco | <img src="../icons/costco.png" alt="costco" width="50"> |  <img src="../icons/costco.svg" alt="costco" width="50"> |
+| costco-logo | <img src="../icons/costco-logo.png" alt="costco-logo" width="50"> |  <img src="../icons/costco-logo.svg" alt="costco-logo" width="50"> |
 | coub |  |  <img src="../icons/coub.svg" alt="coub" width="50"> |
 | couchpotato | <img src="../icons/couchpotato.png" alt="couchpotato" width="50"> |   |
 | counter-strike-2 | <img src="../icons/counter-strike-2.png" alt="counter-strike-2" width="50"> |   |

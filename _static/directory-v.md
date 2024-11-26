@@ -38,7 +38,7 @@
 | vikunja | <img src="../icons/vikunja.png" alt="vikunja" width="50"> |  <img src="../icons/vikunja.svg" alt="vikunja" width="50"> |
 | vim |  |  <img src="../icons/vim.svg" alt="vim" width="50"> |
 | vimeo |  |  <img src="../icons/vimeo.svg" alt="vimeo" width="50"> |
-| virgin-media | <img src="../icons/virgin-media.png" alt="virgin-media" width="50"> |  <img src="../icons/virgin-media.svg" alt="virgin-media" width="50"> |
+| virgin-media-logo | <img src="../icons/virgin-media-logo.png" alt="virgin-media-logo" width="50"> |  <img src="../icons/virgin-media-logo.svg" alt="virgin-media-logo" width="50"> |
 | virtualmin | <img src="../icons/virtualmin.png" alt="virtualmin" width="50"> |  <img src="../icons/virtualmin.svg" alt="virtualmin" width="50"> |
 | virtualradarserver | <img src="../icons/virtualradarserver.png" alt="virtualradarserver" width="50"> |   |
 | viseron | <img src="../icons/viseron.png" alt="viseron" width="50"> |  <img src="../icons/viseron.svg" alt="viseron" width="50"> |

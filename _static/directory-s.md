@@ -96,7 +96,7 @@
 | shell-tips-light | <img src="../icons/shell-tips-light.png" alt="shell-tips-light" width="50"> |   |
 | shellhub | <img src="../icons/shellhub.png" alt="shellhub" width="50"> |   |
 | shellngn | <img src="../icons/shellngn.png" alt="shellngn" width="50"> |  <img src="../icons/shellngn.svg" alt="shellngn" width="50"> |
-| shelly | <img src="../icons/shelly.png" alt="shelly" width="50"> |  <img src="../icons/shelly.svg" alt="shelly" width="50"> |
+| shelly-logo | <img src="../icons/shelly-logo.png" alt="shelly-logo" width="50"> |  <img src="../icons/shelly-logo.svg" alt="shelly-logo" width="50"> |
 | shinobi | <img src="../icons/shinobi.png" alt="shinobi" width="50"> |   |
 | shiori | <img src="../icons/shiori.png" alt="shiori" width="50"> |  <img src="../icons/shiori.svg" alt="shiori" width="50"> |
 | shlink | <img src="../icons/shlink.png" alt="shlink" width="50"> |  <img src="../icons/shlink.svg" alt="shlink" width="50"> |

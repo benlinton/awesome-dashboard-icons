@@ -9,18 +9,18 @@ The **largest collection** of icons for dashboards like:
 Includes **3578 icons** and growing.
 
 
-## 🔎 Search the Directory
-
-[Icon Directory](_static/directory-a.md) lists icon names with each image filetype - **easier to search**.
-
-[![Example Directory](_static/example-directory.png)](_static/directory-a.md)
-
-
 ## ✨ Browse the Gallery
 
-[Icon Gallery](_static/gallery-a.md) displays a mashup of icon images only - **faster visual scanning**.
+[Icon Gallery](_static/gallery-a.md) displays a mashup of icon images only - for **faster visual scanning**.
 
-[![Example Gallery](_static/example-gallery.png)](_static/gallery-a.md)
+[<img src="_static/example-gallery.png" alt="Example Gallery">](_static/gallery-a.md)
+
+
+## 🔎 Search the Directory
+
+[Icon Directory](_static/directory-a.md) lists icon names with each image filetype - for **faster searching**.
+
+[<img src="_static/example-directory.png" alt="Example Directory" width="300px">](_static/directory-a.md)
 
 
 ## 🚀 After updating icons

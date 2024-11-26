@@ -14,6 +14,7 @@ Browse the **3578 icons**.
 - [Icon Directory](_static/directory-a.md) - Names with each image filetype (_easier to search_)
 - [Icon Gallery](_static/gallery-a.md) - Mashup of images only (_faster visual scanning_)
 
+![Example Icons](_static/example.png)
 
 ## 🚀 After updating icons
 

@@ -1,0 +1,51 @@
+name: Regenerate static directory + gallery
+
+on:
+  push:
+    branches: [ "main" ]
+    # Trigger when inputs change; avoid retriggering on the bot's generated _static commit.
+    paths:
+      - "icons/**"
+      - ".github/workflows/regenerate-static.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  regen:
+    runs-on: ubuntu-latest
+
+    # Extra safety: don't run on the bot's own commit (prevents loops even if paths change later).
+    if: github.actor != 'github-actions[bot]'
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies (if present)
+        run: |
+          set -e
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Regenerate static files
+        run: |
+          set -e
+          chmod +x scripts/*.py || true
+          ./scripts/generate_directory.py
+          ./scripts/generate_gallery.py
+          ./scripts/update_count.py
+
+      - name: Commit changes (if any)
+        uses: step-security/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: regenerate directory/gallery [skip ci]"
+          # Limit what gets committed
+          file_pattern: "_static/** README.md"

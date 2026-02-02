@@ -6,6 +6,7 @@ on:
     # Trigger when inputs change; avoid retriggering on the bot's generated _static commit.
     paths:
       - "icons/**"
+      - "scripts/**"
       - ".github/workflows/regenerate-static.yml"
 
 permissions:

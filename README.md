@@ -33,16 +33,11 @@ All icon filenames use **kebab-case** (lowercase, hyphen-separated). When multip
 | `-logo` | Full wordmark or branded logo version | `plex-logo.png` |
 | `-light` | Light-theme variant | `plex-light.png` |
 | `-dark` | Dark-theme variant | `plex-dark.png` |
-| `-alt` | Alternative design or style | `docker-alt.png` |
-| `-alt-NN` | Two or more alt icons, starting at `-02`. | `docker-alt-02.png` |
 | `-white` | White monochrome variant | `trezor-white.png` |
 | `-black` | Black monochrome variant | `apple-black.png` |
 | `-outline` | Stroke/outline-only variant | `ansible-outline.png` |
-| `-beta` | Beta release of the application | `firefox-beta.png` |
-| `-dev` | Dev/canary release of the application | `chrome-dev.png` |
-| `-nightly` | Nightly build of the application | `firefox-nightly.png` |
-| `-plus` | Plus/extended edition of the application | `adblock-plus.png` |
-| `-pro` | Pro/paid edition of the application | `invizible-pro.png` |
+| `-alt` | Alternative design or style | `docker-alt.png` |
+| `-alt-NN` | Two or more alt icons, starting at `-02`. | `docker-alt-02.png` |
 
 
 ## 🚀 After adding an icon

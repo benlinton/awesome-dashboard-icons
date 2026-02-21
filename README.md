@@ -29,12 +29,12 @@ All icon filenames use **kebab-case** (lowercase, hyphen-separated). When multip
 
 | Suffix | Purpose | Example |
 |--------|---------|---------|
-| *(none)* | Default/primary icon | `plex.png` |
+| *(none)* | Primary default icon | `plex.png` |
 | `-logo` | Full wordmark or branded logo version | `plex-logo.png` |
 | `-light` | Light-theme variant | `plex-light.png` |
 | `-dark` | Dark-theme variant | `plex-dark.png` |
 | `-alt` | Alternative design or style | `docker-alt.png` |
-| `-alt-NN` | For two or more alt icons, starting at `-02`. | `docker-alt-02.png` |
+| `-alt-NN` | Two or more alt icons, starting at `-02`. | `docker-alt-02.png` |
 | `-white` | White monochrome variant | `trezor-white.png` |
 | `-black` | Black monochrome variant | `apple-black.png` |
 | `-outline` | Stroke/outline-only variant | `ansible-outline.png` |

@@ -55,5 +55,5 @@ jobs:
       - name: Commit changes (if any)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Chore: Generate missing PNGs and update static docs"
+          commit_message: "Chore: Auto-generate assets"
           file_pattern: "icons/*.png _static/** README.md"

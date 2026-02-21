@@ -9,7 +9,7 @@ def page_link(id):
 
 def pagination():
     page_ids = string.ascii_lowercase
-    links = ["[[HOME](..)]", "[[#](directory.md)]"]
+    links = ["[[HOME](../README.md)]", "[[#](directory.md)]"]
     links += [page_link(id) for id in page_ids]
     return links
 

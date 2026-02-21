@@ -23,12 +23,33 @@ Includes **3582 icons** and growing.
 [<img src="_static/example-directory.png" alt="Example Directory">](_static/directory-a.md)
 
 
+## 🏷️ Icon naming conventions
+
+All icon filenames use **kebab-case** (lowercase, hyphen-separated). When multiple variants of an icon exist, a suffix is appended to the base name.
+
+| Suffix | Purpose | Example |
+|--------|---------|---------|
+| *(none)* | Default/primary icon | `plex.png` |
+| `-logo` | Full wordmark or branded logo version | `plex-logo.png` |
+| `-light` | Light-theme variant (bright or white tones) | `plex-light.png` |
+| `-dark` | Dark-theme variant (dark or black tones) | `plex-dark.png` |
+| `-alt` | Alternative design or style | `docker-alt.png` |
+| `-white` | White monochrome variant | `trezor-white.png` |
+| `-black` | Black monochrome variant | `apple-black.png` |
+| `-outline` | Stroke/outline-only variant | `ansible-outline.png` |
+| `-beta` | Beta release of the application | `firefox-beta.png` |
+| `-dev` | Dev/canary release of the application | `chrome-dev.png` |
+| `-nightly` | Nightly build of the application | `firefox-nightly.png` |
+| `-plus` | Plus/extended edition of the application | `adblock-plus.png` |
+| `-pro` | Pro/paid edition of the application | `invizible-pro.png` |
+
+
 ## 🚀 After adding an icon
 
-Github Actions will automatically generate missing PNGs from available SVGs and update  `_static` files. See [DEVELOPMENT.md](DEVELOPMENT.md) to run scripts locally.
+Github will automatically generate missing PNGs from available SVGs and update  `_static` files. See [DEVELOPMENT.md](DEVELOPMENT.md) to run scripts locally.
 
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+Licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 

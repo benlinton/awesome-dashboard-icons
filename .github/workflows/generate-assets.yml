@@ -1,19 +1,19 @@
-name: Regenerate static directory + gallery
+name: Generate PNGs and update static docs
 
 on:
   push:
     branches: [ "main" ]
-    # Trigger when inputs change; avoid retriggering on the bot's generated _static commit.
+    # Trigger when inputs change; avoid retriggering on the bot's generated commit.
     paths:
       - "icons/**"
       - "scripts/**"
-      - ".github/workflows/regenerate-static.yml"
+      - ".github/workflows/generate-assets.yml"
 
 permissions:
   contents: write
 
 jobs:
-  regen:
+  generate:
     runs-on: ubuntu-latest
 
     # Extra safety: don't run on the bot's own commit (prevents loops even if paths change later).
@@ -30,16 +30,24 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies (if present)
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends libcairo2
+
+      - name: Install Python dependencies
         run: |
           set -e
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -r requirements.txt
 
-      - name: Regenerate static files
+      - name: Convert SVGs to PNGs
         run: |
           set -e
           chmod +x scripts/*.py || true
+          ./scripts/convert_svg_to_png.py
+
+      - name: Regenerate static docs
+        run: |
+          set -e
           ./scripts/generate_directory.py
           ./scripts/generate_gallery.py
           ./scripts/update_count.py
@@ -47,6 +55,5 @@ jobs:
       - name: Commit changes (if any)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: regenerate directory/gallery [skip ci]"
-          # Limit what gets committed
-          file_pattern: "_static/** README.md"
+          commit_message: "CHORE: Generate missing PNGs and update static docs"
+          file_pattern: "icons/*.png _static/** README.md"

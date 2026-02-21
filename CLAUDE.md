@@ -31,3 +31,4 @@ These scripts run automatically via GitHub Actions on push to `main` when `icons
 - Gallery display: `height="50"` HTML img tags
 - Directory display: `width="50"` HTML img tags
 - Icon count in README is auto-updated by `update_count.py` via regex
+- PNGs in `icons/` should aim for a minimum width/height of 512px; no larger than necessary

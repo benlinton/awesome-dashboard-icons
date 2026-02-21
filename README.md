@@ -23,16 +23,14 @@ Includes **3579 icons** and growing.
 [<img src="_static/example-directory.png" alt="Example Directory">](_static/directory-a.md)
 
 
-## 🚀 After updating icons
+## 🚀 After adding an icon
 
-After altering icons, re-generate the static browsable files:
-
-    ./scripts/generate_directory.py; ./scripts/generate_gallery.py; ./scripts/update_count.py
+Github Actions will automatically generate missing PNGs from available SVGs and update  `_static` files.
 
 
 ## 🐳 Running scripts with Docker
 
-A Dockerfile is provided so you don't need to install Python or system dependencies locally.
+A `Dockerfile` is provided so you don't need to install Python or system dependencies locally.
 
 **Build the image (one-time):**
 
@@ -55,3 +53,9 @@ A Dockerfile is provided so you don't need to install Python or system dependenc
     docker run --rm -v "$(pwd):/app" awesome-dashboard-icons scripts/generate_directory.py
     docker run --rm -v "$(pwd):/app" awesome-dashboard-icons scripts/generate_gallery.py
     docker run --rm -v "$(pwd):/app" awesome-dashboard-icons scripts/update_count.py
+
+
+## 📄 License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+

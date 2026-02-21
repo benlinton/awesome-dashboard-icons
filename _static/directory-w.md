@@ -1,6 +1,6 @@
 # Awesome Dashboard Icons
 
-[[HOME](..)][[#](directory.md)][[A](directory-a.md)][[B](directory-b.md)][[C](directory-c.md)][[D](directory-d.md)][[E](directory-e.md)][[F](directory-f.md)][[G](directory-g.md)][[H](directory-h.md)][[I](directory-i.md)][[J](directory-j.md)][[K](directory-k.md)][[L](directory-l.md)][[M](directory-m.md)][[N](directory-n.md)][[O](directory-o.md)][[P](directory-p.md)][[Q](directory-q.md)][[R](directory-r.md)][[S](directory-s.md)][[T](directory-t.md)][[U](directory-u.md)][[V](directory-v.md)][[W](directory-w.md)][[X](directory-x.md)][[Y](directory-y.md)][[Z](directory-z.md)]
+[[HOME](../README.md)][[#](directory.md)][[A](directory-a.md)][[B](directory-b.md)][[C](directory-c.md)][[D](directory-d.md)][[E](directory-e.md)][[F](directory-f.md)][[G](directory-g.md)][[H](directory-h.md)][[I](directory-i.md)][[J](directory-j.md)][[K](directory-k.md)][[L](directory-l.md)][[M](directory-m.md)][[N](directory-n.md)][[O](directory-o.md)][[P](directory-p.md)][[Q](directory-q.md)][[R](directory-r.md)][[S](directory-s.md)][[T](directory-t.md)][[U](directory-u.md)][[V](directory-v.md)][[W](directory-w.md)][[X](directory-x.md)][[Y](directory-y.md)][[Z](directory-z.md)]
 
 # Directory: W
 
@@ -69,6 +69,7 @@
 | whatsapp | <img src="../icons/whatsapp.png" alt="whatsapp" width="50"> |  <img src="../icons/whatsapp.svg" alt="whatsapp" width="50"> |
 | whatsapp-business |  |  <img src="../icons/whatsapp-business.svg" alt="whatsapp-business" width="50"> |
 | whatsapp-web-to-go |  |  <img src="../icons/whatsapp-web-to-go.svg" alt="whatsapp-web-to-go" width="50"> |
+| wheel-spinner | <img src="../icons/wheel-spinner.png" alt="wheel-spinner" width="50"> |   |
 | wherearetheeyes |  |  <img src="../icons/wherearetheeyes.svg" alt="wherearetheeyes" width="50"> |
 | whisparr | <img src="../icons/whisparr.png" alt="whisparr" width="50"> |  <img src="../icons/whisparr.svg" alt="whisparr" width="50"> |
 | white-noise-generator |  |  <img src="../icons/white-noise-generator.svg" alt="white-noise-generator" width="50"> |
@@ -131,5 +132,5 @@
 | wynk-music |  |  <img src="../icons/wynk-music.svg" alt="wynk-music" width="50"> |
 
 
-[[HOME](..)][[#](directory.md)][[A](directory-a.md)][[B](directory-b.md)][[C](directory-c.md)][[D](directory-d.md)][[E](directory-e.md)][[F](directory-f.md)][[G](directory-g.md)][[H](directory-h.md)][[I](directory-i.md)][[J](directory-j.md)][[K](directory-k.md)][[L](directory-l.md)][[M](directory-m.md)][[N](directory-n.md)][[O](directory-o.md)][[P](directory-p.md)][[Q](directory-q.md)][[R](directory-r.md)][[S](directory-s.md)][[T](directory-t.md)][[U](directory-u.md)][[V](directory-v.md)][[W](directory-w.md)][[X](directory-x.md)][[Y](directory-y.md)][[Z](directory-z.md)]
+[[HOME](../README.md)][[#](directory.md)][[A](directory-a.md)][[B](directory-b.md)][[C](directory-c.md)][[D](directory-d.md)][[E](directory-e.md)][[F](directory-f.md)][[G](directory-g.md)][[H](directory-h.md)][[I](directory-i.md)][[J](directory-j.md)][[K](directory-k.md)][[L](directory-l.md)][[M](directory-m.md)][[N](directory-n.md)][[O](directory-o.md)][[P](directory-p.md)][[Q](directory-q.md)][[R](directory-r.md)][[S](directory-s.md)][[T](directory-t.md)][[U](directory-u.md)][[V](directory-v.md)][[W](directory-w.md)][[X](directory-x.md)][[Y](directory-y.md)][[Z](directory-z.md)]
 

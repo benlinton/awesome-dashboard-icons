@@ -4,9 +4,9 @@
 
 # Gallery: Q
 
-### PNGs (9 Icons)
+### PNGs (20 Icons)
 
-<img src="../icons/qbittorrent.png" alt="qbittorrent" height="50"> <img src="../icons/qdirstat.png" alt="qdirstat" height="50"> <img src="../icons/qinglong.png" alt="qinglong" height="50"> <img src="../icons/qnap-logo.png" alt="qnap-logo" height="50"> <img src="../icons/qnap.png" alt="qnap" height="50"> <img src="../icons/quant-ux.png" alt="quant-ux" height="50"> <img src="../icons/questdb.png" alt="questdb" height="50"> <img src="../icons/quetre.png" alt="quetre" height="50"> <img src="../icons/qutebrowser.png" alt="qutebrowser" height="50">
+<img src="../icons/qbittorrent.png" alt="qbittorrent" height="50"> <img src="../icons/qdirstat.png" alt="qdirstat" height="50"> <img src="../icons/qemu.png" alt="qemu" height="50"> <img src="../icons/qinglong.png" alt="qinglong" height="50"> <img src="../icons/qksms.png" alt="qksms" height="50"> <img src="../icons/qnap-logo.png" alt="qnap-logo" height="50"> <img src="../icons/qnap.png" alt="qnap" height="50"> <img src="../icons/qr-scanner.png" alt="qr-scanner" height="50"> <img src="../icons/qrstream.png" alt="qrstream" height="50"> <img src="../icons/quant-ux.png" alt="quant-ux" height="50"> <img src="../icons/quark-browser.png" alt="quark-browser" height="50"> <img src="../icons/quassel.png" alt="quassel" height="50"> <img src="../icons/questdb.png" alt="questdb" height="50"> <img src="../icons/quetre.png" alt="quetre" height="50"> <img src="../icons/quickedit.png" alt="quickedit" height="50"> <img src="../icons/quicklyric.png" alt="quicklyric" height="50"> <img src="../icons/quillnote.png" alt="quillnote" height="50"> <img src="../icons/quizoid.png" alt="quizoid" height="50"> <img src="../icons/quora.png" alt="quora" height="50"> <img src="../icons/qutebrowser.png" alt="qutebrowser" height="50">
 
 ### SVGs (19 Icons)
 

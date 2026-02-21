@@ -6,37 +6,37 @@
 
 | Icon Name | PNG | SVG |
 |-----------|-----|-----|
-| z-shell |  |  <img src="../icons/z-shell.svg" alt="z-shell" width="50"> |
-| z-wave |  |  <img src="../icons/z-wave.svg" alt="z-wave" width="50"> |
+| z-shell | <img src="../icons/z-shell.png" alt="z-shell" width="50"> |  <img src="../icons/z-shell.svg" alt="z-shell" width="50"> |
+| z-wave | <img src="../icons/z-wave.png" alt="z-wave" width="50"> |  <img src="../icons/z-wave.svg" alt="z-wave" width="50"> |
 | zabbix | <img src="../icons/zabbix.png" alt="zabbix" width="50"> |  <img src="../icons/zabbix.svg" alt="zabbix" width="50"> |
-| zabbix-logo |  |  <img src="../icons/zabbix-logo.svg" alt="zabbix-logo" width="50"> |
+| zabbix-logo | <img src="../icons/zabbix-logo.png" alt="zabbix-logo" width="50"> |  <img src="../icons/zabbix-logo.svg" alt="zabbix-logo" width="50"> |
 | zabka-logo | <img src="../icons/zabka-logo.png" alt="zabka-logo" width="50"> |  <img src="../icons/zabka-logo.svg" alt="zabka-logo" width="50"> |
 | zammad | <img src="../icons/zammad.png" alt="zammad" width="50"> |  <img src="../icons/zammad.svg" alt="zammad" width="50"> |
-| zarchiver |  |  <img src="../icons/zarchiver.svg" alt="zarchiver" width="50"> |
-| zarchiver-pro |  |  <img src="../icons/zarchiver-pro.svg" alt="zarchiver-pro" width="50"> |
-| zdfmediathek |  |  <img src="../icons/zdfmediathek.svg" alt="zdfmediathek" width="50"> |
-| zedge |  |  <img src="../icons/zedge.svg" alt="zedge" width="50"> |
+| zarchiver | <img src="../icons/zarchiver.png" alt="zarchiver" width="50"> |  <img src="../icons/zarchiver.svg" alt="zarchiver" width="50"> |
+| zarchiver-pro | <img src="../icons/zarchiver-pro.png" alt="zarchiver-pro" width="50"> |  <img src="../icons/zarchiver-pro.svg" alt="zarchiver-pro" width="50"> |
+| zdfmediathek | <img src="../icons/zdfmediathek.png" alt="zdfmediathek" width="50"> |  <img src="../icons/zdfmediathek.svg" alt="zdfmediathek" width="50"> |
+| zedge | <img src="../icons/zedge.png" alt="zedge" width="50"> |  <img src="../icons/zedge.svg" alt="zedge" width="50"> |
 | zendesk | <img src="../icons/zendesk.png" alt="zendesk" width="50"> |  <img src="../icons/zendesk.svg" alt="zendesk" width="50"> |
-| zenly |  |  <img src="../icons/zenly.svg" alt="zenly" width="50"> |
-| zenmoney |  |  <img src="../icons/zenmoney.svg" alt="zenmoney" width="50"> |
-| zero-launcher |  |  <img src="../icons/zero-launcher.svg" alt="zero-launcher" width="50"> |
-| zerossl |  |  <img src="../icons/zerossl.svg" alt="zerossl" width="50"> |
+| zenly | <img src="../icons/zenly.png" alt="zenly" width="50"> |  <img src="../icons/zenly.svg" alt="zenly" width="50"> |
+| zenmoney | <img src="../icons/zenmoney.png" alt="zenmoney" width="50"> |  <img src="../icons/zenmoney.svg" alt="zenmoney" width="50"> |
+| zero-launcher | <img src="../icons/zero-launcher.png" alt="zero-launcher" width="50"> |  <img src="../icons/zero-launcher.svg" alt="zero-launcher" width="50"> |
+| zerossl | <img src="../icons/zerossl.png" alt="zerossl" width="50"> |  <img src="../icons/zerossl.svg" alt="zerossl" width="50"> |
 | zerotier | <img src="../icons/zerotier.png" alt="zerotier" width="50"> |  <img src="../icons/zerotier.svg" alt="zerotier" width="50"> |
-| zerotier-one |  |  <img src="../icons/zerotier-one.svg" alt="zerotier-one" width="50"> |
-| zgz-video-player |  |  <img src="../icons/zgz-video-player.svg" alt="zgz-video-player" width="50"> |
-| zhanghai-files |  |  <img src="../icons/zhanghai-files.svg" alt="zhanghai-files" width="50"> |
-| zigbang |  |  <img src="../icons/zigbang.svg" alt="zigbang" width="50"> |
-| zigbee |  |  <img src="../icons/zigbee.svg" alt="zigbee" width="50"> |
+| zerotier-one | <img src="../icons/zerotier-one.png" alt="zerotier-one" width="50"> |  <img src="../icons/zerotier-one.svg" alt="zerotier-one" width="50"> |
+| zgz-video-player | <img src="../icons/zgz-video-player.png" alt="zgz-video-player" width="50"> |  <img src="../icons/zgz-video-player.svg" alt="zgz-video-player" width="50"> |
+| zhanghai-files | <img src="../icons/zhanghai-files.png" alt="zhanghai-files" width="50"> |  <img src="../icons/zhanghai-files.svg" alt="zhanghai-files" width="50"> |
+| zigbang | <img src="../icons/zigbang.png" alt="zigbang" width="50"> |  <img src="../icons/zigbang.svg" alt="zigbang" width="50"> |
+| zigbee | <img src="../icons/zigbee.png" alt="zigbee" width="50"> |  <img src="../icons/zigbee.svg" alt="zigbee" width="50"> |
 | zigbee2mqtt | <img src="../icons/zigbee2mqtt.png" alt="zigbee2mqtt" width="50"> |  <img src="../icons/zigbee2mqtt.svg" alt="zigbee2mqtt" width="50"> |
 | zipline-logo | <img src="../icons/zipline-logo.png" alt="zipline-logo" width="50"> |  <img src="../icons/zipline-logo.svg" alt="zipline-logo" width="50"> |
 | zipline-logo-light | <img src="../icons/zipline-logo-light.png" alt="zipline-logo-light" width="50"> |   |
-| ziraat-mobile |  |  <img src="../icons/ziraat-mobile.svg" alt="ziraat-mobile" width="50"> |
+| ziraat-mobile | <img src="../icons/ziraat-mobile.png" alt="ziraat-mobile" width="50"> |  <img src="../icons/ziraat-mobile.svg" alt="ziraat-mobile" width="50"> |
 | zitadel | <img src="../icons/zitadel.png" alt="zitadel" width="50"> |  <img src="../icons/zitadel.svg" alt="zitadel" width="50"> |
 | zitadel-light | <img src="../icons/zitadel-light.png" alt="zitadel-light" width="50"> |   |
 | znc | <img src="../icons/znc.png" alt="znc" width="50"> |   |
-| zoho-mail |  |  <img src="../icons/zoho-mail.svg" alt="zoho-mail" width="50"> |
+| zoho-mail | <img src="../icons/zoho-mail.png" alt="zoho-mail" width="50"> |  <img src="../icons/zoho-mail.svg" alt="zoho-mail" width="50"> |
 | zohomail | <img src="../icons/zohomail.png" alt="zohomail" width="50"> |  <img src="../icons/zohomail.svg" alt="zohomail" width="50"> |
-| zomato |  |  <img src="../icons/zomato.svg" alt="zomato" width="50"> |
+| zomato | <img src="../icons/zomato.png" alt="zomato" width="50"> |  <img src="../icons/zomato.svg" alt="zomato" width="50"> |
 | zoneminder | <img src="../icons/zoneminder.png" alt="zoneminder" width="50"> |  <img src="../icons/zoneminder.svg" alt="zoneminder" width="50"> |
 | zoom | <img src="../icons/zoom.png" alt="zoom" width="50"> |  <img src="../icons/zoom.svg" alt="zoom" width="50"> |
 | zoom-logo | <img src="../icons/zoom-logo.png" alt="zoom-logo" width="50"> |  <img src="../icons/zoom-logo.svg" alt="zoom-logo" width="50"> |

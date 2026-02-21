@@ -4,9 +4,9 @@
 
 # Gallery: X
 
-### PNGs (12 Icons)
+### PNGs (24 Icons)
 
-<img src="../icons/x-light.png" alt="x-light" height="50"> <img src="../icons/x.png" alt="x" height="50"> <img src="../icons/xbackbone.png" alt="xbackbone" height="50"> <img src="../icons/xbrowsersync.png" alt="xbrowsersync" height="50"> <img src="../icons/xcp-ng.png" alt="xcp-ng" height="50"> <img src="../icons/xen-orchestra.png" alt="xen-orchestra" height="50"> <img src="../icons/xfinity-logo.png" alt="xfinity-logo" height="50"> <img src="../icons/xigmanas.png" alt="xigmanas" height="50"> <img src="../icons/xmr.png" alt="xmr" height="50"> <img src="../icons/xmrig.png" alt="xmrig" height="50"> <img src="../icons/xteve.png" alt="xteve" height="50"> <img src="../icons/xwiki.png" alt="xwiki" height="50">
+<img src="../icons/x-light.png" alt="x-light" height="50"> <img src="../icons/x.png" alt="x" height="50"> <img src="../icons/xbackbone.png" alt="xbackbone" height="50"> <img src="../icons/xbrowsersync.png" alt="xbrowsersync" height="50"> <img src="../icons/xcp-ng.png" alt="xcp-ng" height="50"> <img src="../icons/xda-developers.png" alt="xda-developers" height="50"> <img src="../icons/xen-orchestra.png" alt="xen-orchestra" height="50"> <img src="../icons/xender.png" alt="xender" height="50"> <img src="../icons/xenoamp-music-player.png" alt="xenoamp-music-player" height="50"> <img src="../icons/xfce.png" alt="xfce" height="50"> <img src="../icons/xfinity-logo.png" alt="xfinity-logo" height="50"> <img src="../icons/xiaomi-wear.png" alt="xiaomi-wear" height="50"> <img src="../icons/xigmanas.png" alt="xigmanas" height="50"> <img src="../icons/ximalaya-fm.png" alt="ximalaya-fm" height="50"> <img src="../icons/xmanager-spotify.png" alt="xmanager-spotify" height="50"> <img src="../icons/xml.png" alt="xml" height="50"> <img src="../icons/xmr.png" alt="xmr" height="50"> <img src="../icons/xmrig.png" alt="xmrig" height="50"> <img src="../icons/xnconvert.png" alt="xnconvert" height="50"> <img src="../icons/xnretro.png" alt="xnretro" height="50"> <img src="../icons/xnsketch.png" alt="xnsketch" height="50"> <img src="../icons/xplay-music-player.png" alt="xplay-music-player" height="50"> <img src="../icons/xteve.png" alt="xteve" height="50"> <img src="../icons/xwiki.png" alt="xwiki" height="50">
 
 ### SVGs (19 Icons)
 

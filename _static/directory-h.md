@@ -40,6 +40,7 @@
 | helium-token | <img src="../icons/helium-token.png" alt="helium-token" width="50"> |  <img src="../icons/helium-token.svg" alt="helium-token" width="50"> |
 | helm | <img src="../icons/helm.png" alt="helm" width="50"> |  <img src="../icons/helm.svg" alt="helm" width="50"> |
 | helo-babe | <img src="../icons/helo-babe.png" alt="helo-babe" width="50"> |  <img src="../icons/helo-babe.svg" alt="helo-babe" width="50"> |
+| help | <img src="../icons/help.png" alt="help" width="50"> |   |
 | helper-scripts | <img src="../icons/helper-scripts.png" alt="helper-scripts" width="50"> |   |
 | hepsiburada | <img src="../icons/hepsiburada.png" alt="hepsiburada" width="50"> |  <img src="../icons/hepsiburada.svg" alt="hepsiburada" width="50"> |
 | here-ar | <img src="../icons/here-ar.png" alt="here-ar" width="50"> |  <img src="../icons/here-ar.svg" alt="here-ar" width="50"> |

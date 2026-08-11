@@ -6,7 +6,7 @@ The **largest collection** of icons for dashboards like:
 - [Homarr](https://homarr.dev/)
 - [Dashy](https://dashy.to/)
 
-Includes **3590 icons** and growing.
+Includes **3591 icons** and growing.
 
 
 ## ✨ Browse the Gallery
